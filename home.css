@@ -231,6 +231,9 @@ form{
 	.text{
 		margin-top: -20%;
 	}
+	.email{
+		margin-top: -10%;
+	}
 	.textarea{
 		margin-left: 9%;
 	}
@@ -254,7 +257,7 @@ form{
 		margin-top: -30%;
 	}
 	.button{
-		margin-top: -25%;
+		margin-top: -35%;
 	}
 	form{
 		margin-top: -20%;
