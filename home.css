@@ -18,7 +18,9 @@ html{
 .normal {
 	filter: invert(0%);
 }
-
+.button{
+	margin-top: ;
+}
 .inverted {
 	filter: invert(100%);
 }
@@ -243,6 +245,9 @@ textarea{
 	}
 	.imgscroll{
 		margin-top: -30%;
+	}
+	.button{
+		margin-top: -10%;
 	}
 }
 a:hover{
