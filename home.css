@@ -110,6 +110,7 @@ body{
 }
 #c{
 	margin-left: 13%;
+	margin-top: ;
 }
 #cpp,#java{
 	margin-left: 5%;
@@ -199,11 +200,11 @@ textarea{
 	}
 	#c,#cpp,#java{
 		display: block;
-		width: 70%;
+		width: 50%;
 		margin-left: 15%;
 	}
 	#c{
-		margin-top: -35%;
+		margin-top: -40%;
 	}
 	.cutegif{
 		margin-left: 5%;
