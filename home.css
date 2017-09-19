@@ -41,6 +41,7 @@ body{
 }
 /*Animating home section*/
 #section0 h1{
+	margin-top: ;
 	transform: translateY(-1000px);
 	opacity: 1;
 	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),opacity .8s ease-in-out;
@@ -182,6 +183,9 @@ textarea{
 	}
 }
 @media(max-width: 762px){
+	#section0 h1{
+		margin-top: -25%;
+	}
 	#ten{
 		display: block;
 		width:80%;
