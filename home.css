@@ -158,6 +158,9 @@ textarea{
 .imgscroll{
 	margin-top: ;
 }
+form{
+	margin-top: ;
+}
 @media(max-width: 1200px){
 	#ten{
 		width: 30%;
@@ -248,6 +251,9 @@ textarea{
 	}
 	.button{
 		margin-top: -10%;
+	}
+	form{
+		margin-top: -20%;
 	}
 }
 a:hover{
