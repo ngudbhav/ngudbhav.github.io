@@ -151,6 +151,9 @@ textarea{
 .sql{
 	margin-top: ;
 }
+.imgscroll{
+	margin-top: ;
+}
 @media(max-width: 1200px){
 	#ten{
 		width: 30%;
@@ -231,6 +234,9 @@ textarea{
 	.animate,.x{
 		width: 20%;
 		height: 40px;
+	}
+	.imgscroll{
+		margin-top: 5%;
 	}
 }
 a:hover{
