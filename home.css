@@ -219,14 +219,14 @@ textarea{
 		display: none;
 	}
 	.text,.email,.textarea{
-		width: 40%;
+		width: 80%;
 		margin-left: 4%;
 	}
 	.textarea{
 		margin-left: 9%;
 	}
 	textarea{
-		width: 50%;
+		width: 80%;
 	}
 	.copyright{
 		font-size: 16px;
