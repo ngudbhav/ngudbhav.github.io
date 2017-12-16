@@ -10,22 +10,24 @@
 					<link rel="stylesheet" type="text/css" href="input.css">
 					<link rel="stylesheet" type="text/css" href="home.css">
 					<!--jQuery library--> 
-					<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-					<script src = "js/metro.js"></script>
+<script
+			  src="https://code.jquery.com/jquery-3.2.1.min.js"
+			  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+			  crossorigin="anonymous"></script>					
 					<script src = "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.js"></script>
 					 <!--Latest compiled JavaScript-->
 					<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 					<script>
 						$(document).ready(function(){
 							$('[data-toggle="tooltip"]').tooltip();   
-							$("#Carouselone").carousel();
-							$("#Carouseltwo").carousel();
-							$("#Carouselthree").carousel();
-							$("#Carouselfour").carousel();
 							$('#fullpage').fullpage({
 							});
 						});
+						function onSubmit(token) {
+         document.getElementById("mail").submit();
+       }
 					</script>
+					<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 
 
@@ -154,7 +156,7 @@
 
 
 <div class = "section" id = "section4" style = "background-color: rgb(234,58,58);font-size: 2.4rem;"><br>
-<form style = "background-color: white;margin-top: -1.8%;" method="GET" action="http://ngudbhav.herokuapp.com/process_get">
+<form style = "background-color: white;margin-top: -1.8%;" method="GET" action="http://localhost:5000/process_get" id="mail">
 <div class="input-control modern text iconic">
     <input type="text" required style="width: inherit;" name = "name" placeholder="Your Name">
     
@@ -167,7 +169,7 @@
     <textarea placeholder="Input your message" style = "resize: none;" required" name="bodymsg"></textarea>
 </div><br><br>
 <div style = "margin-left: 16.2%;">
-<button class="button btn btn-danger">Submit</button>
+<button class="button btn btn-danger g-recaptcha" data-sitekey="6LdpSD0UAAAAACRkDPqngQMQJ96gB5Unzf2YIx9R" data-callback='onSubmit'>Submit</button>
 </div>
 </form><center><div class = "copyright" style = "background-color: black;color:white;"><label>Created, Developed and now Maintained by <a href = "https://www.facebook.com/ngudbhav" target = "_blank">Udbhav Gambhir (@NGUdbhav)</a></label></div>
 </div>

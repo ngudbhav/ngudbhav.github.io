@@ -14,6 +14,7 @@ app.get('/process_get', function (req, res) {
 		email = req.query.email;
 		bodymsg = req.query.bodymsg;
 	console.log(bodymsg);
+    res.redirect('sent.html');
 	// Create the transporter with the required configuration for Outlook
 // change the user and pass !
 var transporter = nodemailer.createTransport({
