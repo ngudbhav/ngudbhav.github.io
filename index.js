@@ -1,4 +1,3 @@
-
 var serve = require('express');
 var path = require('path');
 var app = serve();

@@ -1,0 +1,34 @@
+{
+  "name": "ngudbhav.github.io",
+  "version": "1.0.0",
+  "description": "My Resume Website",
+  "engines": {
+    "node": "6.11.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemailer": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngudbhav/ngudbhav.github.io.git"
+  },
+  "keywords": [
+    "Resume",
+    "Website"
+  ],
+  "author": "Udbhav Gambhir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngudbhav/ngudbhav.github.io/issues"
+  },
+  "homepage": "https://github.com/ngudbhav/ngudbhav.github.io#readme"
+}
