@@ -7,16 +7,15 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express": "^4.15.4",
-    "nodemailer": "^4.1.0"
+    "express-https-redirect": "^1.0.0",
+    "nodemailer": "^4.1.0",
+    "openssl": "^1.1.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ngudbhav/ngudbhav.github.io.git"

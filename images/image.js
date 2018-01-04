@@ -1,8 +1,8 @@
 var j = require("jimp");
-j.read("g.png", function(err,lenna){
+j.read("heroku.png", function(err,lenna){
 	console.log("executing");
 	if(err) throw err;
-	lenna.resize(260,260)
-		.write("g.png");
+	lenna.resize(40,40)//128x156
+		.write("heroku.png");
 		console.log("done");
 });
