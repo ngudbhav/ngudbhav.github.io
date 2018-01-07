@@ -38,6 +38,9 @@
 								anchors: ['intro','schooling','github','social','contact'],
 								menu: '#menu'
 							});
+							$(".loader").fadeOut('slow', function() {
+								$("#fullbody").fadeIn('slow');
+							});
 						});
 						function onSubmit(token) {
          					document.getElementById("mail").submit();
@@ -64,11 +67,20 @@
 
 
 <body vlink = "white" class = "homepage" id = "bootstrap-override" style="background-color: rgb(40,40,40);">
+<div class="row loader" style="height: 100%;">
+	<div class="col-sm-12" align="center" style="top: 30%;color: white;">
+		<img src="images/loader.gif" width="20%"><br>
+		<h1>
+			Now Loading!
+		</h1>
+		<h1>
+			Firing up graphics!
+		</h1>
+	</div>
+</div>
 
+<div class = "normal" id = "fullbody" style="display: none;">
 
-
-
-<div class = "normal" id = "fullbody">
 <!-- <div style="display: flex;justify-content: flex-end;width: 98%;"> -->
 	<span class="glyphicon glyphicon-th-list" id="list" style="color: white;font-size: 40px;position: fixed;z-index: 20;align-self: flex-end;right: 2%;top: 1%;"></span>
 <!-- </div>

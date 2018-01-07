@@ -1,8 +1,8 @@
 var j = require("jimp");
-j.read("heroku.png", function(err,lenna){
+j.read("favicon.png", function(err,lenna){
 	console.log("executing");
 	if(err) throw err;
-	lenna.resize(40,40)//128x156
-		.write("heroku.png");
+	lenna.resize(200,200)//154x130
+		.write("favicon.png");
 		console.log("done");
 });

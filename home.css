@@ -15,6 +15,9 @@ html{
 a:hover{
 	text-decoration: none;
 }
+.loader{
+	
+}
 /*TextBoxes Animation*/
 input, textarea{
   display: block;
