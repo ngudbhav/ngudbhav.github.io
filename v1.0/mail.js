@@ -24,15 +24,15 @@ var transporter = nodemailer.createTransport({
        ciphers:'SSLv3'
     },
     auth: {
-        user: 'ngudbhavtest@outlook.com',
-        pass: 'NGUdbhav'
+        user: "----Sender's Address----",
+        pass: "----Sender's Password----"
     }
 });
 
 // setup e-mail data, even with unicode symbols
 var mailOptions = {
-    from: 'ngudbhavtest@outlook.com', // sender address (who sends)
-    to: 'ngudbhav05@gmail.com', // list of receivers (who receives)
+    from: "----Sender's Address----", // sender address (who sends)
+    to: "-----Reciever's address-----", // list of receivers (who receives)
     subject: 'Feedback my wesbite', // Subject line
     text: 'Hello '+name+ ' '+ bodymsg + ' by '+email // plaintext body
 };
@@ -51,16 +51,3 @@ var server = app.listen(8000, function(){
 	var port = server.address().port;
 	console.log("running");
 })
-/*var http = require('http');
-var fs = require('fs');
-
-http.createServer(function(req, res){
-	fs.readFile('bio.html',function (err, data){
-		res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
-		res.write(data);
-		res.end();
-	});
-}).listen(8000);*/
-/*app.get('/bio.html', function (req, res) {
-   res.sendFile( __dirname + "/" + "bio.html" );
-})*/
