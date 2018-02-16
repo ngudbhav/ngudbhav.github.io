@@ -26,6 +26,14 @@ app.use('/', httpsRedirect());
 app.use(serve.static('public'));
 app.use('', serve.static(path.join(__dirname + '')));
 app.set('port', (process.env.PORT || 443));
+app.all(/.*/, function(req, res, next) {
+  var host = req.header("host");
+  if (host.match(/^www\..*/i)) {
+    next();
+  } else {
+    res.redirect(301, "http://www." + host);
+  }
+});
 app.get('/process_get', function (req, res) {
     // Prepare output in JSON format
         name = req.query.name;
