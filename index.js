@@ -26,7 +26,19 @@ var nodemailer = require('nodemailer');
 var bodymsg;
 app.use(serve.static('public'));
 app.use('', serve.static(path.join(__dirname + '')));
+<<<<<<< HEAD
 app.set('port', (process.env.PORT || 5000));
+=======
+app.set('port', (process.env.PORT || 443));
+app.all(/.*/, function(req, res, next) {
+  var host = req.header("host");
+  if (host.match(/^www\..*/i)) {
+    next();
+  } else {
+    res.redirect(301, "http://www." + host);
+  }
+});
+>>>>>>> 826f76d4b31d7b37f9763f172565541c5e225510
 app.get('/process_get', function (req, res) {
 	// Prepare output in JSON format
 		name = req.query.name;
@@ -73,4 +85,8 @@ var server = (app).listen(app.get('port'), function(){
 	console.log("running\n");
     console.log("host working"+host+"\n");
     console.log("port working on" +port);
+<<<<<<< HEAD
 });
+=======
+})
+>>>>>>> 826f76d4b31d7b37f9763f172565541c5e225510
