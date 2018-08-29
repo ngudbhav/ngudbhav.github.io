@@ -130,10 +130,10 @@
 	-ms-transition-delay: 0.2s;
 }
 #section1 #computing #programming>li{
-	transform: translateX(-1000px);
-	-webkit-transform: translateX(-1000px);
-	-moz-transform: translateX(-1000px);
-	-ms-transform: translateX(-1000px);
+	transform: translateX(-400px);
+	-webkit-transform: translateX(-400px);
+	-moz-transform: translateX(-400px);
+	-ms-transform: translateX(-400px);
 	opacity: 0;
 	transition: transform 0.8s cubic-bezier(0.16, 0.68, 0.43, 0.99),opacity 0.8s ease-in-out;
 	-webkit-transition: -webkit-transform 0.8s cubic-bezier(0.16, 0.68, 0.43, 0.99),opacity 0.8s ease-in-out;
