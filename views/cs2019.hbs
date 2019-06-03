@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cybersrishti-2019</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="/images/cs2019/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/mdb.min.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/loading-bar.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/tingle.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/gallery.css">
+	<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<script src="/javascripts/tingle.js"></script>
+	<script src="/javascripts/loading-bar.js"></script>
+	<script src="/javascripts/particles.js"></script>
+	<link rel="stylesheet" type="text/css" href="/stylesheets/index.css">
+</head>
+<body>
+	<div class="preloader container-fluid" style="background-color: #252627;padding: 0;height: 100%;overflow-y:hidden;">
+		<center>
+			<div data-value="0" data-type="fill" data-img="/images/cs2019/cyber_srishti_logo_cut.svg" class="ldBar auto" style="width: 50%;height:50%;" id="logo"></div>
+		</center>
+	</div>
+	<div class="fullBody container-fluid" style="background-color: #252627;padding: 0;height: 100%;overflow-x:hidden;display:none;">
+		<div class="row" id="navMenuButton">
+			<div class="col-2" style="position:absolute;cursor:pointer;z-index:4;" onclick="toggleMenu();">
+				<center><div style="color:white;margin-top:5vh;">
+					<i class="fas fa-ellipsis-v fa-2x"></i>
+				</div></center>
+			</div>
+		</div>
+		<div class="row" style="height:100%;">
+			<div class="col-xl-1 animated slideInLeft" style="height:100%;position:fixed;z-index:3;" id="navMenu">
+				<nav class="navbar bg-dark" style="height:100%;">
+					<ul class="navbar-nav" style="width:100%;">
+						<center>
+							<li class="nav-item">
+								<a class="nav-link" href="#" onclick="home();">
+									<i class="fas fa-home fa-2x"></i>
+									<span class="animated fadeIn navItem">Home</span>
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#" onclick="about();">
+									<i class="fas fa-user fa-2x"></i>
+									<span class="animated fadeIn navItem">About</span>
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#" onclick="events();">
+									<i class="fas fa-calendar-week fa-2x"></i>
+									<span class="animated fadeIn navItem">Events</span>
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#" onclick="contact();">
+									<i class="fas fa-comment fa-2x"></i>
+									<span class="animated fadeIn navItem">Contact</span>
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="/download/android/">
+									<i class="fab fa-android fa-2x"></i>
+									<span class="animated fadeIn navItem">Install</span>
+								</a>
+							</li>
+						</center>
+					</ul>
+				</nav>
+			</div>
+			<div class="col-12" style="color:white;">
+				<div id="particles-js" style="position:fixed;width: 100%;height:100%;overflow:hidden;"></div>
+				<br>
+				<div class="home main-page animated fadeInLeft">
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<div class="row">
+								<div class="col-sm-5">
+									<center>
+										<img src="/images/cs2019/cyber.png" class="logoimg">	
+									</center>
+								</div>
+								<div class="col-sm-6 time">
+									<h1>Cybersrishti</h1>
+									<h4>Welcomes You</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<center><h4>Awesomeness beginning in:</h4></center>
+							<br>
+							<div class="row time">
+								<div class="col-sm-6">
+									<div id="dh">
+										<button type="button" class="btn btn-elegant btn-lg" id="d">Loading...</button>
+										<button type="button" class="btn btn-elegant btn-lg" id="h">Loading...</button>
+									</div>
+								</div>
+								<div class="col-sm-6">
+									<button type="button" class="btn btn-elegant btn-lg" id="m">Loading...</button>
+									<button type="button" class="btn btn-elegant btn-lg" id="s">Loading...</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-8 offset-2">
+							<div class="card mb-3">
+								<div class="row no-gutters">
+									<div class="col-md-6">
+										<img src="/images/cs2019/walia.jpg" class="card-img img-fluid" style="height:100%;">
+									</div>
+									<div class="col-md-6">
+										<div class="card-body elegant-color white-text rounded-bottom">
+											<h5 class="card-title"><center>Stand-up Comendy</center></h5>
+											<p class="card-text white-text" style="text-align:justify;text-justify:inter-word;">Techfest...<br>Technical events...<br>Non Technical Events...<br>But what about Fun? <br>And a dose of Stand-up Comedy?<br><br>This Cyber Srishti, we are making it big and bringing to you, someone who is bound to make you laugh your heart out.<br><br>Hailing from Chandigarh, this man is a pure punjabi breed &amp; can turn around everyone's heads. In 2017, he was the winner of Akshay Kumar's "The Great Indian Laughter Challenge Season 5".<br>He, with his blend of comedic symphony on our everyday life's funny situations and personal experiences will surely show you an another way to deal even with your unconditional circumstances. He is a man full of energy whose aura will create an atmosphere you'd not want to miss out.<br><br>Get ready to have that dose of fun which would definitely deviate you from that monotonous routine of college life.<br><br><br>Muskuraate raho JIIT...<br><br></p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-4 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<div class="row">
+										<div class="col-9">
+											<h4 class="card-title"><a>Faculty-Head</a></h4>
+										</div>
+									</div>
+									<p class="card-text white-text mb-4" style="font-family: 'Open Sans',sans-serif;text-align:justify;text-justify:inter-word;font-size: 14px;font-weight:300;">
+										Hello!<br>
+										We, the Faculty Heads, Cyber Srishti, on behalf of the entire team with immense proud announce that the Annual Technical fest of JIIT is going to be held on 20th and 21st of April, 2019.<br>We were delighted with the response of Cyber Srishti 2018.The huge response from the students from various colleges across NCR last year inspires us to bring you with a more grand version of this fest expecting to get more love.The team is putting its heart and soul in bringing up a better event every year.<br>The dedicated team of Cyber Srishti works day and night to make the event a successful one, bringing to you plethora of technical events along with literary and fun events, with some amazing cash prizes along with the certificates. <br>Also, to rejuvenate you we will have huge options for fun events. Feel free to browse and contact for further queries.
+										<br>Sincerely,<br>
+									Manish K Thakur, Tribhuwan K Tewari and Shamim Akhter<br>
+									Faculty-Head<br>
+									Cyber Srishti 2019
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 offset-sm-1 col-md-4 offset-md-0 col-10 offset-1">
+							<div class="card">
+								<div class="view overlay">
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<div class="row">
+										<div class="col-8">
+											<h4 class="card-title"><a>Director</a></h4>
+										</div>
+									</div>
+									<br>
+									<p class="card-text white-text mb-4" style="font-family: 'Open Sans',sans-serif;text-align:justify;text-justify:inter-word;font-size: 14px;font-weight:300;">
+										Greetings!<br> 
+										With immense pleasure and joy, I'm happy to announce the sixth edition of Cybersrishti and warm heartedly welcome you all to this grand two day technical festival of Jaypee Institute of Information Technology, Noida-62.<br>
+										Me along with my team are trying our level best to take this fest to new heights and are thus hoping a huge participation. For the same, I call upon all the young minds, full of talent to come and participate and thus enhance the value of this event.This fest aims at overall development of an individual by intermixing of technical and non technical events.<br>
+										Please browse through our website to gather information regarding the events to be held. In case of any queries, please do not hesitate to contact us.
+									<br>Sincerely,<br>
+									Atul Yashwant Singh<br>
+									Director<br>
+									Cyber Srishti 2019
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+				</div>
+				<div class="about main-page animated fadeInLeft h-100">
+					<div class="row">
+						<div class="col-11 offset-1">
+							<nav class="navbar navbar-expand-lg bg-dark navbar-dark scrolling navbar" id="aboutNav">
+								<a class="navbar-brand actives" href="#showabout">About</a>
+								<div class="collapse navbar-collapse" id="navbarSupportedContent">
+									<ul class="navbar-nav mr-auto"></ul>
+									<ul class="navbar-nav" style="margin-right: 3%;">
+										<li class="nav-item ">
+											<a class="nav-link" href="#sponsors">Sponsors</a>
+										</li>
+										<li class="nav-item ">
+											<a class="nav-link" href="#team">Our Team</a>
+										</li>
+										<li class="nav-item ">
+											<a class="nav-link" href="#locate">Locate Us</a>
+										</li>
+									</ul>
+								</div>
+							</nav>
+						</div>
+					</div>
+					{{!-- <div data-spy="scroll" data-target="#aboutNav" data-offset="0" class="container">
+					 --}}<div class="row">
+							<div class="col-11 offset-1">
+								<div id="showabout">
+									<br>
+									<div class="card" style="font-size: 14px;font-weight:300;">
+										<div class="view overlay">
+										</div>
+										<div class="card-body elegant-color white-text rounded-bottom">
+											<h4 class="card-title" style="text-align:center;"><a>About us!</a></h4>
+											<br>
+											<p class="card-text white-text mb-4" style="font-family: 'Open Sans',sans-serif;text-align:center;font-size: 14px;font-weight:300;">With the motto of stimulating technology, scientific thinking and innovation,<br>Jaypee Institute of Information Technology<br>presents the 6th edition of its annual technical festival- CYBER SRISHTI.<br> Hence, with an overwhelming student participation<br> and a reach of over 250 colleges,<br> Cyber Srishti has become one of the most established technical festival<br> organised among Delhi-NCR colleges.<br> Cyber Srishti thus endeavours to provide youth<br> with a platform to showcase their talents<br> and skills in cut-throat competitions,<br> displaying pioneering technology and research<br> from all over the country<br> and to interact with renowned personalities.
+											</p>
+										</div>
+									</div>
+								</div>
+								<br><br>
+								<div id="sponsors">
+									<div class="card" style="font-size:14px;font-weight:300;">
+										<div class="view overlay">
+										</div>
+										<div class="card-body elegant-color white-text rounded-bottom">
+											<h4 class="card-title" style="text-align:center;"><a>Sponsors</a>
+											</h4>
+											<br>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-3 code mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/jugnoo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left">
+													<img src="/images/cs2019/sponsor/collegedunia.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/carhp_Regular_logo.png" alt="thumbnail" class="rounded" style="height: 200px; width:200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/zoutons_logo.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+											<br><br>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-4 mt-xl-5 mt-5 col-12" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/FestUpdates.jpeg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-bottom">
+													<img src="/images/cs2019/sponsor/foodly_goodly_logo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Logo 1.jpg" alt="thumbnail" class="rounded" style="height: 200px; width:200px;">
+												</div>
+											</div>
+											<br>
+											<br>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-3 code mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/coding.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left">
+													<img src="/images/cs2019/sponsor/pizza.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/baskin.png" alt="thumbnail" class="rounded" style="height: 200px; width:200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/badaas.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<h4 class="card-title">Media Sponsors</h4>
+													</center>
+												</div>
+											</div>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/Media/IMG-20190321-WA0023.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;visibility:visible;">
+												</div>
+												<div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/IMG-20190321-WA0024.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/Media/Insight.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-bottom">
+													<img src="/images/cs2019/sponsor/Media/ATKT-eng.png" alt="thumbnail"  class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/KnowAFest.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/Media/Campus Bloggers.jpeg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left">
+													<img src="/images/cs2019/sponsor/Media/Du_Assistants.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/The Campus Media Logo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/IMG_1742.jpeg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+											<br>
+											<div class="row" style="text-align: center;">
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-left" >
+													<img src="/images/cs2019/sponsor/Media/LOGO.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/the-education-tree-logo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+												<div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+													<img src="/images/cs2019/sponsor/Media/dufest.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<br><br>
+						<div class="row">
+							<div class="col-11 offset-1">
+								<div id="team">
+									<div class="card" style="font-size: 14px;font-weight:300;">
+										<div class="view overlay">
+										</div>
+										<div class="card-body elegant-color white-text rounded-bottom" id="teamPics">
+											<h4 class="card-title" style="text-align:center;"><a>Team Members</a></h4>
+											<br>
+											<div class="row">
+												<div class="col-3">
+													<center>
+														<img src="/images/cs2019/team/mkt.jpg" alt="" class="img-fluid mpic" style="filter:grayscale(0%);">
+													</center>
+												</div>
+												<div class="col-3">
+													<center>
+														<img src="/images/cs2019/team/tkt.jpg" alt="" class="img-fluid mpic" style="filter:grayscale(0%);">
+													</center>
+												</div>
+												<div class="col-3">
+													<center>
+														<img src="/images/cs2019/team/sa.jpg" alt="" class="img-fluid mpic" style="filter:grayscale(0%);">
+													</center>
+												</div>
+												<div class="col-3">
+													<center>
+														<img src="/images/cs2019/team/am.jpg" alt="" class="img-fluid mpic" style="filter:grayscale(0%);">
+													</center>
+												</div>
+											</div>
+											<br><hr><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/1.jpg" alt="" class="img-fluid teamimg">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/2.jpg" alt="" class="img-fluid teamimg">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/11.jpg" alt="" class="img-fluid teamimg">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/3.jpg" alt="" class="img-fluid teamimg mb-3 mr-3">
+														<img src="/images/cs2019/team/4.jpg" alt="" class="img-fluid teamimg mb-3">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/5.jpg" alt="" class="img-fluid teamimg mb-3 mr-3">
+														<img src="/images/cs2019/team/6.jpg" alt="" class="img-fluid teamimg mb-3">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/7.jpg" alt="" class="img-fluid teamimg mb-3 mr-3">
+														<img src="/images/cs2019/team/8.jpg" alt="" class="img-fluid teamimg mb-3">
+													</center>
+												</div>
+											</div>
+											<br><br>
+											<div class="row">
+												<div class="col-12">
+													<center>
+														<img src="/images/cs2019/team/9.jpg" alt="" class="img-fluid teamimg mb-3 mr-3">
+														<img src="/images/cs2019/team/10.jpg" alt="" class="img-fluid teamimg mb-3">
+													</center>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<br><br>
+							</div>
+						</div>
+						<div class="row" style="height:25%;">
+							<div class="col-11 offset-1 h-100">
+								<div id="locate" style="height:100%;" class="container-fluid">
+									<br><br>
+								</div>
+							</div>
+						</div>
+					<br><br>
+				</div>
+				<div class="gallery main-page animated fadeInLeft">
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<center>
+								<h1>Gallery</h1>
+							</center>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-sm-2 offset-sm-3 col-3">
+							<button class="btn btn-deep-orange" type="button" data-toggle="collapse" data-target="#gal2018" aria-expanded="false" aria-controls="gal2018">
+								2018
+							</button>
+						</div>
+						<div class="col-sm-2 col-3">
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample"
+							aria-expanded="false" aria-controls="collapseExample">
+								2017
+							</button>
+						</div>
+						<div class="col-sm-2 col-3">
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample"
+							aria-expanded="false" aria-controls="collapseExample">
+								2016
+							</button>
+						</div>
+						<div class="col-sm-2 col-3">
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample"
+							aria-expanded="false" aria-controls="collapseExample">
+								2015	
+							</button>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-9 offset-2">
+							<div class="collapse" id="gal2018">
+								<div class="mt-3">
+									<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" data-pause="false" data-keyboard="true">
+										<div class="carousel-inner">
+											<div class="carousel-item active">
+												<img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg" alt="First slide">
+											</div>
+											<div class="carousel-item">
+												<img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(16).jpg" alt="Second slide">
+											</div>
+											<div class="carousel-item">
+												<img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(17).jpg" alt="Third slide">
+											</div>
+										</div>
+										<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+											<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+											<span class="sr-only">Previous</span>
+										</a>
+										<a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+											<span class="carousel-control-next-icon" aria-hidden="true"></span>
+											<span class="sr-only">Next</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+				</div>
+				<div class="events main-page animated fadeInLeft">
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<center>
+								<h1>Events</h1>
+							</center>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/parola.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title"> "Reflect"</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date - 21st April 2019<br>Time – 10 A.M - 3 P.M.<br>Venue - LT4, JIIT</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('reflect');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/dsc.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Website Designing Competiton</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April'19 (DAY 2)<br>Venue: JBS AUDITORIUM<br>Time: 10am to 3pm</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('dsc');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/ucr.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Project Exhibition (Robotics) </h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April 2019<br>Time: 09AM onwards<br>Venue: Outside LT4, JIIT</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('ucr');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/tensor.png">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Tensor</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April 2019<br>Time: 10AM - 3PM<br>Venue: G-12, JIIT</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('tensor');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/game.jpg">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Game-A-Thon</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April 2019<br>Time: 10AM to 3PM<br>Venue: AUDI, JIIT</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('gamethon');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/gd2.jpg">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Game Exhibition</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April 2019<br>Time: 12AM to 5PM<br>Venue: Auditorium Foyer, JIIT</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('gd2');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/hydro.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Hydrophilic 4.0</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th - 21st April , 2019<br>Time : 11:00 AM onwards<br>Venue : Day 1 - LT-5<br>Day 2 - Kit Kat Benches</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('hydro');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/jpeg.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Photo Exhibition</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th - 21st April , 2019<br>Time : 09:00 am onwards<br>Venue : Outside AUDI</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('jpeg');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/sherlock.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Who's The Next Sherlock?</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date : 21st April , 2019<br>Time : 11:00am - 2pm<br>Venue : LT-5</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('sherlock');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/masterpiece.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Make your Masterpiece</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April ,2019<br>Time : 02:00 pm onwards<br>Venue : LT-4</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('master');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/fifa.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">FIFA - 19</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April ,2019<br>Time : 01:00pm - 05:00pm<br>Venue : G12, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('fifa');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/execute.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Execute 19.1</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April ,2019<br>Time : 9:00 am - 01:30pm<br>Venue : JBS Auditorium, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('exe');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/ctf.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Capture the flag</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April ,2019<br>Time : 10:00 am - 03:00 pm<br>Venue : Auditorium</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('ctf');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/startup.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">STARTUP PITCH DESK COMPETITION</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April ,2019<br>Time : 10:00 am - 03:00 pm<br>Venue : G11, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('startup');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/project.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Project Exhibition</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April, 2019<br>Time : 09:00 am - 05:00pm<br>Venue : Outside LT5, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('project');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/paper.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Paper Presentation</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20th April ,2019<br>Time : 12:00AM - 5PM onwards<br>Venue : G11</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('paper');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/treasure.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">The Treasure Hunt</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April ,2019<br>Time : 01:00 pm - 03:00 pm<br>Venue : JBS ATRIUM, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('treasure');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/jpl.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">JPL</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20-21 April ,2019<br>Time : 02:00 pm - 04:00pm<br>Venue : LT5, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('jpl');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1 col-md-3 offset-md-2 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/circuitrix.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Circuitrix</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 20-21 April ,2019<br>Time : 09:00 am - 02:00am (Day 1), 10:00 am - 03:00 pm (Day 2)<br>Venue : LT4 (Day 1), G13 (Day 2)</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('circuitrix');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-10 col-md-3 offset-sm-1 offset-md-0 col-10 offset-1 mb-3">
+							<div class="card">
+								<div class="view overlay">
+									<img class="card-img-top" src="/images/cs2019/events/jil.jpg" alt="Card image cap">
+									<a>
+										<div class="mask rgba-white-slight"></div>
+									</a>
+								</div>
+								<div class="card-body elegant-color white-text rounded-bottom">
+									<h4 class="card-title">Jaypee Innovation League</h4>
+									<hr class="hr-light">
+									<p class="card-text white-text mb-4">Date: 21st April ,2019<br>Time : 10:00 - 03:00PM<br>Venue : G10, JIIT-62</p>
+									<a href="#" class="white-text d-flex justify-content-end" onclick="showDetails('jil');"><h5>Read more <i class="fas fa-angle-double-right"></i></h5></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+				</div>
+				<div class="contact main-page animated fadeInLeft">
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<center>
+								<h1>
+									Contact us!
+								</h1>
+							</center>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<div class="container">
+								<div class="row">
+									<div class="col-8 offset-2">
+										<div class="card">
+											<div class="card-body elegant-color white-text rounded-bottom">
+												<form method="POST" action="/contact/">
+													<div class="row">
+														<div class="col-sm-6 col-12 mb-3">
+															<div class="md-form form-lg">
+																<input type="text" id="kname" class="form-control form-control-lg" name="kname">
+																<label for="kname" style="color:white;">Your Name?</label>
+															</div>
+														</div>
+														<div class="col-sm-6 col-12 mb-3">
+															<div class="md-form form-lg">
+																<input type="text" id="kemail" class="form-control form-control-lg" name="kemail">
+																<label for="kemail" style="color:white;">Your Email?</label>
+															</div>
+														</div>
+													</div>
+													<div class="row">
+														<div class="col-12">
+															<div class="md-form">
+																<textarea id="kmsg" class="form-control md-textarea" length="2000" rows="1" name="kmsg"></textarea>
+																<label for="kmsg" style="color:white;">Your Message?</label>
+															</div>
+														</div>
+													</div>
+													<br>
+													<button type="submit" class="btn btn-elegant">Submit<i class="fas fa-angle-double-right"></i></button>
+												</form>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br><br>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+		var i = 0;
+		var bars = new ldBar("#logo");
+		var f = setInterval(function(){
+			if(i<99){
+				bars.set(i+=10);
+			}
+			else{
+				loadComplete();
+				clearInterval(f);
+			}
+		}, 10);
+	</script>
+	<script src="/javascripts/jquery-3.3.1.min.js"></script>
+	<script src="/javascripts/popper.min.js"></script>
+	<script src="/javascripts/bootstrap.min.js"></script>
+	<script src="/javascripts/mdb.min.js"></script>
+	<script>
+	var activeWindow = '.home';
+		function toggleMenu(){
+			if($('#navMenuButton').css('display') == 'block'){
+				if($('#navMenu').css('display') == 'block'){
+					$('#navMenu').css('display', 'none');
+					$(activeWindow).show();
+				}
+				else if($('#navMenu').css('display') == 'none'){
+					$('#navMenu').css('display', 'block');
+					$(".main-page").hide();
+				}
+			}
+		}
+	</script>
+	<script>
+		function initMap(){
+			var map = new google.maps.Map(document.getElementById('locate'), {center: {lat: 28.630044, lng: 77.372082},
+				zoom: 18,
+				fullscreenControl: false,
+				gestureHandling: 'cooperative',
+				styles: [
+					{elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+					{elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
+					{elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
+					{
+						featureType: 'administrative.locality',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#d59563'}]
+					},
+					{
+						featureType: 'poi',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#d59563'}]
+					},
+					{
+						featureType: 'poi.park',
+						elementType: 'geometry',
+						stylers: [{color: '#263c3f'}]
+					},
+					{
+						featureType: 'poi.park',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#6b9a76'}]
+					},
+					{
+						featureType: 'road',
+						elementType: 'geometry',
+						stylers: [{color: '#38414e'}]
+					},
+					{
+						featureType: 'road',
+						elementType: 'geometry.stroke',
+						stylers: [{color: '#212a37'}]
+					},
+					{
+						featureType: 'road',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#9ca5b3'}]
+					},
+					{
+						featureType: 'road.highway',
+						elementType: 'geometry',
+						stylers: [{color: '#746855'}]
+					},
+					{
+						featureType: 'road.highway',
+						elementType: 'geometry.stroke',
+						stylers: [{color: '#1f2835'}]
+					},
+					{
+						featureType: 'road.highway',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#f3d19c'}]
+					},
+					{
+						featureType: 'transit',
+						elementType: 'geometry',
+						stylers: [{color: '#2f3948'}]
+					},
+					{
+						featureType: 'transit.station',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#d59563'}]
+					},
+					{
+						featureType: 'water',
+						elementType: 'geometry',
+						stylers: [{color: '#17263c'}]
+					},
+					{
+						featureType: 'water',
+						elementType: 'labels.text.fill',
+						stylers: [{color: '#515c6d'}]
+					},
+					{
+						featureType: 'water',
+						elementType: 'labels.text.stroke',
+						stylers: [{color: '#17263c'}]
+					}
+				]
+			});
+			var marker = new google.maps.Marker({position: {lat: 28.630044, lng: 77.372082}, map: map});
+		}
+		$(".nav-item").hover(function() {
+			var s = $(this).children('a').children('span');
+			s.show();
+		}, function() {
+			var s = $(this).children('a').children('span');
+			s.hide();
+		});
+		function loadComplete(){
+			$(".preloader").addClass('animated fadeOut');
+			$(".preloader").css('display', 'none');
+			$(".fullBody").css('display', 'block');
+			$(".fullBody").addClass('animated fadeIn');
+			particlesJS.load('particles-js', '/javascripts/particles.json', function(){
+				}
+			);
+			$(".main-page").hide();
+			$(".home").show();
+		}
+	</script>
+	<script>
+		var modal = new tingle.modal({
+			footer: false,
+			stickyFooter: false,
+			closeMethods: ['button', 'escape', 'overlay'],
+			beforeClose: function() {
+				return true;
+			}
+		});
+		modal.setContent('<br><h1>Coming Soon!</h1><br><h5 class="mobile">Press esc to buzz this off your sight!</h5>');
+		var modal1 = new tingle.modal({
+			footer:false,
+			stickyFooter:false,
+			closeMethods:['button', 'escape', 'overlay'],
+			beforeClose: function() {
+				return true;
+			}
+		});
+		var title = '';
+		var desc = '';
+		function showDetails(e){
+			if(e == 'ucr'){
+				title="Project Exhibition";
+				desc='"The harder you work for something, the greater you\'ll feel when you finally achieve it."<br>The μCR hub is going to organise project exhibition in the Cybersrishti-2019. It is a chance for all of you to showcase your talent and technical skills you have gained so far and win exciting cash prizes while you are at it. So come forward with all the zeal and enthusiasm to participate in the exhibition.<br><br>To register for the event use the following link:<br><a href="https://forms.gle/w4cDv7ZQQBTAopfG6" target="_blank">Register</a>'
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'dsc'){
+				title="Website Designing Competition";
+				desc = '"People don\'t care what you say, they care what you build"- Mark Zukerberg<br>Website Designing Competiton will be a test of your web development skills. So this CyberSrishti, participate in \'Web Designing Competition\' and bring out the inner developer and that creative mind in you and win amazing cash prizes upto 15K.<br><br>To register for the event use the following link:<br><a href="https://forms.gle/c4CGXzrQ3aPFYmQa8" target="_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'reflect'){
+				title='"Reflect" - The Socio-Technical Turncoat Debate.';
+				desc = '"7 billion people, 14 billion faces."<br>Have you ever played the game of duality? This time at Cyber Srishti 2019, We invite you all to "Reflect" - The Socio-Technical Turncoat Debate.<br>The motion of the turncoat will be announced 48 hours prior to the event. (Theme - “IT and Sustainability” )<br><br>To register for the event use the following link:<br><a href="https://forms.gle/bonTaMSPQZk1Ev956" target="_blank">Register</a><br><br>Rules:<br><br><ul><li>This event will consist of Individual Participationonly.</li><li>The event will be bilingual (Hindi and English). </li><li>Speaking Time for each speaker will be 4 minutes (1.5+1.5+1)</li><li>Only two participants per college are allowed.</li><li>The speakers will start speaking for the motion and will change their stance at the end of each tap. </li><li>Marks will be deducted for exceeding the time limit.</li><li>The slots will be provided on first come, first served basis.</li><li>Decision of the judges would be final and binding.</li><li>Everyone must carry their college ID cards.</li></ul><br><br>Come and participate to grab cash prizes worth Rs 15,000';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'tensor'){
+				title='"Tensor" - A Scientific Poster Presentation Competition';
+				desc = '"The only sure weapon against bad ideas is better ideas." <br>- Alfred Whitney Griswold <br><br>Get ready to do some research and put together your best ideas as we bring you <strong>Tensor - A Scientific Poster Presentation Competition</strong> embodying the theme IT for Sustainability. <br><br>To stand out, your poster should convey your key findings and be visually appealing to grab the attention of the jury in any of the following topics: <br><ul><li>Fibre Technology and Optics</li><li>Quantum Computing</li><li>Energy Storage</li><li>IoT and Wireless Communication</li></ul> <br><br> Basic Guidelines:<br><ul><li>The poster can be hand made or digital</li><li>Each team can have at most two participants</li><li>Poster Size: 36-inch tall x 48 inches wide</li><li>Registration on first come first basis. Limited slots.</li></ul> <br><br> Register here and get a chance to win cash prizes worth Rs10000: <a href = "https://forms.gle/VjL1cVyf4aZtRZcs8" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'gd2'){
+				title='Game Exhibition';
+				desc = 'We are proud to announce that the talented game developers have put together a variety of games varying in genre and platforms for all of you to enjoy at The Game Exhibition!<br> What\'s more? There\'s still time and you yourself can finish up a project and submit it to be judged and win cash prizes worth Rs. 5000.<br>Even if you are not into game development, do drop by at to try out games made by your friends! <br><br>Register here: <a href = "https://forms.gle/DNCedoxhpnGakUQp8" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'gamethon'){
+				title='Game-A-Thon';
+				desc = 'Prepare your assets and brush up your game developement skills as we bring to you "Game-A-Thon", a game development hackathon where the only limit is your imagination, and well, the topic related to which you have to make the game! <br><br>The rules are as follows: <br><ul><li>The participants will be given 7 hours to complete their game from start to finish.</li><li>The final build/executable of the game should either be an .exe or .apk</li><li>Web games are not allowed</li><li>AR/VR games are allowed given that the participant brings the required platform along.</li><li>Any game engine/tool is allowed.</li><li>The judging criteria will be aesthetics, game flow, simplicity and understanding and innovation.</li><li>Decision of the judges would be final and binding.</li><li>Everyone must carry their college ID cards.</li><li>Team size allowed: 2 to 4</li> <br><br>NOTE: Theme will be provided on the spot.<br>And will be related to Cyber Srishti 2019\'s theme- IT FOR SUSTAINABILITY<br><br>Register Now: <a href = " https://forms.gle/SL2S9yEMdmxd2ydS8" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'hydro'){
+				title='Hydrophilic 4.0';
+				desc='"One must be a sea to receive a polluted river stream of water without becoming impure." - Friedrich Nietzsche<br><br>Water Pollution has proved to be the worst of enemy by either making the rivers yearn for rescue or by depriving humans the drinking water for survival. So this year we present before you a technical event to test your scientific skills & the ability to utilize the resources to its fullest.<br><br>Hydrophilic 4.0 - "Go green & drink clean" will provide a platform to take the idea of conservation & sustainability to next level . An event to last two days will comprise of a quiz on pollution and model designing. <br><br>Points to be considered : <br><ol><li>Each team will comprise of atmost 2 participants.</li><li>All the necessary materials will be provided to the team .</li><li>The decision of the jury will be final.</li></ol><br><br>Grab this opportunity & stand a chance to win cash prizes worth Rs. 12,000.<br><br><a href = "https://docs.google.com/forms/d/113fY9t1VpUyla4dAyYS2K3w1P3Ez92gf_VJq8DRZFFY/edit?usp=drivesdk" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'jpeg'){
+				title='Photo Exhibition';
+				desc='"Technology can be our best friend, and technology can also be the biggest enemy of poverty"<br><br>This cybersrishti brings you, yet another opportunity to showcase your photography skills, at the photo gallery. Capture the realms of technology or poverty in a  frame, and stand a chance to win exciting prizes!!Fill in the form below, and submit your photos online before 18 April 2019 to get yourself featured at the gallery and showcase your skills in an event full of extravaganza!<br><br><a href = "http://j.mp/2OYOSCu" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'sherlock'){
+				title='Who\'s The Next Sherlock?';
+				desc='"Mystery abound where most we seek for answers" - Ray Bradbury <br><br>Is mystery your favourite genre ? <br>Has Sherlock Holmes been your all time favourite?<br>Ever wanted to be a part of crime scene investigation ?<br>So this year , Cyber Srishti gives you a rare opportunity to be a part of one of a kind event <br>"Who\'s the next Sherlock?" comprising of 3 distinct rounds stressing upon observation , interrogation , different quiz rounds and finally proving yourself as the next Sherlock !!<br><br>Points to be considered : <br><ol><li>Each team will comprise of atmost 3 participants.</li><li>Decision of the jury will be final. </li></ol><br><a href = "https://forms.gle/ccSqwxhgdQmeHFNm7" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'master'){
+				title='Make your Masterpiece';
+				desc='"Your soul is your paintbrush , the world your canvas & your life is no less than a masterpiece." - Matshona  Dhilwayo<br><br>If you have always dreamt of capturing the world around over your canvas and thought in the most innovative way , So here\'s the right platform waiting for you to showcase your talent through the event , "Make your Masterpiece! - Be the energy of the 3rd World !" will enthral the artist inside you and test model designing ability and creative skills for the successful implementation of your thought process through a two round event.<br><br>Points to be considered :<br><ol><li>Each team will comprise of atmost 2 participants.</li><li>The theme for the event will be announced on the spot for the Second Round .</li><li>Decision of the jury will be final.</li></ol><br><br><a href = "https://forms.gle/KLaJm71v9QbRXkQt6" target = "_blank">Register</a>'; 
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'fifa'){
+				title='FIFA - 19';
+				desc='"All the gamers of JIIT, get your controllers ready to fight it out and be the Ultimate FIFA-19 Champion of our college at CyberSrishti\'19"<br><br>Date - Saturday, 20th April 2019<br>Reporting Time - 10:00 am<br>Venue: G1, JIIT-62<br><br>RULES AND REGULATIONS<br><ul><li>This event will consist of Individual Participation only.</li><li>The participants are requested to bring along your own USB Controller/ Keyboard for the game.</li><li>Each Half time per game - 4 minutes </li><li>In case of a tie, the game will move towards Penalties.</li><li>The Fixtures will be decided by the organizing team once the registration is over.</li><li>Participants are requested to bring along your ID Cards.</li></ul><br><br>Come and Participate to win prizes up to 5K.<br><a href = "https://forms.gle/jhU122Vmho8bWwPE9" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'exe'){
+				title='Execute 19.1';
+				desc='Cyber Srishti 2019 presents EXECUTE , a battle of algorithms and programming skills.<br><br>"Execute " gives an opportunity to all coders and programming lovers to brandish their expertise by facing tough challenges in the form of computer programs, and win accolades by putting not only your programming, but also logical competencies to test!<br>So all the coders, tighten your seat belts a d get ready for the war of codes and win cash prizes worth Rs. 30k !<br><br><a href = "https://docs.google.com/forms/d/e/1FAIpQLSd49Vzb-qfi_npZXWPGUr3-TH2YziGEkL4f1HXw5OOvnYz1gA/viewform" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e=='ctf'){
+				title='Capture The Flag';
+				desc='Edward Snowden quoted - "A Hacker is the one who doubts."<br><br>Are you the one who doesn\'t take the realities of the world for granted and wants to rebuild & outsmart it ?<br>Do you get intimidated by watching Mr.Robot destroying Evil-Corp byjust a python script and Raspberry Pi ?<br><br>This Cyber Srishti, join us for a 6-hour Jeopardy type beginner-friendly CTF organized by the Open Source Developers Community and usher in a new bright future of hacking.<br><br><a href = "https://docs.google.com/forms/d/e/1FAIpQLSfcZ6eQffaiFDg1qFK5Q00H-VWjaU-Xj-j4-Ub9s9R0nEa7vg/viewform" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'startup'){
+				title='STARTUP PITCH DESK COMPETITION';
+				desc='“The best startups generally come from somebody needing to scratch an itch."--Michael armingtom<br><br>Future entrepreneurs and innovators get ready with your ideas because this time Cyber Srishti is providing you a chance to show up your skills and passion at the STARTUP PITCH DESK COMPETITION  on 21st April and stand a chance to win prizes worth 10k. <br><br><a href = "https://docs.google.com/forms/d/e/1FAIpQLScg0jooWeat2eCAuh_9ZDy6kvSBSBKkiidqZqnSGsOmyfEMjg/viewform?usp=sf_link" target = "_blank">Register</a><br><br>The rules and regulations for the Startup Pitch Deck are:<ol><li>The team needs to present an original pitch of an original idea for a startup venture.</li><li>A team can consist of one or more members.</li><li>The participants need to be present in G11 on time to avoid disqualification.</li><li>The pitch is to be presented with the aid of a Power Point presentation.</li><li>The maximum number of slides allowed for the presentation are 15.</li><li>The time limit for the presentation will be 10 minutes.</li><li>The participants might be asked questions by the judges at the end of the pitch.</li><li>The decision of the judges will be final and binding.</li><li>The project should be a tech based startup.</li></ol>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'project'){
+				title='Project Exhibition';
+				desc='To all those who have been working hard day and night for making some great and innovative projects, here\'s a chance for you to show case your work as Cyber Srishti 2019 brings you Project Exhibition for both hardware and software projects. We provide you a platform to unleash your potential by showcasing the innovativeness, hardwork and creativity through your amazing projects.<br><br>This is a great opportunity for every student to demonstrate their learning experience and a chance to win cash prizes worth Rs. 20k<br>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'paper'){
+				title='Paper Presentation';
+				desc='"Research is to see what everybody else has seen, and to think what nobody else has thought." -Albert Szent<br><br>Research is all about creating knowledge which leads to new and efficient solutions for the society. Do you have the passion to find the solutions of the unanswered questions? Do you have the curiosity to learn each and every aspect of the world? Are you reasonable enough to make a difference in people\'s perspective? <br>This year Cyber Srishti gives you a wonderful opportunity to showcase your analytical skills in "Paper Presentation" for the students of CSE, ECE and Biotechnology.<br>After all, the ultimate goal is not objectivity but the truth. So be a part of this knowledgeable session and stand a chance to win cash prizes worth 20k.<br><br>Rules and guidelines:<ol><li>Maximum number of participants in a Team is 2.</li><li>Abstract should not exceed 1 page and Paper should not exceed 15 pages.</li><li>Bring your college I-Card during the presentation.</li><li>Please bring your PowerPoint presentation on a pen-driv</li><li>Please Mail your abstract, paper and ppt to <a href="mailto:ieeesbjiit62@gmail.com">ieeesbjiit62@gmail.com</a> for CSE and ECE based papers and <a href="mailto:ribosebiotech.jiit@gmail.com">ribosebiotech.jiit@gmail.com</a> for biotech based papers. The mail with submissions should contain:<br>Title- theme of the paper.<br>Name of both the authors .<br>Phone no of both the authors.<br>E- mail ID .<br></li><li>Please bring 3 hardcopies of the submitted paper on the day of the event.</li><li>The teams will get 10 minutes for presentation followed by question and answer session.</li><li>Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.</li><li>Paper should be in standards with  IEEE format.</li><li>Paper must contain index, list of figures, list of tables, abstract, introduction, point wise description of subject and conclusion and references.</li><li>Paper must be preceded by a cover page specifying the title of the paper, names of authors and their college names as also their contact numbers and email ids.</li><li>Last day to submit soft copy of your report (via e-mail) is 17th april, 2019 before 12 midnight.</li><li>The decision of judges will be final and no arguments or appeal will be entertained.</li></ol><br><br>For queries, contact <br>Prakhar - 9811605298<br>Yash- 8899914494<br>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'treasure'){
+				title='The Treasure Hunt';
+				desc='Money fills pocket but adventure fills your soul.<br>Well, guess what?<br>Cyber Srishti 2019 is doing both for you.<br>We present a fun, thrilling and mysterious TREASURE HUNT on the first day of the Cyber Srishti 2019.<br><br>Get ready to grab the chest worth 5K rupees!<br>As a ride full of thrill, adventure and treasure awaits for you.<br>See you there.<br><br><a href = "https://forms.gle/C8HVncpZmr9vq6BC6" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'jpl'){
+				title='Jaypee Premier League';
+				desc='With IPL going on, excitement is definitely on its peak in India. Keeping in mind your interests Cyber Srishti brings you JPL- JAYPEE PREMIER LEAGUE.The game of mind, intellectual, power, interest and joy. <br><br>A quiz competition organised in two rounds. Brush up your GK, put your facts straight and get ready for the most challenging and interesting quiz of the Fest.<br><br>Get ready to win cash prizes worth ₹10k. <br>What are you waiting for registrations now open at <a href = "https://forms.gle/s3WVksbbc2UuUM5B9" target = "_blank">Here</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'circuitrix'){
+				title='Circuitrix';
+				desc='An electronic circuit is composed of electronic components such as resistors and transistors connected by conductive wires through which electric current can flow.Haven\'t we all heard this age-old definition over and over again?<br>To test how much you actually know and how well you can apply your technical knowledge,we bring to you Circuitrix.Get ready to embark on this electrical journey on 20th and 21st April 2019 and stand a chance to win a cash prize of Rs.10K!<br><br><a href = "https://docs.google.com/forms/d/e/1FAIpQLScSHUuF6O8drKDVw26ov3uz9l4m7WNofGIIna_oDbHDJoXbEw/viewform?vc=0&c=0&w=1" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+			else if(e == 'jil'){
+				title='Jaypee Innovation League';
+				desc='A shoutout to all the \'Electronics Enthusiastic\' over there.This cyber shrishti ,we present to you an event,that will tickle your grey cell and will awake your technical soul by its wonderful rounds.Circuit Mania,will be a three round event whereby,<br>1st round: Quiz<br>2nd round: code simulation of the circuit<br>3rd round: Hardware implementation<br><br>We\'ve designed that I\'ll test your knowledge in a way that you\'ll cherish, so get ready to have the knowledgeable fun.<br><br><a href = "https://docs.google.com/forms/d/e/1FAIpQLSeI0qVfZDCrLnDOoELlCrGriBXtvjWctbBrIvAI2ymzee5e-w/viewform?vc=0&c=0&w=1" target = "_blank">Register</a>';
+				modal1.setContent('<h1><center>'+title+'</center></h1><br><br>'+desc);
+				modal1.open();
+			}
+		}
+		function reShow(){
+			toggleMenu();
+			$(".main-page").hide();
+		}
+		function gallery(){
+			activeWindow = '.gallery';
+			reShow();
+			$(".gallery").show();
+			$("#gal2018").collapse('show');
+		}
+		function about(){
+			activeWindow = '.about';
+			reShow();
+			$(".about").show();
+			//AOS.init();
+			setTimeout(function(){/*AOS.refresh();*//*$(".wow").removeClass('animated');$( ".wow" ).addClass( "fadeInUp" );*/}, 1000);
+			//$(".rounded").addClass('wow fadeInLeft');
+			//new WOW().init();
+		}
+		function contact(){
+			activeWindow = '.contact';
+			reShow();
+			$(".contact").show();
+		}
+		function events(){
+			activeWindow = '.events';
+			reShow();
+			$(".events").show();
+			//modal.open();
+		}
+		function home(){
+			activeWindow = '.home';
+			reShow();
+			$(".home").show();
+		}
+	</script>
+	<script type="text/javascript">
+		var countDownDate = new Date("Apr 20, 2019 00:00:00").getTime();
+		var x = setInterval(function(){
+			var now = new Date().getTime();
+			var distance = countDownDate - now;
+			var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+			var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+			var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+			var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+			$("#d").html(days + "d");
+			$("#h").html(hours + "h");
+			$("#m").html(minutes + "m");
+			$("#s").html(seconds + "s");
+			if(distance<0){
+				clearInterval(x);
+				$("#d").html("0d");
+				$("#h").html("0h");
+				$("#m").html("0m");
+				$("#s").html("0s");
+			}
+		}, 1000);
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnu2aaSXGSKGFat68JrW7oDNLVegDUvYI&callback=initMap"></script>
+</body>
+</html>

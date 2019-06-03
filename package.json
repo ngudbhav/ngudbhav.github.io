@@ -1,19 +1,23 @@
 {
   "name": "ngudbhav.github.io",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "My Resume Website",
   "engines": {
     "node": "6.11.2"
   },
-  "main": "index.js",
+  "main": "./bin/www",
   "scripts": {
+    "start": "node ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.15.4",
-    "express-https-redirect": "^1.0.0",
-    "nodemailer": "^4.1.0",
-    "openssl": "^1.1.0"
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "nodemailer": "^6.2.1"
   },
   "devDependencies": {},
   "repository": {
@@ -29,5 +33,5 @@
   "bugs": {
     "url": "https://github.com/ngudbhav/ngudbhav.github.io/issues"
   },
-  "homepage": "https://github.com/ngudbhav/ngudbhav.github.io#readme"
+  "homepage": "https://www.ngudbhav.me"
 }
