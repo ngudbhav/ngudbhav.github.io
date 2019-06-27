@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var nodemailer = require('nodemailer');
+var request = require('request');
 
 router.get('/', function(req, res){
     res.render('index');
@@ -28,6 +29,19 @@ router.get('/download/android/', function(req, res, next){
 });
 router.get('/cs2019/', function(req, res){
     res.render('cs2019');
+});
+router.post('/verify/', function(req, res){
+    request('http://apilayer.net/api/check?access_key=5f6c07104e4227d85ec4839b07cbcc48&email='+req.body.email, function(error, httpResponse, body){
+        if(error) throw error;
+        else{
+            if(JSON.parse(body).smtp_check){
+                res.send('1');
+            }
+            else{
+                res.send('2');
+            }
+        }
+    });
 });
 router.post('/contact/', function(req, res, next) {
     var mailOptions = {

@@ -38,7 +38,24 @@
 					});
 				});
 				function onSubmit(token) {
-         			document.getElementById("mail").submit();
+         			$(".g-recaptcha").html('Verifying Email address');
+					$.ajax({
+						url: '/verify/',
+						type: 'POST',
+						data: {email: $("input[name='email']").val()},
+						success: function(e){
+							console.log(e);
+							if(e == '1'){
+								document.getElementById("mail").submit();
+							}
+							else{
+								alert('The Email address you provided is not valid.');
+							}
+						}
+					})
+					.fail(function() {
+						alert("An error occurred while trying to verify your email address.");
+					});
        			}
        			$(document).keydown(function(event) {
        				if(event.which === 9 || event.keyCode === 9){
@@ -274,7 +291,6 @@
 					else{
 						for (let i = 0; i <repos.length; i++) {
 							if(repos[i].license){
-								console.log(repos);
 								$("#list-tab").append('<a class="list-group-item list-group-item-action" id="'+repos[i].id+'" data-toggle="list" href="#list-'+repos[i].id+'" role="tab" aria-controls="home">'+repos[i].name+'</a>');
 								$("#nav-tabContent").append('<div class="tab-pane fade" id="list-'+repos[i].id+'" role="tabpanel" aria-labelledby="'+repos[i].id+'">'+repos[i].name+'<br>'+repos[i].description+'<br>'+repos[i].html_url+'<br>'+repos[i].language+'</div>');
 							}
