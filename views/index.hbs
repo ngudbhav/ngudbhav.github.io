@@ -6,24 +6,22 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<meta name="Description" content="Udbhav Gambhir's official and only resume website.">
 			<meta name="Keywords" content="NGUdbhav, Udbhav Gambhir, Udbhav, Gambhir">
-			<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-			<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-			<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.2/css/mdb.min.css" rel="stylesheet">
-			<link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css">
-			<link rel="stylesheet" type="text/css" href="/css/home.css">
-			<link rel="stylesheet" type="text/css" href="/css/animate.css">
+			<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" async rel="stylesheet">
+			<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.2/css/mdb.min.css" rel="stylesheet" async>
+			<link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css" async>
+			<link rel="stylesheet" type="text/css" href="/css/home.css" async>
+			<link rel="stylesheet" type="text/css" href="/css/animate.css" async>
 			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
 			<link rel="manifest" href="/images/favicons/manifest.json">
 			<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
 			<meta name="theme-color" content="#ffffff">
-			<link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet" async>
 			<link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css" defer/>
 			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
-			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
-			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.2/js/mdb.min.js"></script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" async></script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.2/js/mdb.min.js" async></script>
 			<script src = "https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.js"></script>
 			<script>
 				$(document).ready(function(){
@@ -33,12 +31,9 @@
 						recordHistory: false,
 						anchors: ['intro','schooling','github','social','contact']
 					});
-					$(".loader").fadeOut('slow', function() {
-						$("#fullbody").fadeIn('slow');
-					});
 				});
 				function onSubmit(token) {
-         			$(".g-recaptcha").html('Verifying Email address');
+					$(".g-recaptcha").html('Verifying Email address');
 					$.ajax({
 						url: '/verify/',
 						type: 'POST',
@@ -66,12 +61,7 @@
 			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	</head>	
 	<body class = "homepage" id = "bootstrap-override" style="background-color: rgb(40,40,40);">
-		<div class="row loader" style="height: 100%;">
-			<div class="col-sm-12" align="center" style="top: 40%;color: white;">
-				<i class="fas fa-spinner fa-pulse fa-5x"></i>
-			</div>
-		</div>
-		<div class = "normal" id = "fullbody" style="display: none;">
+		<div class = "normal" id = "fullbody">
 			<div id = "fullpage">
 				<div class = "section active" id = "section0" style="color: white;font-family: 'Bungee', cursive;">
 					<br><br>
