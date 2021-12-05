@@ -1,5 +1,5 @@
 # ngudbhav.github.io
-My Resume Website access from here http://www.ngudbhav.me. Website unsupported on Firefox Quantum (issue opened).
+My Resume Website access from here http://www.ngudbhav.com/.
 
 
 # Information
@@ -21,4 +21,3 @@ This is my own portfolio website. This page contains information about my knowle
 2)	More smoother scrolling
 3)	APIs added
 4)	Menu added
-5)	
