@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 
-import Particle from "../utils/Particle";
+import Particle from "../lib/Particle";
 
 const MOUSE_POSITION = { x: null, y: null, radius: 100 };
 let particles = [];
@@ -20,13 +20,6 @@ function useParticle(imageSource, canvasElement) {
 
     MOUSE_POSITION.x = event.x + canvasElement.clientLeft / 2;
     MOUSE_POSITION.y = event.y + canvasElement.clientTop / 2;
-  }, [canvasElement]);
-
-  const setCanvasDimensions = useCallback(() => {
-    if (!canvasElement) return;
-
-    canvasElement.width = window.innerWidth;
-    canvasElement.height = window.innerHeight;
   }, [canvasElement]);
 
   const initialiseParticles = useCallback(dimensions => {
@@ -52,6 +45,13 @@ function useParticle(imageSource, canvasElement) {
       }
     }
   }, [canvasElement, img]);
+
+  const setCanvasDimensions = useCallback(() => {
+    if (!canvasElement) return;
+
+    canvasElement.width = window.innerWidth;
+    canvasElement.height = window.innerHeight;
+  }, [canvasElement]);
 
   const animate = useCallback(() => {
     requestAnimationFrame(animate);
