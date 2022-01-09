@@ -1,16 +1,29 @@
 import React from "react";
+import { StaticImage } from "gatsby-plugin-image"
 
 import FixedBar from "../FixedBar";
 
-import { footer } from "../styles/footer.module.scss";
+import "../styles/footer.scss";
+
+const CLASSNAME = "footer";
 
 const Footer = () => (
-  <FixedBar className={footer}>
-    <div className={footer.left}>
-      Start
+  <FixedBar className={CLASSNAME}>
+    <div className={`${CLASSNAME}__music`}>
+      <StaticImage
+        src="../../images/svg/headphones.svg"
+        alt="headphones"
+        objectFit="contain"
+        className={`${CLASSNAME}__music-image`}
+      />
     </div>
-    <div className={footer.right}>
-      End
+    <div className={`${CLASSNAME}__video`}>
+      <StaticImage
+        src="../../images/svg/video.svg"
+        alt="video"
+        objectFit="contain"
+        className={`${CLASSNAME}__video-image`}
+      />
     </div>
   </FixedBar>
 );

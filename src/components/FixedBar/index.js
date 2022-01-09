@@ -1,9 +1,9 @@
 import React from "react";
 
-import { fixedBar } from '../styles/fixed_bar.module.scss';
+import '../styles/fixed_bar.scss';
 
 const FixedBar = ({ className= '',children }) => (
-  <div className={`${fixedBar} ${className}`}>
+  <div className={`fixed-bar ${className}`}>
     {children}
   </div>
 );

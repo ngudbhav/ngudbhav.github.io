@@ -2,15 +2,19 @@ import React from "react";
 
 import FixedBar from "../FixedBar";
 
-import { header } from "../styles/header.module.scss";
+import "../styles/header.scss";
+
+const CLASSNAME = 'header';
 
 const Header = () => (
-  <FixedBar className={header}>
-    <div className={header.left}>
+  <FixedBar className={CLASSNAME}>
+    <div className={`${CLASSNAME}__name`}>
       Start
     </div>
-    <div className={header.right}>
-      End
+    <div className={`${CLASSNAME}__know-more`}>
+      <a href="#" className={`${CLASSNAME}__know-more-link`}>
+        Know about me
+      </a>
     </div>
   </FixedBar>
 );
