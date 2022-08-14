@@ -1,6 +1,6 @@
 import React from "react";
 
-import '../styles/fixed_bar.scss';
+import './index.scss';
 
 const FixedBar = ({ className= '',children }) => (
   <div className={`fixed-bar ${className}`}>

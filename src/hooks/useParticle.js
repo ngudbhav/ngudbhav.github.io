@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useState } from "react";
 
 import Particle from "../lib/Particle";
+import { RADIUS } from "../utils/constants/canvas";
 
-const MOUSE_POSITION = { x: null, y: null, radius: 100 };
+const MOUSE_POSITION = { x: null, y: null, radius: RADIUS };
 let particles = [];
 
 /**

@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import CanvasBackground from '../components/CanvasBackground';
 import Container from "../components/Container";
 
-import '../components/styles/index.scss';
+import '../styles/index.scss';
 import '../fonts/rockwell.ttf';
 
 const Index = () => (
@@ -13,7 +13,7 @@ const Index = () => (
     <CanvasBackground id="pixel-background" />
     <>
       <Header />
-      <Container />
+      {/*<Container />*/}
       <Footer />
     </>
   </>

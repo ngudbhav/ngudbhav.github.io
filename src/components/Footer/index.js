@@ -3,7 +3,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import FixedBar from "../FixedBar";
 
-import "../styles/footer.scss";
+import "./index.scss";
 
 const CLASSNAME = "footer";
 

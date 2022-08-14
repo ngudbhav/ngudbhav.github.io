@@ -1,6 +1,6 @@
 import React from "react";
 
-import '../styles/banner.scss';
+import './index.scss';
 
 const Banner = () => (
   <div className="banner">

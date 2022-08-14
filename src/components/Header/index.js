@@ -2,7 +2,7 @@ import React from "react";
 
 import FixedBar from "../FixedBar";
 
-import "../styles/header.scss";
+import "./index.scss";
 
 const CLASSNAME = 'header';
 
