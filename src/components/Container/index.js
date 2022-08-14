@@ -1,12 +1,10 @@
 import React from "react";
 
-import Banner from "../Banner";
+import './index.scss';
 
-import '../../styles/landing.scss';
-
-const Container = () => (
+const Container = ({ children }) => (
   <div className="container">
-    <Banner />
+    {children}
   </div>
 );
 

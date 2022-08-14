@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Rockwell';
-  src: local('Rockwell'), url(../fonts/rockwell.ttf) format('truetype');
+  src: local('Rockwell'), url('../../fonts/rockwell.ttf') format('truetype');
 }
 
 :root {
-  --body-bg: #ffffff;
-  --body-color: #000000;
+  --body-bg: #4c3a51;
+  --body-color: #ffffff;
   --base-font-size: 1.6rem;
   --body-margin: 1rem;
   --header-footer-height: 4rem;
