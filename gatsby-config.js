@@ -32,5 +32,20 @@ module.exports = {
       },
       __key: "images",
     },
+    {
+      resolve: "gatsby-plugin-alias-imports",
+      options: {
+        alias: {
+          "src": "src",
+          "components": "src/components",
+          "fonts": "src/fonts",
+          "hooks": "src/hooks",
+          "images": "src/images",
+          "lib": "src/lib",
+          "styles": "src/styles",
+          "utils": "src/utils",
+        }
+      }
+    }
   ],
 };

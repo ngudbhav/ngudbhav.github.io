@@ -2,8 +2,8 @@ import React from "react";
 
 import './index.scss';
 
-const Container = ({ children }) => (
-  <div className="container">
+const Container = ({ children, className, ...restProps }) => (
+  <div className={`container ${className}`} { ...restProps }>
     {children}
   </div>
 );

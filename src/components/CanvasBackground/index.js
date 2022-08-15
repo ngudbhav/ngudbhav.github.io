@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 
 import './index.scss';
-import useParticle from "../../hooks/useParticle";
-import { IMAGES } from "../../utils/constants/canvas";
+import useParticle from "hooks/useParticle";
+import { IMAGES } from "utils/constants/canvas";
 
 const CanvasBackground = ({ id, ...remainingProps }) => {
   const canvasEl = useRef(null);

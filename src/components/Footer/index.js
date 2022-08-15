@@ -1,7 +1,7 @@
 import React from "react";
 import { StaticImage } from "gatsby-plugin-image"
 
-import FixedBar from "../FixedBar";
+import FixedBar from "components/FixedBar";
 
 import "./index.scss";
 
