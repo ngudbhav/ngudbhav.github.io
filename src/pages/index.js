@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import Banner from "../components/Banner";
-// import Header from '../components/Header';
+import Header from '../components/Header';
 // import Footer from '../components/Footer';
 import CanvasBackground from '../components/CanvasBackground';
 import Container from "../components/Container";
@@ -13,7 +13,7 @@ const Index = () => (
   <>
     <CanvasBackground id="pixel-background" />
     <>
-      {/*<Header />*/}
+      <Header />
       <Container>
         {/*<Banner />*/}
       </Container>
