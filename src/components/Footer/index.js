@@ -8,7 +8,7 @@ import "./index.scss";
 const CLASSNAME = "footer";
 
 const Footer = () => (
-  <FixedBar className={CLASSNAME}>
+  <FixedBar className={`${CLASSNAME} full-width`}>
     <div className={`${CLASSNAME}__music`}>
       <StaticImage
         src="../../images/svg/headphones.svg"

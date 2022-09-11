@@ -3,3 +3,41 @@
 @import '../utils';
 
 @import './index/header';
+
+.canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.index {
+  &__heading {
+    padding: var(--header-footer-height);
+  }
+
+  &__introduction, &__real-introduction {
+    width: 90%;
+  }
+
+  &__links {
+    &--left, &--right {
+      //justify-content: space-evenly;
+      padding: 1rem;
+    }
+  }
+
+  &__link {
+    padding: var(--header-footer-height);
+    background-color: #222222;
+    border: 0.1rem solid #393939;
+    cursor: pointer;
+    margin: var(--header-footer-height) 0;
+    border-radius: var(--border-radius);
+  }
+
+  &__link-icon {
+    margin-top: 1rem;
+    color: var(--primary-color);
+  }
+}

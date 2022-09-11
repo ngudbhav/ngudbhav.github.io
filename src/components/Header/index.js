@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby"
 
 import FixedBar from "components/FixedBar";
 import { HouseLine } from 'phosphor-react';
@@ -9,9 +10,9 @@ const CLASSNAME = 'header';
 
 const Header = () => (
   <FixedBar className={CLASSNAME}>
-    <div className={`${CLASSNAME}__home`}>
+    <Link className={`${CLASSNAME}__home`} to="/">
       <HouseLine size={40} weight="fill" />
-    </div>
+    </Link>
   </FixedBar>
 );
 

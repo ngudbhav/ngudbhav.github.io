@@ -1,10 +1,9 @@
 import React, { useEffect, useState, useRef } from "react";
 
-import './index.scss';
 import useParticle from "hooks/useParticle";
 import { IMAGES } from "utils/constants/canvas";
 
-const CanvasBackground = ({ id, ...remainingProps }) => {
+const CanvasBackground = ({ ...props }) => {
   const canvasEl = useRef(null);
   const [ canvas, setCanvas ] = useState(null);
 
@@ -14,7 +13,13 @@ const CanvasBackground = ({ id, ...remainingProps }) => {
 
   useParticle(IMAGES[IMAGES.length * Math.random() | 0], canvas);
 
-  return <canvas id={id} ref={canvasEl} { ...remainingProps } />
+  return (
+    <canvas
+      ref={canvasEl}
+      className="full-height full-width"
+      { ...props }
+    />
+  )
 };
 
 export default CanvasBackground;

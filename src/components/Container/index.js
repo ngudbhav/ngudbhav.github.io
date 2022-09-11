@@ -1,9 +1,7 @@
 import React from "react";
 
-import './index.scss';
-
-const Container = ({ children, className, ...restProps }) => (
-  <div className={`container ${className}`} { ...restProps }>
+const Container = ({ children, className = '', ...restProps }) => (
+  <div className={`container full-height ${className}`} { ...restProps }>
     {children}
   </div>
 );
