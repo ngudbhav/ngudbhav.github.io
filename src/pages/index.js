@@ -1,54 +1,44 @@
 import React from 'react';
 import { CirclesThreePlus, Files, PaperPlaneTilt, Person } from 'phosphor-react';
-import { Link } from 'gatsby';
 
-import Header from 'components/Header';
+import Box from 'components/Box';
+import NavBar from 'components/NavBar';
 import CanvasBackground from 'components/CanvasBackground';
 import Container from "components/Container";
 import { INTRODUCTION, REAL_INTRODUCTION } from 'utils/constants/text';
 
 import 'styles/pages/index.scss';
 import 'fonts/rockwell.ttf';
+import Header from "../components/Header";
 
 const CLASSNAME = 'index';
-
-const Heading = () => (
-  <div className={`${CLASSNAME}__heading align-center`}>
-    <div className={`${CLASSNAME}__introduction h1`}>
-      {INTRODUCTION[INTRODUCTION.length * Math.random() | 0]}
-    </div>
-    <div className={`${CLASSNAME}__real-introduction h1`}>
-      {REAL_INTRODUCTION}
-    </div>
-  </div>
-);
 
 const Links = () => (
   <section className={`${CLASSNAME}__main full-height`}>
     <div className={`${CLASSNAME}__links flex-row space-around full-height`}>
       <div className={`${CLASSNAME}__links--left flex-col`}>
-        <Link className={`${CLASSNAME}__link align-center h2`} to="/projects">
+        <Box className={`${CLASSNAME}__link`} link="/projects">
           Projects
           <br />
           <CirclesThreePlus weight="fill" className={`${CLASSNAME}__link-icon`} />
-        </Link>
-        <Link className={`${CLASSNAME}__link align-center h2`} to="/contact">
+        </Box>
+        <Box className={`${CLASSNAME}__link`} link="/contact">
           Contact
           <br />
           <PaperPlaneTilt weight="fill" className={`${CLASSNAME}__link-icon`} />
-        </Link>
+        </Box>
       </div>
       <div className={`${CLASSNAME}__links--right flex-col`}>
-        <Link className={`${CLASSNAME}__link align-center h2`} to="/resume">
+        <Box className={`${CLASSNAME}__link`} link="/resume">
           Resume
           <br />
           <Files weight="fill" className={`${CLASSNAME}__link-icon`} />
-        </Link>
-        <Link className={`${CLASSNAME}__link align-center h2`} to="/about">
+        </Box>
+        <Box className={`${CLASSNAME}__link`} link="/about">
           About
           <br />
           <Person weight="fill" className={`${CLASSNAME}__link-icon`} />
-        </Link>
+        </Box>
       </div>
     </div>
   </section>
@@ -57,9 +47,13 @@ const Links = () => (
 const Index = () => (
   <div className={`${CLASSNAME} full-height`}>
     <CanvasBackground className="canvas" />
-    <Header />
+    <NavBar />
     <Container>
-      <Heading />
+      <Header
+        text1={INTRODUCTION[INTRODUCTION.length * Math.random() | 0]}
+        text2={REAL_INTRODUCTION}
+        className={CLASSNAME}
+      />
       <Links />
     </Container>
   </div>

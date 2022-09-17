@@ -1,0 +1,22 @@
+.projects {
+  &__container {
+    padding: 5rem;
+  }
+
+  &__main {
+    margin-top: 0 !important;
+  }
+
+  &__links {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  &__link {
+    width: 40%;
+  }
+
+  &__link-image {
+    margin-top: 2rem;
+  }
+}

@@ -10,3 +10,10 @@ export const INTRODUCTION = [
   'I am not Ultron. I am not Jarvis either. I am... Wait!? Huh... 🤔 Oh COME ON!',
   'I am Groot! I am Steve Rogers. No! Wait!? Huh... 🤔 Oh COME ON!',
 ];
+
+export const RESUME_HEADINGS = [
+  'He is capable of so much more.',
+  'Objective: To have my skills and ethics challenged on a daily basis.',
+  'It was hard work',
+  'From an IT Engineer, “Have you tried turning it off and on again?',
+];

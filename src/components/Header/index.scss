@@ -1,9 +1,7 @@
 .header {
-  position: fixed;
-  top: 0;
+  padding: var(--header-footer-height);
 
-  &__home {
-    cursor: pointer;
-    color: var(--primary-color);
+  &__text {
+    width: 90%;
   }
 }

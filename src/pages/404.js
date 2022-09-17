@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import 'styles/pages/404.scss';
-import Header from 'components/Header';
+import NavBar from 'components/NavBar';
 
 // styles
 const pageStyles = {
@@ -31,7 +31,7 @@ const codeStyles = {
 const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
-      <Header />
+      <NavBar />
       <title>Not found</title>
       <h1 style={headingStyles}>Page not found</h1>
       <p style={paragraphStyles}>

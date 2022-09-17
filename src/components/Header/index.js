@@ -1,19 +1,22 @@
-import React from "react";
-import { Link } from "gatsby"
+import React from 'react';
 
-import FixedBar from "components/FixedBar";
-import { HouseLine } from 'phosphor-react';
-
-import "./index.scss";
+import './index.scss';
 
 const CLASSNAME = 'header';
 
-const Header = () => (
-  <FixedBar className={CLASSNAME}>
-    <Link className={`${CLASSNAME}__home`} to="/">
-      <HouseLine size={40} weight="fill" />
-    </Link>
-  </FixedBar>
+const Header = ({ text1, text2, className }) => (
+  <div className={`${className}__header align-center ${CLASSNAME}`}>
+    {text1 && (
+      <div className={`${className}__text h1 ${CLASSNAME}__text`}>
+        {text1}
+      </div>
+    )}
+    {text2 && (
+      <div className={`${className}__text h1 ${CLASSNAME}__text`}>
+        {text2}
+      </div>
+    )}
+  </div>
 );
 
 export default Header;
