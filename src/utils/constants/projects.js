@@ -38,4 +38,14 @@ export const PROJECTS = [
     link: 'https://github.com/ngudbhav/Webkiosk-Wrapper',
     image: <StaticImage alt="Webkiosk Wrapper Desktop Software" src="../../images/projects/webkiosk.webp" />,
   },
+  {
+    name: 'Farm Suraksha',
+    link: 'https://youtu.be/kf3cMpKzWH0',
+    image: <StaticImage alt="Farm Suraksha" src="../../images/projects/farm.webp" />,
+  },
+  {
+    name: 'Others',
+    link: 'https://github.com/ngudbhav?tab=repositories',
+    image: <StaticImage alt="Github Repositories Page" src="../../images/projects/github.webp" />,
+  },
 ];

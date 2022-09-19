@@ -1,0 +1,12 @@
+.contact {
+  &__container {
+    padding: 5rem;
+  }
+
+  &__form {}
+
+  &__form-input {
+    background-color: var(--primary-background-color);
+    outline: 0;
+  }
+}

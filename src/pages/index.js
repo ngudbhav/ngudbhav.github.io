@@ -20,24 +20,24 @@ const Links = () => (
         <Box className={`${CLASSNAME}__link`} link="/projects">
           Projects
           <br />
-          <CirclesThreePlus weight="fill" className={`${CLASSNAME}__link-icon`} />
+          <CirclesThreePlus weight="fill" className={`${CLASSNAME}__link-icon primary-font-color`} />
         </Box>
         <Box className={`${CLASSNAME}__link`} link="/contact">
           Contact
           <br />
-          <PaperPlaneTilt weight="fill" className={`${CLASSNAME}__link-icon`} />
+          <PaperPlaneTilt weight="fill" className={`${CLASSNAME}__link-icon primary-font-color`} />
         </Box>
       </div>
       <div className={`${CLASSNAME}__links--right flex-col`}>
         <Box className={`${CLASSNAME}__link`} link="/resume">
           Resume
           <br />
-          <Files weight="fill" className={`${CLASSNAME}__link-icon`} />
+          <Files weight="fill" className={`${CLASSNAME}__link-icon primary-font-color`} />
         </Box>
         <Box className={`${CLASSNAME}__link`} link="/about">
           About
           <br />
-          <Person weight="fill" className={`${CLASSNAME}__link-icon`} />
+          <Person weight="fill" className={`${CLASSNAME}__link-icon primary-font-color`} />
         </Box>
       </div>
     </div>
