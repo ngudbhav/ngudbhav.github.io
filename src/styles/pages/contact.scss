@@ -1,12 +1,49 @@
+$border-radius: 3rem;
+$input-padding: 1.5rem;
+$border-width: 0.1rem;
+
 .contact {
   &__container {
     padding: 5rem;
   }
 
+  &__main {
+    cursor: default;
+    margin-top: 0 !important;
+  }
+
   &__form {}
 
-  &__form-input {
+  &__form-input, &__form-textarea {
     background-color: var(--primary-background-color);
     outline: 0;
+    padding: $input-padding;
+    border-radius: $border-radius;
+    border: $border-width solid var(--primary-background-color);
+    font-size: var(--base-font-size);
+    color: var(--body-color);
+    resize: none;
+
+    &:focus {
+      border: 0.1rem solid var(--primary-color);
+    }
+  }
+
+  &__form-submit {
+    background-color: var(--primary-color);
+    outline: 0;
+    padding: $input-padding;
+    border-radius: $border-radius;
+    border: $border-width solid var(--primary-color);
+    font-size: var(--base-font-size);
+    color: var(--body-color);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    width: 30%;
+
+    &:hover {
+      background-color: var(--primary-background-color);
+      color: var(--primary-color);
+    }
   }
 }
