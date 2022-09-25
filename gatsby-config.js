@@ -4,6 +4,7 @@ module.exports = {
     title: "NGUdbhav",
   },
   plugins: [
+    "gatsby-plugin-transition-link",
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
