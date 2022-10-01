@@ -1,9 +1,9 @@
 import React from 'react';
 
-import NavBar from 'components/NavBar';
+import Layout from 'components/Layout';
 
 const About = () => (
-  <NavBar />
+  <Layout />
 );
 
 export default About;

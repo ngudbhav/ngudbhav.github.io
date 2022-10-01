@@ -1,6 +1,15 @@
 .navbar {
   top: 0;
-  right: 0;
+
+  &--center {
+    right: 50%;
+    transition: right var(--animation-duration) ease-in-out;
+  }
+
+  &--right {
+    right: 0;
+    transition: right var(--animation-duration) ease-in-out;
+  }
 
   &__home {
     cursor: pointer;

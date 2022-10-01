@@ -4,8 +4,8 @@ import './index.scss';
 
 const CLASSNAME = 'header';
 
-const Header = ({ text1, text2, className, children }) => (
-  <div className={`${className}__header align-center ${CLASSNAME}`}>
+const Header = ({ text1, text2, className, children, pageTransitionStatus }) => (
+  <div className={`${className}__header align-center ${CLASSNAME} ${pageTransitionStatus}`}>
     {text1 && (
       <div className={`${className}__text h1 ${CLASSNAME}__text`}>
         {text1}

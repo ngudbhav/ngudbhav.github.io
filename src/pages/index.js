@@ -1,15 +1,14 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { CirclesThreePlus, Files, PaperPlaneTilt, Person } from 'phosphor-react';
 
 import Box from 'components/Box';
-import NavBar from 'components/NavBar';
+import Layout from 'components/Layout';
 import CanvasBackground from 'components/CanvasBackground';
-import Container from "components/Container";
+import Container from 'components/Container';
 import { INTRODUCTION, REAL_INTRODUCTION } from 'utils/constants/text';
 
 import 'styles/pages/index.scss';
 import 'fonts/rockwell.ttf';
-import Header from "../components/Header";
 
 const CLASSNAME = 'index';
 
@@ -44,18 +43,32 @@ const Links = () => (
   </section>
 );
 
-const Index = () => (
-  <div className={`${CLASSNAME} full-height`}>
-    <CanvasBackground className="canvas" />
-    <NavBar />
-    <Container>
-      <Header
-        text1={INTRODUCTION[INTRODUCTION.length * Math.random() | 0]}
-        text2={REAL_INTRODUCTION}
-        className={CLASSNAME}
-      />
-      <Links />
-    </Container>
+const Body = React.memo(({ transitionStatus }) => {
+  const introduction = useMemo(
+    () => (INTRODUCTION[INTRODUCTION.length * Math.random() | 0]), [],
+  );
+
+  return (
+    <Layout
+      headerProps={
+      {
+        text1: introduction,
+        text2: REAL_INTRODUCTION,
+        className: CLASSNAME,
+      }}
+      transitionStatus={transitionStatus}
+    >
+      <CanvasBackground className="canvas" />
+      <Container>
+        <Links />
+      </Container>
+    </Layout>
+  );
+});
+
+const Index = ({ transitionStatus }) => (
+  <div className={`${CLASSNAME} full-height ${transitionStatus}`}>
+    <Body transitionStatus={transitionStatus}/>
   </div>
 );
 

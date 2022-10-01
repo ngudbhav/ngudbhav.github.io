@@ -1,4 +1,39 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
 .projects {
+  //@include header-animation;
+
+  //&.entering {
+  //  .projects {
+  //    &__header {
+  //      opacity: 0;
+  //      transition: opacity var(--animation-duration) ease-in-out;
+  //    }
+  //
+  //    &__links {
+  //      opacity: 0;
+  //      transition: opacity var(--animation-duration) ease-in-out;
+  //    }
+  //  }
+  //}
+
+  //&.entered {
+  //  .projects {
+  //    &__header {
+  //      opacity: 1;
+  //      transition: opacity var(--animation-duration) ease-in-out;
+  //    }
+  //
+  //    &__links {
+  //      opacity: 1;
+  //      transition: opacity var(--animation-duration) ease-in-out;
+  //    }
+  //  }
+  //}
+
   &__container {
     padding: 5rem;
   }

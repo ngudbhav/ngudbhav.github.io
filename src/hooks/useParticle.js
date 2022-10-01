@@ -55,13 +55,14 @@ function useParticle(imageSource, canvasElement) {
   }, [canvasElement]);
 
   const animate = useCallback(() => {
-    requestAnimationFrame(animate);
-
+    const animation = requestAnimationFrame(animate);
     context.fillStyle = 'rgba(0, 0, 0, 0.05)';
     context.clearRect(0, 0, window.innerWidth, window.innerHeight);
     for(let i = 0; i < particles.length; i += 1) {
       particles[i].update();
     }
+
+    return animation;
   }, [context]);
 
   useEffect(() => {
@@ -69,6 +70,10 @@ function useParticle(imageSource, canvasElement) {
 
     const context = canvasElement.getContext('2d');
     setCanvasContext(context);
+
+    return () => {
+      setCanvasContext(null);
+    };
   }, [canvasElement]);
 
   useEffect(() => {
@@ -92,6 +97,10 @@ function useParticle(imageSource, canvasElement) {
     _img.onload = () => {
       setImageLoaded(_img);
     };
+
+    return () => {
+      setImageLoaded(null);
+    };
   }, [image]);
 
   useEffect(() => {
@@ -101,7 +110,12 @@ function useParticle(imageSource, canvasElement) {
     const dimensions = context.getImageData(0, 0, img.width, img.height);
     context.clearRect(0, 0, canvasElement.width, canvasElement.height);
     initialiseParticles(dimensions);
-    animate();
+    const animation = animate();
+
+    return () => {
+      window.cancelAnimationFrame(animation);
+      particles.length = 0;
+    };
   }, [canvasElement, img, context, animate, initialiseParticles]);
 }
 

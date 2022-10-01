@@ -28,9 +28,9 @@ const codeStyles = {
 }
 
 // markup
-const NotFoundPage = () => {
+const NotFoundPage = ({ transitionStatus }) => {
   return (
-    <main style={pageStyles}>
+    <main style={pageStyles} className={transitionStatus}>
       <NavBar />
       <title>Not found</title>
       <h1 style={headingStyles}>Page not found</h1>

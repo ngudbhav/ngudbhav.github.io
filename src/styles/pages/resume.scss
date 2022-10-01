@@ -1,3 +1,8 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
 .resume {
   &__container {
     padding: 5rem;

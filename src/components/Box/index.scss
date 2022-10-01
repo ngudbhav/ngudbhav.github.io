@@ -5,4 +5,17 @@
   cursor: pointer;
   margin: var(--header-footer-height) 0 !important;
   border-radius: var(--border-radius);
+
+  //&--active {
+  //  transform: scale(4, 8);
+  //  transition: transform var(--animation-duration) ease-in-out;
+  //
+  //  *:not(.box-link--active) {
+  //    display: none;
+  //  }
+  //
+  //  .box-link__content {
+  //    opacity: 0;
+  //  }
+  //}
 }

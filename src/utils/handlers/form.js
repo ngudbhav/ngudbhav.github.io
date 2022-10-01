@@ -1,5 +1,5 @@
-export const submit = (event) => {
+export const submit = async (event) => {
   event.preventDefault();
   const data = new FormData(event.target);
-  console.log('submit', data);
+  console.log(data);
 }

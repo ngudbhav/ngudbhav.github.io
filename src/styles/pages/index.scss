@@ -1,6 +1,7 @@
 @import '../normalise';
 @import '../base';
 @import '../utils';
+@import '../anim';
 
 @import './index/header';
 
@@ -12,6 +13,21 @@
 }
 
 .index {
+  //@include header-animation;
+
+  //&.exiting {
+  //  .index {
+  //    &__header, &__links {
+  //      opacity: 0;
+  //      transition: opacity var(--animation-duration) ease-in-out;
+  //    }
+  //  }
+  //
+  //  .canvas {
+  //    display: none;
+  //  }
+  //}
+
   &__links {
     &--left, &--right {
       padding: 1rem;
