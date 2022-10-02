@@ -1,0 +1,45 @@
+.about {
+  &__container, &__award-container {
+    padding: 5rem;
+  }
+
+  &__main, &__main-award {
+    margin-top: 0 !important;
+    cursor: unset;
+  }
+
+  &__main-skill {
+    cursor: unset;
+    text-align: left !important;
+    width: 100%;
+
+    .header {
+      padding: 0 0 2rem;
+    }
+  }
+
+  &__award-container {
+    justify-content: space-between;
+  }
+
+  &__main-award {
+    width: 30%;
+  }
+
+  &__skill-title {
+    color: var(--primary-color);
+    margin-right: 1rem;
+  }
+
+  &__web-skill {
+    margin-left: 5rem;
+  }
+
+  &__skill-content {
+    font-size: 2rem;
+  }
+
+  hr {
+    width: 90%;
+  }
+}

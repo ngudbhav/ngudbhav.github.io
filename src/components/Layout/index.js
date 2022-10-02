@@ -3,9 +3,6 @@ import { TransitionPortal } from 'gatsby-plugin-transition-link';
 
 import NavBar from 'components/NavBar';
 import Header from 'components/Header';
-import Box from "../Box";
-
-// import './index.scss';
 
 const CLASSNAME = 'layout';
 
@@ -15,7 +12,7 @@ const Body = React.memo(({ children }) => (
   </>
 ));
 
-const Layout = ({ children, headerProps = {}, transitionStatus, useBox = false, boxProps = {} }) => (
+const Layout = ({ children, headerProps = {}, transitionStatus }) => (
   <div className={`${CLASSNAME} ${transitionStatus}`}>
     <TransitionPortal level="top">
       <NavBar />
@@ -24,20 +21,9 @@ const Layout = ({ children, headerProps = {}, transitionStatus, useBox = false, 
       pageTransitionStatus={transitionStatus}
       { ...headerProps }
     />
-    {useBox ? (
-      <TransitionPortal>
-        <Box { ...boxProps } >
-          {children}
-        </Box>
-      </TransitionPortal>
-    ) : (
-      <Body>
-        {children}
-      </Body>
-    )}
-    {/*<TransitionPortal >*/}
-    {/*  Hello*/}
-    {/*</TransitionPortal>*/}
+    <Body>
+      {children}
+    </Body>
   </div>
 );
 

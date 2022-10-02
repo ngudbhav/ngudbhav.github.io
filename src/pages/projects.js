@@ -17,11 +17,6 @@ const Body = React.memo(({ transitionStatus }) => {
         text1: projectHeading,
         className: CLASSNAME,
       }}
-      boxProps={
-        {
-          component: 'div',
-          className: `${CLASSNAME}__main`,
-        }}
       transitionStatus={transitionStatus}
     >
       <section className={`${CLASSNAME}__container`}>

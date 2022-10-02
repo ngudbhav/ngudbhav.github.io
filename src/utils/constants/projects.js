@@ -44,6 +44,11 @@ export const PROJECTS = [
     image: <StaticImage alt="Farm Suraksha" src="../../images/projects/farm.webp" />,
   },
   {
+    name: 'Cyber-Srishti 2019',
+    link: '/cs2019',
+    image: <StaticImage alt="Cyber-Srishti 2019" src="../../images/projects/cs2019.webp" />,
+  },
+  {
     name: 'Others',
     link: 'https://github.com/ngudbhav?tab=repositories',
     image: <StaticImage alt="Github Repositories Page" src="../../images/projects/github.webp" />,
