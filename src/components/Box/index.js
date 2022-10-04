@@ -13,6 +13,7 @@ const Box = ({
   const _component = externalLink ? 'a' : component;
   const _link = externalLink ? 'href' : 'to';
   const _target = externalLink ? 'target' : '';
+  const _rel = externalLink ? 'rel' : '';
   const BoxContent = React.memo(() => (
     <div className="box-link__content">{children}</div>
   ));
@@ -23,6 +24,7 @@ const Box = ({
       className: `${className} align-center h2 ${CLASSNAME}`,
       [ _link ]: link,
       [ _target ]: '_blank',
+      [ _rel ]: 'noopener noreferrer',
       exit: { length: TIMING, trigger: () => console.log('exit') },
       entry: { length: TIMING, trigger: ({ node, e, exit, entry }) => console.log(node, e, exit, entry), delay: TIMING },
       children: <BoxContent />,

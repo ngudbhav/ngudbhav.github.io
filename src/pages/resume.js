@@ -1,11 +1,12 @@
 import React from 'react';
+import { StaticImage } from "gatsby-plugin-image";
 
 import Layout from 'components/Layout';
 import Box from 'components/Box';
-import { StaticImage } from "gatsby-plugin-image";
+import Meta from 'components/OpenGraph';
+import { RESUME_HEADINGS } from 'utils/constants/text';
 
 import 'styles/pages/resume.scss';
-import { RESUME_HEADINGS } from "../utils/constants/text";
 
 const CLASSNAME = 'resume';
 
@@ -35,3 +36,10 @@ const Resume = ({ transitionStatus }) => (
 );
 
 export default Resume;
+export const Head = () => (
+  <>
+    <title>Resume || Udbhav Gambhir</title>
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Resume"/>
+    <Meta />
+  </>
+);

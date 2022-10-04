@@ -6,6 +6,12 @@ import Header from 'components/Header';
 
 const CLASSNAME = 'layout';
 
+const Navigation = React.memo(() => (
+  <TransitionPortal level="top">
+    <NavBar />
+  </TransitionPortal>
+));
+
 const Body = React.memo(({ children }) => (
   <>
     {children}
@@ -14,9 +20,7 @@ const Body = React.memo(({ children }) => (
 
 const Layout = ({ children, headerProps = {}, transitionStatus }) => (
   <div className={`${CLASSNAME} ${transitionStatus}`}>
-    <TransitionPortal level="top">
-      <NavBar />
-    </TransitionPortal>
+    <Navigation />
     <Header
       pageTransitionStatus={transitionStatus}
       { ...headerProps }

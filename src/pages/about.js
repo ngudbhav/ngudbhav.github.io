@@ -2,11 +2,12 @@ import React, {useMemo} from 'react';
 
 import Layout from 'components/Layout';
 import Box from 'components/Box';
+import Header from 'components/Header';
+import Meta from 'components/OpenGraph';
 import { ABOUT_HEADING } from 'utils/constants/text';
 import { WEB, DESKTOP, HYBRID, ABOUT_AWARDS, LINKS } from 'utils/constants/about';
 
 import 'styles/pages/about.scss';
-import Header from "../components/Header";
 
 const CLASSNAME = 'about';
 
@@ -105,3 +106,10 @@ const About = ({ transitionStatus }) => (
 );
 
 export default About;
+export const Head = () => (
+  <>
+    <title>About || Udbhav Gambhir</title>
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website About Page"/>
+    <Meta />
+  </>
+);

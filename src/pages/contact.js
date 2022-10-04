@@ -2,8 +2,8 @@ import React from 'react';
 
 import Box from 'components/Box';
 import Layout from 'components/Layout';
+import Meta from 'components/OpenGraph';
 import { submit } from 'utils/handlers/form';
-// import ContactImage from 'images/contact.gif';
 import 'styles/pages/contact.scss';
 
 const CLASSNAME = 'contact';
@@ -45,3 +45,10 @@ const Contact = ({ transitionStatus }) => (
 );
 
 export default Contact;
+export const Head = () => (
+  <>
+    <title>Contact || Udbhav Gambhir</title>
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Contact Page"/>
+    <Meta />
+  </>
+);

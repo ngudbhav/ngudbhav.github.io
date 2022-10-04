@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 
 import Layout from 'components/Layout';
 import Box from 'components/Box';
+import Meta from 'components/OpenGraph';
 import { PROJECT_HEADINGS, PROJECTS } from 'utils/constants/projects';
 import 'styles/pages/projects.scss';
 
@@ -44,3 +45,10 @@ const Projects = ({ transitionStatus }) => (
 );
 
 export default Projects;
+export const Head = () => (
+  <>
+    <title>Projects || Udbhav Gambhir</title>
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Projects Page"/>
+    <Meta />
+  </>
+);

@@ -5,6 +5,7 @@ import Box from 'components/Box';
 import Layout from 'components/Layout';
 import CanvasBackground from 'components/CanvasBackground';
 import Container from 'components/Container';
+import Meta from 'components/OpenGraph';
 import { INTRODUCTION, REAL_INTRODUCTION } from 'utils/constants/text';
 
 import 'styles/pages/index.scss';
@@ -73,3 +74,10 @@ const Index = ({ transitionStatus }) => (
 );
 
 export default Index;
+export const Head = () => (
+  <>
+    <title>NGUdbhav || Udbhav Gambhir</title>
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Landing Page"/>
+    <Meta />
+  </>
+);
