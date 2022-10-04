@@ -14,6 +14,7 @@ const NavBar = () => (
     <TransitionLink
       className={`${CLASSNAME}__home`}
       to="/"
+      title="Home"
       exit={{length: TIMING}}
       entry={{length: TIMING, delay: TIMING}}
     >
