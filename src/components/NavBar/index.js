@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import TransitionLink from 'gatsby-plugin-transition-link';
 import { HouseLine } from 'phosphor-react';
 
@@ -9,19 +9,17 @@ import "./index.scss";
 
 const CLASSNAME = 'navbar';
 
-const NavBar = () => {
-  const [isHome, setIsHome] = useState(false);
-  useEffect(() => {
-    setIsHome(window.location.pathname === '/');
-  }, []);
-
-  return (
-    <FixedBar className={`${CLASSNAME} ${CLASSNAME}--${isHome ? 'center' : 'right'}`}>
-      <TransitionLink className={`${CLASSNAME}__home`} to="/" entryDelay={TIMING} exitLength={TIMING}>
-        <HouseLine size={40} weight="fill" />
-      </TransitionLink>
-    </FixedBar>
-  );
-};
+const NavBar = () => (
+  <FixedBar className={CLASSNAME}>
+    <TransitionLink
+      className={`${CLASSNAME}__home`}
+      to="/"
+      exit={{length: TIMING}}
+      entry={{length: TIMING, delay: TIMING}}
+    >
+      <HouseLine size={40} weight="fill" />
+    </TransitionLink>
+  </FixedBar>
+);
 
 export default NavBar;
