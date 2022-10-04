@@ -3,7 +3,6 @@ import React from 'react';
 const Meta = () => (
   <>
     <link rel="canonical" href="https://ngudbhav.com/" />
-    <link rel="canonical" href="https://www.ngudbhav.com/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="twitter:card" content="NGUdbhav, Udbhav Gambhir Portfolio" />
     <meta name="twitter:site" content="@NGUdbhav" />

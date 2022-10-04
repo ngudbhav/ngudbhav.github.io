@@ -25,6 +25,7 @@ const Box = ({
       [ _link ]: link,
       [ _target ]: '_blank',
       [ _rel ]: 'noopener noreferrer',
+      'aria-label': "Read more about Udbhav",
       exit: { length: TIMING, trigger: () => console.log('exit') },
       entry: { length: TIMING, trigger: ({ node, e, exit, entry }) => console.log(node, e, exit, entry), delay: TIMING },
       children: <BoxContent />,

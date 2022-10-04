@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "NGUdbhav",
+    siteUrl: "https://www.ngudbhav.com/",
   },
   plugins: [
     "gatsby-plugin-transition-link",

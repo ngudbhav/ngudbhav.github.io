@@ -12,9 +12,9 @@ const Header = ({ text1, text2, className, children, pageTransitionStatus }) => 
       </div>
     )}
     {text2 && (
-      <div className={`${className}__text h1 ${CLASSNAME}__text primary-font-color`}>
+      <h1 className={`${className}__text ${CLASSNAME}__text primary-font-color`}>
         {text2}
-      </div>
+      </h1>
     )}
     {children}
   </div>
