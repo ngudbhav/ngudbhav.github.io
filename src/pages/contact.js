@@ -47,8 +47,9 @@ const Contact = ({ transitionStatus }) => (
 export default Contact;
 export const Head = () => (
   <>
-    <title>Contact || Udbhav Gambhir</title>
-    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Contact Page"/>
     <Meta />
+    <title>Contact || Udbhav Gambhir</title>
+    <meta name="title" content="Contact || Udbhav Gambhir" />
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Contact Page"/>
   </>
 );

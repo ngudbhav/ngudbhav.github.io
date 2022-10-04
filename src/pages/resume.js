@@ -38,8 +38,9 @@ const Resume = ({ transitionStatus }) => (
 export default Resume;
 export const Head = () => (
   <>
-    <title>Resume || Udbhav Gambhir</title>
-    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Resume"/>
     <Meta />
+    <title>Resume || Udbhav Gambhir</title>
+    <meta name="title" content="Resume || Udbhav Gambhir" />
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Resume"/>
   </>
 );

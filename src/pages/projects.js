@@ -47,8 +47,9 @@ const Projects = ({ transitionStatus }) => (
 export default Projects;
 export const Head = () => (
   <>
-    <title>Projects || Udbhav Gambhir</title>
-    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Projects Page"/>
     <Meta />
+    <title>Projects || Udbhav Gambhir</title>
+    <meta name="title" content="Projects || Udbhav Gambhir" />
+    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Projects Page"/>
   </>
 );
