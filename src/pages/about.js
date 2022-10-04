@@ -1,4 +1,5 @@
-import React, {useMemo} from 'react';
+import React, { useMemo } from 'react';
+import { Trophy } from "phosphor-react";
 
 import Layout from 'components/Layout';
 import Box from 'components/Box';
@@ -28,7 +29,8 @@ const Body = React.memo(({ transitionStatus }) => {
       <section className={`${CLASSNAME}__award-container flex-row`}>
         {ABOUT_AWARDS.map((award, index) => (
           <Box component="div" className={`${CLASSNAME}__main-award`}>
-            <div key={`about-award-${index}`}>
+            <Trophy size={40} weight="fill" />
+            <div key={`about-award-${index}`} className={`${CLASSNAME}__award-icon`}>
               {award}
             </div>
           </Box>
@@ -38,7 +40,10 @@ const Body = React.memo(({ transitionStatus }) => {
       <section className={`${CLASSNAME}__award-container flex-row`}>
         <Box component="div" className={`${CLASSNAME}__main-skill full-width`}>
           <Header text2="Skills" />
-          <span className={`${CLASSNAME}__skill-title`}>App:</span>
+          <span className={`${CLASSNAME}__skill-title`}>
+            App
+            :
+          </span>
           <span className={`${CLASSNAME}__skill-content`}>
             {DESKTOP.map((item, index) => (
               <>
@@ -49,7 +54,10 @@ const Body = React.memo(({ transitionStatus }) => {
             ))}
           </span>
           <br /><br />
-          <span className={`${CLASSNAME}__skill-title`}>Web:</span>
+          <span className={`${CLASSNAME}__skill-title`}>
+            Web
+            :
+          </span>
           <span className={`${CLASSNAME}__skill-content`}>
             <div className={`${CLASSNAME}__web-skill`}>
               {Object.keys(WEB).map((item, index) => (
@@ -66,7 +74,8 @@ const Body = React.memo(({ transitionStatus }) => {
           </span>
           <br />
           <span className={`${CLASSNAME}__skill-title`}>
-            Hybrid:
+            Hybrid
+            :
           </span>
           <span className={`${CLASSNAME}__skill-content`}>
             {HYBRID.map((item, index) => (
@@ -83,16 +92,17 @@ const Body = React.memo(({ transitionStatus }) => {
       <section className={`${CLASSNAME}__award-container flex-row`}>
         <Box component="div" className={`${CLASSNAME}__main-skill full-width`}>
           <Header text1="Connect" />
-          {Object.keys(LINKS).map((item, index) => (
-            <div key={`connect-${index}`}>
+          <div className={`${CLASSNAME}__connect-icons flex-row`}>
+            {Object.keys(LINKS).map((item, index) => (
+              <div key={`connect-${index}`}>
               <span className={`${CLASSNAME}__skill-title`}>
-                {item}
+                <a href={LINKS[item].link} target="_blank" rel="noopener noreferrer">
+                  {LINKS[item].icon}
+                </a>
               </span>
-              <a className={`${CLASSNAME}__skill-content`} href={LINKS[item]} target="_blank" rel="noreferrer">
-                {LINKS[item]}
-              </a>
-            </div>
-          ))}
+              </div>
+            ))}
+          </div>
         </Box>
       </section>
     </Layout>

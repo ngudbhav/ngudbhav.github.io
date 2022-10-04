@@ -1,3 +1,8 @@
+import React from 'react';
+import {
+  FacebookLogo, GithubLogo, InstagramLogo, LinkedinLogo, TwitterLogo,
+} from "phosphor-react";
+
 export const ABOUT_AWARDS = [
 'Smart India Hackathon - 2019 WINNER',
 'Rebel Foods JS Coding Challenge - 3.0 WINNER',
@@ -24,11 +29,26 @@ export const HYBRID = [
 ];
 
 export const LINKS = {
-  GitHub: 'https://github.com/ngudbhav',
-  LinkedIn: 'https://www.linkedin.com/in/ngudbhav/',
-  Twitter: 'https://twitter.com/ngudbhav',
-  Instagram: 'https://www.instagram.com/ngudbhav/',
-  Facebook: 'https://www.facebook.com/ngudbhav',
+  github: {
+    icon: <GithubLogo size={60} weight="fill" />,
+    link: 'https://github.com/ngudbhav',
+  },
+  linkedin: {
+    icon: <LinkedinLogo size={60} weight="fill" />,
+    link: 'https://www.linkedin.com/in/ngudbhav/',
+  },
+  twitter: {
+    icon: <TwitterLogo size={60} weight="fill" />,
+    link: 'https://twitter.com/ngudbhav',
+  },
+  instagram: {
+    icon: <InstagramLogo size={60} weight="fill" />,
+    link: 'https://www.instagram.com/ngudbhav/',
+  },
+  facebook: {
+    icon: <FacebookLogo size={60} weight="fill" />,
+    link: 'https://www.facebook.com/ngudbhav',
+  },
 };
 
 export const ABOUT_INTRODUCTION = `

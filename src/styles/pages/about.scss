@@ -29,6 +29,10 @@
   &__skill-title {
     color: var(--primary-color);
     margin-right: 1rem;
+
+    a {
+      color: var(--primary-color);
+    }
   }
 
   &__web-skill {
@@ -37,6 +41,15 @@
 
   &__skill-content {
     font-size: 2rem;
+  }
+
+  &__connect-icons {
+    justify-content: space-evenly;
+    margin-top: 2rem;
+  }
+
+  &__award-icon {
+    margin-top: 1rem;
   }
 
   hr {
