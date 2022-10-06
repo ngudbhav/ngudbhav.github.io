@@ -13,7 +13,7 @@ const Form = () => {
   const submitHandler = useCallback(async (event) => {
     event.preventDefault();
     setSubmitting(true);
-    await submit(event);
+    await submit(new FormData(event.target));
     setSubmitting(false);
   }, []);
 

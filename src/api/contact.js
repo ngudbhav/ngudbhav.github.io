@@ -1,10 +1,9 @@
 const sgMail = require('@sendgrid/mail');
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
-export default function contactFormHandler(request, response) {
-  console.log(request.body);
-  console.log(request.query);
-  const { body } = request;
+export default async function handler(req, res) {
+  const { body } = req;
+  console.log(body);
   const msg = {
     to: process.env.TO_EMAIL,
     from: process.env.FROM_EMAIL,
@@ -15,5 +14,5 @@ export default function contactFormHandler(request, response) {
     `,
   }
   sgMail.send(msg);
-  return response.status(200).json({});
-};
+  return res.status(200).json({});
+}
