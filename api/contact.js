@@ -13,6 +13,6 @@ export default async function handler(req, res) {
       Sent from ${body.website}
     `,
   }
-  sgMail.send(msg).catch((error) => console.log(error));
+  sgMail.send(msg).then(response => console.log(response)).catch((error) => console.log(error));
   return res.status(200).json({});
 }

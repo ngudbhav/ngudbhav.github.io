@@ -20,7 +20,7 @@ const Form = () => {
   return (
     <form onSubmit={submitHandler} method="POST" className={`${CLASSNAME}__form flex-col`}>
       <input type="text" placeholder="Your Name" autoComplete="name" className={`${CLASSNAME}__form-input`} name="name" />
-      <input type="hidden" name="website" value="" />
+      <input type="hidden" name="website" value="https://www.ngudbhav.com/" />
       <br />
       <input type="email" placeholder="Your Email" autoComplete="email" className={`${CLASSNAME}__form-input`} name="email" />
       <br />
