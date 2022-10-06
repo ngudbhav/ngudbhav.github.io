@@ -13,22 +13,11 @@
 }
 
 .index {
-  //@include header-animation;
-
-  //&.exiting {
-  //  .index {
-  //    &__header, &__links {
-  //      opacity: 0;
-  //      transition: opacity var(--animation-duration) ease-in-out;
-  //    }
-  //  }
-  //
-  //  .canvas {
-  //    display: none;
-  //  }
-  //}
-
   &__links {
+    @media screen and (max-width: 480px) {
+      flex-direction: column !important;
+    }
+
     &--left, &--right {
       padding: 1rem;
     }

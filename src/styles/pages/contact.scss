@@ -15,6 +15,10 @@ $border-width: 0.1rem;
   &__main {
     cursor: unset;
     margin-top: 0 !important;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
   }
 
   &__form {}
@@ -45,6 +49,10 @@ $border-width: 0.1rem;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
     width: 30%;
+
+    @media screen and (max-width: 480px) {
+      width: 100%;
+    }
 
     &:hover {
       background-color: var(--primary-background-color);
