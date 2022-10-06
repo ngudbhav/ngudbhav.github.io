@@ -3,6 +3,7 @@ module.exports = {
     siteUrl: "https://www.ngudbhav.com/",
   },
   plugins: [
+    "gatsby-plugin-offline",
     "gatsby-plugin-transition-link",
     "gatsby-plugin-sass",
     "gatsby-plugin-image",

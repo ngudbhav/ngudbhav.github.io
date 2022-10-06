@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useCallback, useState } from 'react';
 
 import Box from 'components/Box';
 import Layout from 'components/Layout';
@@ -8,26 +8,39 @@ import 'styles/pages/contact.scss';
 
 const CLASSNAME = 'contact';
 
-const Form = () => (
-  <form onSubmit={submit} method="POST" className={`${CLASSNAME}__form flex-col`}>
-    <input type="text" placeholder="Your Name" autoComplete="name" className={`${CLASSNAME}__form-input`} />
-    <br />
-    <input type="email" placeholder="Your Email" autoComplete="email" className={`${CLASSNAME}__form-input`} />
-    <br />
-    <textarea placeholder="Message" className={`${CLASSNAME}__form-textarea`} rows="4" />
-    <br />
-    <button type="submit" className={`${CLASSNAME}__form-submit`}>Submit</button>
-  </form>
-);
+const Form = () => {
+  const [isSubmitting, setSubmitting] = useState(false);
+  const submitHandler = useCallback(async (event) => {
+    event.preventDefault();
+    setSubmitting(true);
+    await submit(event);
+    setSubmitting(false);
+  }, []);
 
-const Body = React.memo(({ transitionStatus }) => (
+  return (
+    <form onSubmit={submitHandler} method="POST" className={`${CLASSNAME}__form flex-col`}>
+      <input type="text" placeholder="Your Name" autoComplete="name" className={`${CLASSNAME}__form-input`} name="name" />
+      <input type="hidden" name="website" value="" />
+      <br />
+      <input type="email" placeholder="Your Email" autoComplete="email" className={`${CLASSNAME}__form-input`} name="email" />
+      <br />
+      <textarea placeholder="Message" className={`${CLASSNAME}__form-textarea`} rows="4" name="message" />
+      <br />
+      <button type="submit" className={`${CLASSNAME}__form-submit`} disabled={isSubmitting}>
+        {isSubmitting ? 'Submitting...' : 'Submit'}
+      </button>
+    </form>
+  );
+}
+
+const Body = ({ transitionStatus }) => (
   <Layout
     headerProps={
-    {
-      text1: 'Send me a Message',
-      text2: 'I am very responsive and will get back to you as soon as possible.',
-      className: CLASSNAME,
-    }}
+      {
+        text1: 'Send me a Message',
+        text2: 'I am very responsive and will get back to you as soon as possible.',
+        className: CLASSNAME,
+      }}
     transitionStatus={transitionStatus}
   >
     <section className={`${CLASSNAME}__container`}>
@@ -36,7 +49,7 @@ const Body = React.memo(({ transitionStatus }) => (
       </Box>
     </section>
   </Layout>
-));
+);
 
 const Contact = ({ transitionStatus }) => (
   <div className={transitionStatus}>
