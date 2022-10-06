@@ -15,7 +15,6 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
     "gatsby": "^4.24.1",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-image": "^2.24.0",
@@ -34,6 +33,7 @@
     "sass": "^1.55.0"
   },
   "devDependencies": {
+    "@sendgrid/mail": "^7.7.0",
     "eslint-config-react-app": "^7.0.1"
   }
 }
