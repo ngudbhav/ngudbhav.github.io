@@ -1,0 +1,29 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
+@import './index/header';
+
+.canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.index {
+  &__links {
+    @media screen and (max-width: 480px) {
+      flex-direction: column !important;
+    }
+
+    &--left, &--right {
+      padding: 1rem;
+    }
+  }
+
+  &__link-icon {
+    margin-top: 1rem;
+  }
+}

@@ -1,0 +1,29 @@
+.header {
+  padding: var(--header-footer-height);
+
+  @media screen and (max-width: 480px) {
+    padding: 2rem;
+  }
+
+  &__text {
+    width: 90%;
+  }
+
+  &.exiting, &.exited {
+    .header {
+      &__text {
+        opacity: 0;
+        transition: opacity var(--animation-duration) ease-in-out;
+      }
+    }
+  }
+
+  &.entering, &.entered {
+    .header {
+      &__text {
+        opacity: 1;
+        transition: opacity var(--animation-duration) ease-in-out;
+      }
+    }
+  }
+}

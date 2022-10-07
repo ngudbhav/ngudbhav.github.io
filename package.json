@@ -1,33 +1,39 @@
 {
-  "name": "ngudbhav.github.io",
-  "version": "3.0.0",
-  "description": "My Resume Website",
-  "main": "./bin/www",
+  "name": "ngudbhav",
+  "version": "4.0.0",
+  "description": "NGUdbhav",
+  "license": "MIT",
+  "author": "Udbhav Gambhir",
+  "keywords": [
+    "gatsby"
+  ],
   "scripts": {
-    "start": "node ./bin/www"
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "cp -R ./src/api ./api && gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
   },
   "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "debug": "^4.3.3",
-    "express": "^4.17.1",
-    "hbs": "^4.2.0",
-    "http-errors": "^1.8.1",
-    "morgan": "^1.10.0",
-    "nodemailer": "^6.7.2",
-    "request": "^2.88.2"
+    "gatsby": "^4.24.1",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-manifest": "^4.24.0",
+    "gatsby-plugin-offline": "^5.24.0",
+    "gatsby-plugin-sass": "^5.24.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-plugin-sitemap": "^5.24.0",
+    "gatsby-plugin-transition-link": "^1.20.5",
+    "gatsby-source-filesystem": "^4.24.0",
+    "gatsby-transformer-sharp": "^4.24.0",
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.55.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ngudbhav/ngudbhav.github.io.git"
-  },
-  "keywords": [
-    "Resume",
-    "Website"
-  ],
-  "author": "Udbhav Gambhir",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ngudbhav/ngudbhav.github.io/issues"
-  },
-  "homepage": "https://www.ngudbhav.com"
+  "devDependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "eslint-config-react-app": "^7.0.1"
+  }
 }

@@ -1,0 +1,51 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
+.projects {
+  &__container {
+    padding: 5rem;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+
+  &__main {
+    margin-top: 0 !important;
+    cursor: unset;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+
+  &__links {
+    @media screen and (max-width: 480px) {
+      flex-direction: column !important;
+    }
+
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    .box-link {
+      @media screen and (max-width: 480px) {
+        padding: 2rem;
+      }
+    }
+  }
+
+  &__link {
+    width: 40%;
+    background: var(--primary-background-color);
+
+    @media screen and (max-width: 480px) {
+      width: 100%;
+    }
+  }
+
+  &__link-image {
+    margin-top: 2rem;
+  }
+}

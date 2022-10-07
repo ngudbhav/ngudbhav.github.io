@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Rockwell';
+  src: local('Rockwell'), url('fonts/rockwell.ttf') format('truetype');
+}
+
+:root {
+  --body-bg: #151515;
+  --body-color: #ffffff;
+  --base-font-size: 1.6rem;
+  --body-margin: 1rem;
+  --header-footer-height: 5rem;
+  --primary-color: #ffa500;
+  --primary-background-color: #100a00;
+  --border-radius: 1rem;
+  --animation-duration: 0.2s;
+}
+
+html {
+  font-size: 62.5%; // will work when user change browser font
+  font-family: Rockwell, sans-serif; // Text is shifting upwards for some reason!
+}
+
+body {
+  background-color: var(--body-bg);
+  color: var(--body-color);
+  font-size: var(--base-font-size);
+}
+
+html, body, #___gatsby, #gatsby-focus-wrapper {
+  height: 100vh;
+}
+
+a {
+  color: var(--body-color);
+  text-decoration: none;
+}
+
+.gatsby-plugin-transition-link-portal {
+  width: 100%;
+}

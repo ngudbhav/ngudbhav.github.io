@@ -1,0 +1,23 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
+.resume {
+  &__container {
+    padding: 5rem;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+
+  &__main {
+    display: block;
+    margin-top: 0 !important;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+}
