@@ -21,7 +21,7 @@ const Body = React.memo(({ transitionStatus }) => {
     <Layout
       headerProps={
         {
-          text2: introduction,
+          text1: introduction,
           className: CLASSNAME,
         }}
       transitionStatus={transitionStatus}

@@ -6,6 +6,10 @@
 .projects {
   &__container {
     padding: 5rem;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
   }
 
   &__main {
@@ -24,6 +28,12 @@
 
     justify-content: space-evenly;
     flex-wrap: wrap;
+
+    .box-link {
+      @media screen and (max-width: 480px) {
+        padding: 2rem;
+      }
+    }
   }
 
   &__link {

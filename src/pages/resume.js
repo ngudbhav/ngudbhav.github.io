@@ -16,7 +16,7 @@ const Body = React.memo(() => {
   return (
     <Layout headerProps={
       {
-        text1: resumeHeading,
+        text2: resumeHeading,
         className: CLASSNAME,
       }
     }>
