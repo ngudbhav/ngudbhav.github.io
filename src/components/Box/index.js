@@ -30,7 +30,7 @@ const Box = ({
         exit: { length: TIMING },
         entry: { length: TIMING, delay: TIMING },
         children: <BoxContent />,
-        activeClassName: 'box-link--active',
+        activeClassName: link ? 'box-link--active' : null,
       },
     );
   }
