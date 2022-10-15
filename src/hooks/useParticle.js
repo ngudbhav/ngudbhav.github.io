@@ -78,8 +78,10 @@ function useParticle(imageSource, canvasElement) {
 
   useEffect(() => {
     window.addEventListener('mousemove', setMousePosition);
+    window.addEventListener('touchmove', setMousePosition);
     return () => {
       window.removeEventListener('mousemove', setMousePosition);
+      window.removeEventListener('touchmove', setMousePosition);
     };
   }, [setMousePosition]);
 
