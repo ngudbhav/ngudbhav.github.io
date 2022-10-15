@@ -23,6 +23,13 @@ function useParticle(imageSource, canvasElement) {
     MOUSE_POSITION.y = event.y + canvasElement.clientTop / 2;
   }, [canvasElement]);
 
+  const setTouchPosition = useCallback(event => {
+    if (!canvasElement) return;
+
+    MOUSE_POSITION.x = event.touches[0].clientX + canvasElement.clientLeft / 2;
+    MOUSE_POSITION.y = event.touches[0].clientY + canvasElement.clientTop / 2;
+  }, [canvasElement]);
+
   const initialiseParticles = useCallback(dimensions => {
     if (!canvasElement || !img) return;
 
@@ -78,12 +85,12 @@ function useParticle(imageSource, canvasElement) {
 
   useEffect(() => {
     window.addEventListener('mousemove', setMousePosition);
-    window.addEventListener('touchmove', setMousePosition);
+    window.addEventListener('touchmove', setTouchPosition);
     return () => {
       window.removeEventListener('mousemove', setMousePosition);
-      window.removeEventListener('touchmove', setMousePosition);
+      window.removeEventListener('touchmove', setTouchPosition);
     };
-  }, [setMousePosition]);
+  }, [setMousePosition, setTouchPosition]);
 
   useEffect(() => {
     setCanvasDimensions();
