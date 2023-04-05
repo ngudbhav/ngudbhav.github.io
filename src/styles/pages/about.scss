@@ -1,3 +1,9 @@
+@import '../normalise';
+@import '../base';
+@import '../utils';
+@import '../anim';
+
+
 .about {
   &__container, &__award-container {
     padding: 5rem;
