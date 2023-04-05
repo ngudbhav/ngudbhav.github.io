@@ -1,19 +1,9 @@
-//@mixin header-animation {
-//  &.entering {
-//    @at-root .header {
-//      &__text {
-//        opacity: 0;
-//        transition: opacity var(--animation-duration) ease-in-out;
-//      }
-//    }
-//  }
-//
-//  &.exiting {
-//    @at-root .header {
-//      &__text {
-//        opacity: 0;
-//        transition: opacity var(--animation-duration) ease-in-out;
-//      }
-//    }
-//  }
-//}
+@keyframes shimmer {
+  0% {
+    background-position: -468px 0;
+  }
+
+  100% {
+      background-position: 468px 0;
+  }
+}
