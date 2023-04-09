@@ -11,7 +11,7 @@ export const submit = async (formData) => {
     },
   }
   const response = await window.fetch(
-    '/api/contact', options,
+    '/api/contact/', options,
   )
   if (response.status === SUCCESS_CODE) {} else {
     alert();
