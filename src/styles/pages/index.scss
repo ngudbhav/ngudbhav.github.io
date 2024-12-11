@@ -1,9 +1,9 @@
-@import '../normalise';
-@import '../base';
-@import '../utils';
-@import '../anim';
+@use '../normalise';
+@use '../base';
+@use '../utils';
+@use '../anim';
 
-@import './index/header';
+@use './index/header';
 
 .canvas {
   position: fixed;

@@ -1,7 +1,7 @@
-@import '../normalise';
-@import '../base';
-@import '../utils';
-@import '../anim';
+@use '../normalise';
+@use '../base';
+@use '../utils';
+@use '../anim';
 
 .projects {
   &__container {
@@ -22,12 +22,12 @@
   }
 
   &__links {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
     @media screen and (max-width: 480px) {
       flex-direction: column !important;
     }
-
-    justify-content: space-evenly;
-    flex-wrap: wrap;
 
     .box-link {
       @media screen and (max-width: 480px) {
