@@ -1,9 +1,13 @@
 .navbar {
   top: 0;
-  right: 0;
 
   &__home {
     cursor: pointer;
     color: var(--primary-color);
+  }
+
+  &__blog {
+    cursor: pointer;
+    animation: new-icon 0.5s infinite;
   }
 }

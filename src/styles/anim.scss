@@ -7,3 +7,17 @@
       background-position: 100% 0;
   }
 }
+
+@keyframes new-icon {
+  0% {
+    color: var(--primary-color);
+  }
+
+  50% {
+    color: var(--body-color);
+  }
+
+  100% {
+    color: var(--primary-color);
+  }
+}

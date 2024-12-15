@@ -26,7 +26,7 @@ const Body = React.memo(({ transitionStatus }) => {
         }}
       transitionStatus={transitionStatus}
     >
-      <section className={`${CLASSNAME}__award-container flex-row`}>
+      <section className={`${CLASSNAME}__award-container flex-row space-between`}>
         {ABOUT_AWARDS.map((award, index) => (
           <Box component="div" className={`${CLASSNAME}__main-award`}>
             <Trophy size={40} weight="fill" />
