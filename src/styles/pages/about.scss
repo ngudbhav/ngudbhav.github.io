@@ -37,8 +37,6 @@
   }
 
   &__award-container {
-    justify-content: space-between;
-
     @media screen and (max-width: 480px) {
       flex-direction: column !important;
     }
