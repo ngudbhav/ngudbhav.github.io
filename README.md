@@ -1,5 +1,5 @@
 <h1 align="center">
-  Gatsby minimal starter
+  NGUdbhav Portfolio
 </h1>
 
 ## 🚀 Quick start
