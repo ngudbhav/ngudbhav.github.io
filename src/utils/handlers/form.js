@@ -13,7 +13,7 @@ export const submit = async (formData) => {
   const response = await window.fetch(
     '/api/contact/', options,
   )
-  if (response.status === SUCCESS_CODE) {} else {
+  if (response.status !== SUCCESS_CODE) {
     alert();
   }
 }

@@ -4,9 +4,9 @@ import {
 } from "phosphor-react";
 
 export const ABOUT_AWARDS = [
-'Smart India Hackathon - 2019 WINNER',
-'Rebel Foods JS Coding Challenge - 3.0 WINNER',
-'Softpedia 100% Badge WINNER',
+  'Speaker at RubyConf India - 2025',
+  'Smart India Hackathon - 2019 WINNER',
+  'Rebel Foods JS Coding Challenge - 3.0 WINNER',
 ];
 
 export const WEB = {
