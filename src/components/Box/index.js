@@ -10,14 +10,14 @@ const BoxContent = ({children}) => (
 );
 
 const Box = ({
-  className, link, children, externalLink = false, component = TransitionLink,
+  className, link, children, externalLink = false, component = TransitionLink, ...remainingProps
 }) => {
   const [isActive, setIsActive] = React.useState(false);
 
   if (externalLink) {
     return (
-      <a href={link} target="_blank" rel="noopener noreferrer" aria-label="Read more about Udbhav" className={`${className} align-center h2 ${CLASSNAME}`}>
-        <BoxContent />
+      <a href={link} target="_blank" rel="noopener noreferrer" aria-label="Read more about Udbhav" className={`${className} align-center h2 ${CLASSNAME}`} {...remainingProps}>
+        <BoxContent>{children}</BoxContent>
       </a>
     );
   } else {
@@ -29,6 +29,7 @@ const Box = ({
         'aria-label': "Read more about Udbhav",
         children: <BoxContent>{children}</BoxContent>,
         onClick: () => link ? setIsActive(true) : null,
+        ...remainingProps
       },
     );
   }

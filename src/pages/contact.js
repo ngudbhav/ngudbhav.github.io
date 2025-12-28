@@ -3,7 +3,7 @@ import React, { useCallback, useState } from 'react';
 import Box from 'components/Box';
 import Layout from 'components/Layout';
 import Meta from 'components/OpenGraph';
-import { submit } from 'utils/handlers/form';
+import { contactSubmit } from 'utils/handlers/form';
 import 'styles/pages/contact.scss';
 
 const CLASSNAME = 'contact';
@@ -13,7 +13,7 @@ const Form = () => {
   const submitHandler = useCallback(async (event) => {
     event.preventDefault();
     setSubmitting(true);
-    await submit(new FormData(event.target));
+    await contactSubmit(new FormData(event.target));
     setSubmitting(false);
   }, []);
 

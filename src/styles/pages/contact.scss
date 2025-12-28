@@ -36,6 +36,7 @@ $border-width: 0.1rem;
     font-size: var(--base-font-size);
     color: var(--body-color);
     resize: none;
+    transition: border-color 0.2s;
 
     &:focus {
       border: 0.1rem solid var(--primary-color);

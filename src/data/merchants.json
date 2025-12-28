@@ -1,0 +1,5430 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "domains": [
+      "amazon.in"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "domains": [
+      "flipkart.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "tatacliq",
+    "name": "Tata Cliq",
+    "domains": [
+      "tatacliq.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Millennia",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "millennia",
+        "note": "Partner Offer: Tata Cliq",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "domains": [
+      "meesho.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "snapdeal",
+    "name": "Snapdeal",
+    "domains": [
+      "snapdeal.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "jiomart",
+    "name": "JioMart",
+    "domains": [
+      "jiomart.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "myntra",
+    "name": "Myntra",
+    "domains": [
+      "myntra.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "ajio",
+    "name": "Ajio",
+    "domains": [
+      "ajio.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa",
+    "domains": [
+      "nykaa.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "domains": [
+      "zara.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "hm",
+    "name": "H&M",
+    "domains": [
+      "hm.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "uniqlo",
+    "name": "Uniqlo",
+    "domains": [
+      "uniqlo.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "westside",
+    "name": "Westside",
+    "domains": [
+      "westside.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "pantaloons",
+    "name": "Pantaloons",
+    "domains": [
+      "pantaloons.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "shoppersstop",
+    "name": "Shoppers Stop",
+    "domains": [
+      "shoppersstop.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "lifestyle",
+    "name": "Lifestyle",
+    "domains": [
+      "lifestylestores.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "fabindia",
+    "name": "Fabindia",
+    "domains": [
+      "fabindia.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "marksandspencer",
+    "name": "Marks & Spencer",
+    "domains": [
+      "marksandspencer.in"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "decathlon",
+    "name": "Decathlon",
+    "domains": [
+      "decathlon.in"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "domains": [
+      "nike.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "adidas",
+    "name": "Adidas",
+    "domains": [
+      "adidas.co.in"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "domains": [
+      "in.puma.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bata",
+    "name": "Bata",
+    "domains": [
+      "bata.in"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "metro",
+    "name": "Metro Shoes",
+    "domains": [
+      "metroshoes.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "lenskart",
+    "name": "Lenskart",
+    "domains": [
+      "lenskart.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "titan",
+    "name": "Titan",
+    "domains": [
+      "titan.co.in"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "tanishq",
+    "name": "Tanishq",
+    "domains": [
+      "tanishq.co.in"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "caratlane",
+    "name": "CaratLane",
+    "domains": [
+      "caratlane.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bluestone",
+    "name": "BlueStone",
+    "domains": [
+      "bluestone.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "reliancejewels",
+    "name": "Reliance Jewels",
+    "domains": [
+      "reliancejewels.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "kalyan",
+    "name": "Kalyan Jewellers",
+    "domains": [
+      "kalyanjewellers.net"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "domains": [
+      "swiggy.com"
+    ],
+    "category": "food_delivery",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Swiggy",
+        "rank": 3
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "domains": [
+      "zomato.com"
+    ],
+    "category": "food_delivery",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 2
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's",
+    "domains": [
+      "dominos.co.in"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 2
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "pizzahut",
+    "name": "Pizza Hut",
+    "domains": [
+      "pizzahut.co.in"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "domains": [
+      "kfc.co.in"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's",
+    "domains": [
+      "mcdonaldsindia.com"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "domains": [
+      "starbucks.in"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "burgerking",
+    "name": "Burger King",
+    "domains": [
+      "burgerking.in"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "barbeque",
+    "name": "Barbeque Nation",
+    "domains": [
+      "barbequenation.com"
+    ],
+    "category": "dining",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Dining",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "eatsure",
+    "name": "Eatsure",
+    "domains": [
+      "eatsure.com"
+    ],
+    "category": "food_delivery",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bigbasket",
+    "name": "BigBasket",
+    "domains": [
+      "bigbasket.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Grocery Bigbasket",
+        "rank": 2
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 3
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Dining/Grocery/Food Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "blinkit",
+    "name": "Blinkit",
+    "domains": [
+      "blinkit.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "zepto",
+    "name": "Zepto",
+    "domains": [
+      "zepto.co.in"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "instamart",
+    "name": "Swiggy Instamart",
+    "domains": [
+      "swiggy.com/instamart"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Swiggy",
+        "rank": 2
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Food Delivery",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "naturesbasket",
+    "name": "Nature's Basket",
+    "domains": [
+      "naturesbasket.co.in"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "spencers",
+    "name": "Spencer's",
+    "domains": [
+      "spencers.in"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "dmart",
+    "name": "DMart",
+    "domains": [
+      "dmart.in"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "moreretail",
+    "name": "More Retail",
+    "domains": [
+      "moreretail.in"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "starbazaar",
+    "name": "Star Bazaar",
+    "domains": [
+      "starbazaar.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "HSBC Cashback",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "hsbc_cashback",
+        "note": "Partner Offer: Grocery",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "croma",
+    "name": "Croma",
+    "domains": [
+      "croma.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "reliancedigital",
+    "name": "Reliance Digital",
+    "domains": [
+      "reliancedigital.in"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "domains": [
+      "apple.com/in"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Apple",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "domains": [
+      "samsung.com/in"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "vijaysales",
+    "name": "Vijay Sales",
+    "domains": [
+      "vijaysales.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "sony",
+    "name": "Sony Center",
+    "domains": [
+      "sony.co.in"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "domains": [
+      "dell.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "hp",
+    "name": "HP",
+    "domains": [
+      "hp.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "lenovo",
+    "name": "Lenovo",
+    "domains": [
+      "lenovo.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "boat",
+    "name": "Boat",
+    "domains": [
+      "boat-lifestyle.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "oneplus",
+    "name": "OnePlus",
+    "domains": [
+      "oneplus.in"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "mi",
+    "name": "Xiaomi",
+    "domains": [
+      "mi.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "makemytrip",
+    "name": "MakeMyTrip",
+    "domains": [
+      "makemytrip.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "goibibo",
+    "name": "Goibibo",
+    "domains": [
+      "goibibo.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "cleartrip",
+    "name": "Cleartrip",
+    "domains": [
+      "cleartrip.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Flights",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Flights",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "easemytrip",
+    "name": "EaseMyTrip",
+    "domains": [
+      "easemytrip.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "yatra",
+    "name": "Yatra",
+    "domains": [
+      "yatra.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Flights",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Flights",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "ixigo",
+    "name": "Ixigo",
+    "domains": [
+      "ixigo.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "booking",
+    "name": "Booking.com",
+    "domains": [
+      "booking.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "agoda",
+    "name": "Agoda",
+    "domains": [
+      "agoda.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "domains": [
+      "airbnb.co.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "domains": [
+      "uber.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "ola",
+    "name": "Ola",
+    "domains": [
+      "olacabs.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "indigo",
+    "name": "Indigo",
+    "domains": [
+      "goindigo.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "airindia",
+    "name": "Air India",
+    "domains": [
+      "airindia.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "vistara",
+    "name": "Vistara",
+    "domains": [
+      "airvistara.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "spicejet",
+    "name": "SpiceJet",
+    "domains": [
+      "spicejet.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "irctc",
+    "name": "IRCTC",
+    "domains": [
+      "irctc.co.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "Axis Ace",
+        "rewardRate": 1.5,
+        "rewardType": "cashback",
+        "valuePer100": 1.5,
+        "image": "axis_ace",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "redbus",
+    "name": "RedBus",
+    "domains": [
+      "redbus.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "abhibus",
+    "name": "AbhiBus",
+    "domains": [
+      "abhibus.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "taj",
+    "name": "Taj Hotels",
+    "domains": [
+      "tajhotels.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 33.0,
+        "rewardType": "points",
+        "valuePer100": 33.0,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Hotels",
+        "rank": 2
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 3
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "marriott",
+    "name": "Marriott",
+    "domains": [
+      "marriott.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "hyatt",
+    "name": "Hyatt",
+    "domains": [
+      "hyatt.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "accor",
+    "name": "Accor/Ibis",
+    "domains": [
+      "all.accor.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "oberoi",
+    "name": "Oberoi Hotels",
+    "domains": [
+      "oberoihotels.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "itchotels",
+    "name": "ITC Hotels",
+    "domains": [
+      "itchotels.in"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 10.0,
+        "rewardType": "miles",
+        "valuePer100": 10.0,
+        "image": "axis_atlas",
+        "note": "Partner Offer: Travel Direct",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "airtel",
+    "name": "Airtel",
+    "domains": [
+      "airtel.in"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 25.0,
+        "rewardType": "cashback",
+        "valuePer100": 25.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Airtel",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "jio",
+    "name": "Jio",
+    "domains": [
+      "jio.com"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "vi",
+    "name": "Vi",
+    "domains": [
+      "myvi.in"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bsnl",
+    "name": "BSNL",
+    "domains": [
+      "bsnl.co.in"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "tatapower",
+    "name": "Tata Power",
+    "domains": [
+      "tatapower.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "adanielec",
+    "name": "Adani Electricity",
+    "domains": [
+      "adanielectricity.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bses",
+    "name": "BSES Rajdhani",
+    "domains": [
+      "bsesdelhi.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "mgl",
+    "name": "Mahanagar Gas",
+    "domains": [
+      "mahanagargas.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "igl",
+    "name": "Indraprastha Gas",
+    "domains": [
+      "iglonline.net"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "tataplay",
+    "name": "Tata Play",
+    "domains": [
+      "tataplay.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "dishtv",
+    "name": "Dish TV",
+    "domains": [
+      "dishtv.in"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utilities",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "gpay",
+    "name": "Google Pay (Bill)",
+    "domains": [
+      "pay.google.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Axis Ace",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "axis_ace",
+        "note": "Partner Offer: Utilities Gpay",
+        "rank": 1
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "amazon_pay",
+    "name": "Amazon Pay (Bill)",
+    "domains": [
+      "amazon.in/pay"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "Amazon Pay ICICI",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_apay",
+        "note": "Partner Offer: Amazon Recharge",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "bookmyshow",
+    "name": "BookMyShow",
+    "domains": [
+      "bookmyshow.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "pvr",
+    "name": "PVR",
+    "domains": [
+      "pvrcinemas.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "inox",
+    "name": "Inox",
+    "domains": [
+      "inoxmovies.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Flipkart Axis",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "axis_flipkart",
+        "note": "Partner Offer: Pvr",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "domains": [
+      "netflix.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "hotstar",
+    "name": "Disney+ Hotstar",
+    "domains": [
+      "hotstar.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "primevideo",
+    "name": "Amazon Prime",
+    "domains": [
+      "primevideo.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Amazon Pay ICICI",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_apay",
+        "note": "Partner Offer: Amazon",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Millennia",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "millennia",
+        "note": "Partner Offer: Amazon",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "domains": [
+      "spotify.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Premium",
+    "domains": [
+      "youtube.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "sonyliv",
+    "name": "SonyLIV",
+    "domains": [
+      "sonyliv.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Millennia",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "millennia",
+        "note": "Partner Offer: Sony Liv",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "apollo",
+    "name": "Apollo Pharmacy",
+    "domains": [
+      "apollopharmacy.in"
+    ],
+    "category": "medical",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "netmeds",
+    "name": "Netmeds",
+    "domains": [
+      "netmeds.com"
+    ],
+    "category": "medical",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "1mg",
+    "name": "1mg",
+    "domains": [
+      "1mg.com"
+    ],
+    "category": "medical",
+    "recommendedCards": [
+      {
+        "card": "Tata Neu Infinity",
+        "rewardRate": 10.0,
+        "rewardType": "neucoins",
+        "valuePer100": 10.0,
+        "image": "tata_neu_inf",
+        "note": "Partner Offer: Tata Brands",
+        "rank": 1
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 2
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 3
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "pharmeasy",
+    "name": "Pharmeasy",
+    "domains": [
+      "pharmeasy.in"
+    ],
+    "category": "medical",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "practo",
+    "name": "Practo",
+    "domains": [
+      "practo.com"
+    ],
+    "category": "medical",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "urbancompany",
+    "name": "Urban Company",
+    "domains": [
+      "urbancompany.com"
+    ],
+    "category": "services",
+    "recommendedCards": [
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 16.5,
+        "rewardType": "points",
+        "valuePer100": 16.5,
+        "image": "infinia",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 9.9,
+        "rewardType": "points",
+        "valuePer100": 9.9,
+        "image": "dcb",
+        "note": "Partner Offer: Smartbuy Vouchers",
+        "rank": 2
+      },
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 3
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "domains": [
+      "paytm.com"
+    ],
+    "category": "wallet",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "Axis Ace",
+        "rewardRate": 1.5,
+        "rewardType": "cashback",
+        "valuePer100": 1.5,
+        "image": "axis_ace",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "cred",
+    "name": "Cred",
+    "domains": [
+      "cred.club"
+    ],
+    "category": "wallet",
+    "recommendedCards": [
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 1
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 2
+      },
+      {
+        "card": "HDFC Diners Black",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "dcb",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "Axis Ace",
+        "rewardRate": 1.5,
+        "rewardType": "cashback",
+        "valuePer100": 1.5,
+        "image": "axis_ace",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "dunzo",
+    "name": "Dunzo",
+    "domains": [
+      "dunzo.com"
+    ],
+    "category": "services",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "porter",
+    "name": "Porter",
+    "domains": [
+      "porter.in"
+    ],
+    "category": "services",
+    "recommendedCards": [
+      {
+        "card": "SBI Cashback",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "sbi_cashback",
+        "note": "Online Cashback",
+        "rank": 1
+      },
+      {
+        "card": "Swiggy HDFC",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "swiggy_hdfc",
+        "note": "Partner Offer: Online Shopping",
+        "rank": 2
+      },
+      {
+        "card": "Axis Atlas",
+        "rewardRate": 4.0,
+        "rewardType": "miles",
+        "valuePer100": 4.0,
+        "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 3
+      },
+      {
+        "card": "HDFC Infinia",
+        "rewardRate": 3.3,
+        "rewardType": "points",
+        "valuePer100": 3.3,
+        "image": "infinia",
+        "note": "Base Reward Rate",
+        "rank": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+@use '../normalise';
+@use '../base';
+@use '../utils';
+@use '../anim';
+
+$border-radius: 3rem;
+$input-padding: 1.5rem;
+$border-width: 0.1rem;
+
+.shop {
+  &__container {
+    padding: 0 5rem 5rem;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+
+  &__main {
+    cursor: unset;
+    margin-top: 0 !important;
+
+    @media screen and (max-width: 480px) {
+      padding: 2rem;
+    }
+  }
+
+  &__search {
+    margin-bottom: 0 !important;
+  }
+
+  &__suggestion-item {
+    padding: 1.5rem;
+    margin: 1.5rem 1.5rem 1.5rem 0 !important;
+    transition: border-color var(--animation-duration), width var(--animation-duration);
+    animation: slide-in var(--animation-duration) ease-out forwards;
+
+    &:hover {
+      border: 0.1rem solid var(--primary-color);
+    }
+  }
+
+  &__results {
+    border: none;
+    text-align: justify;
+    font-size: var(--base-font-size);
+    font-weight: var(--base-font-weight);
+
+    &:first-of-type {
+      border-top: 1rem solid var(--primary-color);
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+  }
+
+  &__results-name, &__results-comment, &__results-rewards-rate, &__results-rewards-type, &__results-value {
+    padding: 1rem;
+    padding-inline: 0;
+    color: #a0a0a0;
+  }
+
+  &__results-name {
+    padding-top: 0;
+    color: var(--body-color);
+  }
+
+  &__results-rewards-rate, &__results-rewards-type, &__results-value {
+    border-bottom: 0.2rem solid #2a2a2a;
+  }
+
+  &__results-value {
+    border-bottom: 0;
+  }
+
+  &__results-value-value, &__results-rewards-type-value, &__results-rewards-rate-value {
+    color: var(--body-color);
+  }
+
+  &__form-input, &__form-textarea {
+    background-color: var(--primary-background-color);
+    outline: 0;
+    padding: $input-padding;
+    border-radius: $border-radius;
+    border: $border-width solid var(--primary-background-color);
+    font-size: var(--base-font-size);
+    color: var(--body-color);
+    resize: none;
+    transition: border-color 0.2s;
+
+    &:focus {
+      border: 0.1rem solid var(--primary-color);
+    }
+  }
+}

@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react';
 import { CirclesThreePlus, Files, PaperPlaneTilt, Person } from 'phosphor-react';
+import { graphql, useStaticQuery } from "gatsby";
 
 import Box from 'components/Box';
 import Layout from 'components/Layout';
@@ -74,11 +75,24 @@ const Index = ({ transitionStatus }) => (
 );
 
 export default Index;
-export const Head = () => (
-  <>
-    <Meta />
-    <title>NGUdbhav || Udbhav Gambhir</title>
-    <meta name="title" content="NGUdbhav || Udbhav Gambhir" />
-    <meta name="description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website Landing Page"/>
-  </>
-);
+export const Head = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          title
+          description
+        }
+      }
+    }
+  `)
+
+  return (
+    <>
+      <Meta />
+      <title>{data.site.siteMetadata.title}</title>
+      <meta name="title" content={data.site.siteMetadata.title} />
+      <meta name="description" content={data.site.siteMetadata.description} />
+    </>
+  )
+};

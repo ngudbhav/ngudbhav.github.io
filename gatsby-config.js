@@ -4,9 +4,19 @@ module.exports = {
     FAST_DEV: true,
   },
   siteMetadata: {
+    title: 'NGUdbhav || Udbhav Gambhir',
+    description: 'Udbhav Gambhir, NGUdbhav, Portfolio Website Resume',
     siteUrl: "https://www.ngudbhav.com/",
   },
   plugins: [
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "data",
+        path: `${__dirname}/src/data/`,
+      },
+    },
+    "gatsby-transformer-json",
     "gatsby-plugin-offline",
     "gatsby-plugin-transition-link",
     "gatsby-plugin-sass",
