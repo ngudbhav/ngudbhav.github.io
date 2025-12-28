@@ -2,7 +2,6 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 
 const API_KEY = process.env.SENDGRID_API_KEY;
 const DOMAIN = "ngudbhav.com";
-console.log(API_KEY);
 
 export default async function handler(req, res) {
   const { body } = req;
