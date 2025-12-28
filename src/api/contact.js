@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 const API_KEY = process.env.SENDGRID_API_KEY;
 const DOMAIN = "ngudbhav.com";
