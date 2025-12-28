@@ -125,6 +125,7 @@ const Shopper = ({ transitionStatus, data }) => (
       {
         text1: 'Shop Smart',
         text2: `Last updated: ${new Date(data.allGitHubFileMeta.nodes[0].lastUpdatedAt).toLocaleDateString("en-IN", {
+          day: "numeric",
           month: "long",
           year: "numeric",
         })}`,

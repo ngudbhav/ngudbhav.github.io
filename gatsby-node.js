@@ -10,7 +10,7 @@ export const sourceNodes = async (
 
   const owner = "ngudbhav"
   const repo = "ngudbhav.github.io"
-  const filePath = ".eslintrc.json"
+  const filePath = "src/data/merchants.json"
   const branch = "master" // or "main"
 
   const url = `https://api.github.com/repos/${owner}/${repo}/commits?path=${filePath}&sha=${branch}&per_page=1`
