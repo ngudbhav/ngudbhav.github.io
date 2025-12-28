@@ -1,4 +1,4 @@
-const Mailgun = require('mailgun.js');
+import Mailgun from 'mailgun.js';
 const mailgun = new Mailgun(FormData);
 const mg = mailgun.client({username: 'api', key: process.env.SENDGRID_API_KEY});
 
