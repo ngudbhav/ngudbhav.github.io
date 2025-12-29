@@ -18,6 +18,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.4.0",
+    "ajv": "^8.17.1",
     "gatsby": "^5.14.0",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-image": "^3.14.0",
