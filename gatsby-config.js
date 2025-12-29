@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/icons/mstile-310x310.png",
+        icon: "static/mstile-310x310.png",
       },
     },
     "gatsby-plugin-sharp",
