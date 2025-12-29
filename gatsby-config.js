@@ -25,6 +25,21 @@ module.exports = {
       resolve: "gatsby-plugin-manifest",
       options: {
         icon: "static/mstile-310x310.png",
+        name: `NGUdbhav || Udbhav Gambhir`,
+        short_name: `NGUdbhav`,
+        start_url: `/shopper`,
+        background_color: `#151515`,
+        theme_color: `#ffa500`,
+        display: `standalone`,
+        "screenshots": [
+          {
+            "src": "static/ss.png",
+            "sizes": "640x320",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Shopper Stop"
+          }
+        ]
       },
     },
     "gatsby-plugin-offline",
