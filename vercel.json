@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/shopper/$1",
+      "has": [
+        {
+          "type": "host",
+          "value": "shop.ngudbhav.com"
+        }
+      ]
+    }
+  ]
+}
