@@ -14,6 +14,7 @@ const Meta = () => (
     <meta property="og:url" content="https://ngudbhav.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="NGUdbhav || Udbhav Gambhir" />
+    <meta property="og:site_name" content="NGUdbhav || Udbhav Gambhir" />
     <meta property="og:description" content="Udbhav Gambhir, NGUdbhav, Portfolio Website" />
     <meta name="robots" content="index, follow" />
     <meta charSet="UTF-8" />
