@@ -40,9 +40,7 @@ export async function POST(req, res) {
 
 export default {
   async fetch(request, env) {
-    const req = await request.clone().json();
-    console.log(req);
-    const { body } = req;
+    const body = await request.clone().json();
     console.log(body);
     const form = new FormData();
     form.append("from", process.env.FROM_EMAIL);
@@ -76,7 +74,3 @@ export default {
     }
   }
 };
-
-export async function onRequest(context) {
-
-}
