@@ -1,8 +1,9 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/shopper/$1",
+      "source": "/:match*",
+      "destination": "/shopper/:match*",
       "has": [
         {
           "type": "host",
