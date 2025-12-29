@@ -17,7 +17,6 @@ module.exports = {
       },
     },
     "gatsby-transformer-json",
-    "gatsby-plugin-offline",
     "gatsby-plugin-transition-link",
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
@@ -28,6 +27,7 @@ module.exports = {
         icon: "static/mstile-310x310.png",
       },
     },
+    "gatsby-plugin-offline",
     "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-sharp",
