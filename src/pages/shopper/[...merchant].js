@@ -1,10 +1,10 @@
-import React, { useCallback, useState } from 'react';
-import {graphql} from "gatsby";
+import React, { useCallback, useEffect, useState } from 'react';
+import { graphql, navigate } from "gatsby";
 
 import Meta from 'components/OpenGraph';
 import Layout from 'components/Layout';
 import Box from 'components/Box';
-import {shopper, shopperMerchants} from "utils/handlers/form";
+import { shopper, shopperMerchants } from "utils/handlers/form";
 
 import 'styles/pages/shopper.scss';
 
@@ -75,10 +75,10 @@ const Suggestions = ({ suggestions, clickHandler }) => (
   </div>
 );
 
-const Body = React.memo(({ data }) => {
+const Body = React.memo(({ data, query: initialQuery = '' }) => {
   const [results, setResults] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState(initialQuery.toLowerCase());
   const suggestMerchants = useCallback((event) => {
     setQuery(event.target.value);
     if (event.target.value.length === 0) {
@@ -90,11 +90,8 @@ const Body = React.memo(({ data }) => {
   }, []);
   const setMerchant = useCallback((event) => {
     const inputQuery = event.currentTarget.dataset.name;
-    const result = shopper(inputQuery, data);
     if (inputQuery) {
-      setResults(result);
-      suggestMerchants({target: {value: ''} });
-      setQuery(inputQuery);
+      navigate(`/shopper/${inputQuery}`, {replace: true});
     } else {
       setResults([]);
     }
@@ -103,10 +100,19 @@ const Body = React.memo(({ data }) => {
     if (event.key === 'Enter') {
       if (suggestions[0]) {
         const inputQuery = suggestions[0].name;
-        setMerchant({currentTarget: {dataset: {name: inputQuery}}});
+        navigate(`/shopper/${inputQuery}`, {replace: true});
       }
     }
   }, [suggestions]);
+  useEffect(() => {
+    console.log(query);
+    if (query && query.length > 0) {
+      const result = shopper(query, data);
+      setResults(result);
+      suggestMerchants({target: {value: ''} });
+      setQuery(initialQuery);
+    }
+  }, []);
 
   return (
     <>
@@ -119,7 +125,7 @@ const Body = React.memo(({ data }) => {
   );
 });
 
-const Shopper = ({ transitionStatus, data }) => (
+const Shopper = ({ transitionStatus, data, params }) => (
   <Layout
     headerProps={
       {
@@ -134,7 +140,7 @@ const Shopper = ({ transitionStatus, data }) => (
     transitionStatus={transitionStatus}
   >
     <section className={`${CLASSNAME}__container full-height`}>
-      <Body data={data} />
+      <Body data={data} query={params.merchant} />
     </section>
   </Layout>
 );

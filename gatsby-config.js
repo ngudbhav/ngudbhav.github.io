@@ -31,6 +31,16 @@ module.exports = {
         background_color: `#151515`,
         theme_color: `#ffa500`,
         display: `standalone`,
+        screenshots: [
+          {
+            "src": "static/ss.png",
+            "sizes": "640x320",
+            "type": "image/png",
+            "label": "Shopper Stop",
+            "platform": "wide",
+            // "form_factor": "wide"
+          }
+        ]
       },
     },
     "gatsby-plugin-offline",
