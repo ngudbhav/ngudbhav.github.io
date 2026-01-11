@@ -1,32 +1,26 @@
-import React, { useCallback } from 'react';
-import { graphql, navigate } from "gatsby";
+import React from 'react';
+import { graphql } from "gatsby";
 
 import Meta from 'components/OpenGraph';
 import Layout from 'components/Layout';
 import Box from 'components/Box';
 
 import 'styles/pages/shopper.scss';
+import TransitionLink from "gatsby-plugin-transition-link";
 
 const CLASSNAME = 'shop';
 
-const Suggestions = ({ suggestions, clickHandler }) => (
+const Body = React.memo(({ data }) => (
   <div className={`${CLASSNAME}__suggestions flex-row flex-wrap justify-center merchants__container`}>
-    {suggestions.map((suggestion, index) => (
-      <Box className={`${CLASSNAME}__suggestion-item merchants__item`} component="div" externalLink={false} onClick={clickHandler} key={`suggestion-${index}`} data-name={suggestion.name}>
-        {suggestion.name}
+    {data.map((suggestion, index) => (
+      <Box className={`${CLASSNAME}__suggestion-item merchants__item`} key={`suggestion-${index}`} link={`/shopper/${suggestion.name.toLowerCase()}`}>
+        <TransitionLink>
+          {suggestion.name}
+        </TransitionLink>
       </Box>
     ))}
   </div>
-);
-
-const Body = React.memo(({ data }) => {
-  const setMerchant = useCallback((event) => {
-    const inputQuery = event.currentTarget.dataset.name;
-    navigate(`/shopper/${inputQuery}`);
-  }, []);
-
-  return <Suggestions suggestions={data.allMerchantsJson.nodes.filter(m => m.name)} clickHandler={setMerchant} />;
-});
+));
 
 const Merchants = ({ transitionStatus, data }) => (
   <Layout
@@ -43,7 +37,7 @@ const Merchants = ({ transitionStatus, data }) => (
     transitionStatus={transitionStatus}
   >
     <section className={`${CLASSNAME}__container full-height`}>
-      <Body data={data} />
+      <Body data={data.allMerchantsJson.nodes.filter(m => m.name).sort((a, b) => a.name.localeCompare(b.name))} />
     </section>
   </Layout>
 );

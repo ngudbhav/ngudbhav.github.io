@@ -27,6 +27,7 @@ $border-width: 0.1rem;
 
   &__search {
     margin-bottom: 0 !important;
+    cursor: unset;
   }
 
   &__suggestion-item {
@@ -45,6 +46,7 @@ $border-width: 0.1rem;
     text-align: justify;
     font-size: var(--base-font-size);
     font-weight: var(--base-font-weight);
+    cursor: unset;
 
     &:first-of-type {
       border-top: 1rem solid var(--primary-color);
@@ -90,6 +92,16 @@ $border-width: 0.1rem;
     &:focus {
       border: 0.1rem solid var(--primary-color);
     }
+  }
+
+  &__merchants-link {
+    justify-content: right;
+    padding: 1rem;
+  }
+
+  &__merchants-link-text {
+    margin: unset;
+    color: var(--primary-color);
   }
 }
 

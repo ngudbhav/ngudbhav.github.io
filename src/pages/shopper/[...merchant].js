@@ -7,6 +7,7 @@ import Box from 'components/Box';
 import { shopper, shopperMerchants } from "utils/handlers/form";
 
 import 'styles/pages/shopper.scss';
+import TransitionLink from "gatsby-plugin-transition-link";
 
 const CLASSNAME = 'shop';
 
@@ -91,7 +92,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
   const setMerchant = useCallback((event) => {
     const inputQuery = event.currentTarget.dataset.name;
     if (inputQuery) {
-      navigate(`/shopper/${inputQuery}`);
+      navigate(`/shopper/${inputQuery.toLowerCase()}`);
     } else {
       setResults([]);
     }
@@ -100,7 +101,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
     if (event.key === 'Enter') {
       if (suggestions[0]) {
         const inputQuery = suggestions[0].name;
-        navigate(`/shopper/${inputQuery}`);
+        navigate(`/shopper/${inputQuery.toLowerCase()}`);
       }
     }
   }, [suggestions]);
@@ -119,6 +120,11 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
       <Box className={`${CLASSNAME}__search`} component="div" externalLink={false}>
         <input type="text" placeholder="Enter a website or merchant name" autoComplete="search" className={`${CLASSNAME}__form-input full-width`} name="search" onChange={suggestMerchants} value={query} onKeyDown={selectMerchant} />
         <Suggestions suggestions={suggestions} clickHandler={setMerchant}/>
+        <div className={`${CLASSNAME}__merchants-link flex-row`}>
+          <TransitionLink to={`/shopper/merchants`} className={`${CLASSNAME}__merchants-link-text h3`}>
+            Browse all merchants
+          </TransitionLink>
+        </div>
       </Box>
       <Results results={results} />
     </>
