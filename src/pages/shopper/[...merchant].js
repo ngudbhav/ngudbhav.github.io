@@ -91,7 +91,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
   const setMerchant = useCallback((event) => {
     const inputQuery = event.currentTarget.dataset.name;
     if (inputQuery) {
-      navigate(`/shopper/${inputQuery}`, {replace: true});
+      navigate(`/shopper/${inputQuery}`);
     } else {
       setResults([]);
     }
@@ -100,7 +100,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
     if (event.key === 'Enter') {
       if (suggestions[0]) {
         const inputQuery = suggestions[0].name;
-        navigate(`/shopper/${inputQuery}`, {replace: true});
+        navigate(`/shopper/${inputQuery}`);
       }
     }
   }, [suggestions]);

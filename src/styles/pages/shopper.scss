@@ -92,3 +92,13 @@ $border-width: 0.1rem;
     }
   }
 }
+
+.merchants {
+  &__container {
+    align-items: anchor-center;
+  }
+
+  &__item {
+    width: 15%;
+  }
+}
