@@ -106,7 +106,6 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
     }
   }, [suggestions]);
   useEffect(() => {
-    console.log(query);
     if (query && query.length > 0) {
       const result = shopper(query, data);
       setResults(result);
@@ -131,7 +130,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
   );
 });
 
-const Shopper = ({ transitionStatus, data, params }) => (
+const Shopper = ({ transitionStatus, data, params, pageContext }) => (
   <Layout
     headerProps={
       {
@@ -146,7 +145,7 @@ const Shopper = ({ transitionStatus, data, params }) => (
     transitionStatus={transitionStatus}
   >
     <section className={`${CLASSNAME}__container full-height`}>
-      <Body data={data} query={params.merchant} />
+      <Body data={data} query={params.merchant || pageContext.merchant} />
     </section>
   </Layout>
 );

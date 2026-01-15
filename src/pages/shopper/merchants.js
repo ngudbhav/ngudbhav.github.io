@@ -6,7 +6,6 @@ import Layout from 'components/Layout';
 import Box from 'components/Box';
 
 import 'styles/pages/shopper.scss';
-import TransitionLink from "gatsby-plugin-transition-link";
 
 const CLASSNAME = 'shop';
 
@@ -14,9 +13,7 @@ const Body = React.memo(({ data }) => (
   <div className={`${CLASSNAME}__suggestions flex-row flex-wrap justify-center merchants__container`}>
     {data.map((suggestion, index) => (
       <Box className={`${CLASSNAME}__suggestion-item merchants__item`} key={`suggestion-${index}`} link={`/shopper/${suggestion.name.toLowerCase()}`}>
-        <TransitionLink>
-          {suggestion.name}
-        </TransitionLink>
+        {suggestion.name}
       </Box>
     ))}
   </div>

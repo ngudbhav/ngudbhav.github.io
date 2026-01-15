@@ -1,4 +1,5 @@
 import fetch from 'node-fetch'
+import path from "path";
 
 export const sourceNodes = async (
   {
@@ -39,4 +40,40 @@ export const sourceNodes = async (
       contentDigest: createContentDigest(lastUpdatedAt),
     },
   })
+}
+
+export const createPages = async ({ actions, graphql }) => {
+  const { data } = await graphql(`
+    query MerchantsQuery {
+      allMerchantsJson {
+        nodes {
+          id
+          name
+          domains
+          category
+          recommendedCards {
+            card
+            rewardRate
+            rewardType
+            valuePer100
+            rank
+          }
+        }
+      }
+      allGitHubFileMeta {
+        nodes {
+          lastUpdatedAt
+        }
+      }
+    }
+  `)
+  data.allMerchantsJson.nodes.forEach(merchant => {
+    actions.createPage({
+      path: `/shopper/${merchant.name.toLowerCase()}/`,
+      component: path.resolve(`./src/pages/shopper/[...merchant].js`),
+      context: {
+        merchant: merchant.name.toLowerCase(),
+      },
+    })
+  });
 }
