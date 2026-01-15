@@ -42,6 +42,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 5
       }
     ]
   },
@@ -88,6 +97,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 5
       }
     ]
   },
@@ -134,6 +152,15 @@
         "image": "millennia",
         "note": "Partner Offer: Tata Cliq",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -272,6 +299,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -364,6 +400,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -410,6 +455,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 5
       }
     ]
   },
@@ -594,6 +648,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 5
       }
     ]
   },
@@ -771,13 +834,22 @@
         "rank": 3
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 4
+      },
+      {
         "card": "HDFC Infinia",
         "rewardRate": 3.3,
         "rewardType": "points",
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -790,13 +862,22 @@
     "category": "fashion",
     "recommendedCards": [
       {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      },
+      {
         "card": "SBI Cashback",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 1
+        "rank": 2
       },
       {
         "card": "Swiggy HDFC",
@@ -805,7 +886,7 @@
         "valuePer100": 5.0,
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "Axis Atlas",
@@ -814,7 +895,7 @@
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Infinia",
@@ -823,7 +904,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -974,13 +1055,22 @@
     "category": "fashion",
     "recommendedCards": [
       {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      },
+      {
         "card": "SBI Cashback",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 1
+        "rank": 2
       },
       {
         "card": "Swiggy HDFC",
@@ -989,7 +1079,7 @@
         "valuePer100": 5.0,
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "Axis Atlas",
@@ -998,7 +1088,7 @@
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Infinia",
@@ -1007,7 +1097,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -1020,13 +1110,22 @@
     "category": "fashion",
     "recommendedCards": [
       {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      },
+      {
         "card": "SBI Cashback",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 1
+        "rank": 2
       },
       {
         "card": "Swiggy HDFC",
@@ -1035,7 +1134,7 @@
         "valuePer100": 5.0,
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "Axis Atlas",
@@ -1044,7 +1143,7 @@
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Infinia",
@@ -1053,7 +1152,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -1330,6 +1429,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 5
       }
     ]
   },
@@ -1422,6 +1530,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1468,6 +1585,15 @@
         "image": "hsbc_cashback",
         "note": "Partner Offer: Food Delivery",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1514,6 +1640,15 @@
         "image": "dcb",
         "note": "Partner Offer: Smartbuy Vouchers",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1560,6 +1695,15 @@
         "image": "dcb",
         "note": "Partner Offer: Smartbuy Vouchers",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1606,6 +1750,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1673,13 +1826,22 @@
         "rank": 1
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 2
+      },
+      {
         "card": "Axis Atlas",
         "rewardRate": 4.0,
         "rewardType": "miles",
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "HDFC Infinia",
@@ -1688,7 +1850,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Diners Black",
@@ -1697,7 +1859,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -1836,6 +1998,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -1875,13 +2046,22 @@
         "rank": 3
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 4
+      },
+      {
         "card": "Axis Atlas",
         "rewardRate": 4.0,
         "rewardType": "miles",
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -1928,6 +2108,15 @@
         "image": "hsbc_cashback",
         "note": "Dining/Grocery/Food Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -2020,6 +2209,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -2250,6 +2448,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -2342,6 +2549,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 5
       }
     ]
   },
@@ -2388,6 +2604,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -2894,6 +3119,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -2986,6 +3220,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 5
       }
     ]
   },
@@ -3078,6 +3321,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -3108,13 +3360,22 @@
         "rank": 2
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 3
+      },
+      {
         "card": "HDFC Infinia",
         "rewardRate": 3.3,
         "rewardType": "points",
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Diners Black",
@@ -3123,7 +3384,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -3308,6 +3569,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -3446,6 +3716,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 5
       }
     ]
   },
@@ -3722,6 +4001,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_epm",
+        "note": "6X RP / 2% iCash",
+        "rank": 5
       }
     ]
   },
@@ -3752,13 +4040,22 @@
         "rank": 2
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 3
+      },
+      {
         "card": "HDFC Infinia",
         "rewardRate": 3.3,
         "rewardType": "points",
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Diners Black",
@@ -3767,7 +4064,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -3936,13 +4233,22 @@
         "rank": 2
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 3
+      },
+      {
         "card": "HDFC Infinia",
         "rewardRate": 3.3,
         "rewardType": "points",
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Diners Black",
@@ -3951,7 +4257,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -4994,13 +5300,22 @@
         "rank": 2
       },
       {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 3
+      },
+      {
         "card": "SBI Cashback",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "Swiggy HDFC",
@@ -5009,7 +5324,7 @@
         "valuePer100": 5.0,
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -5022,13 +5337,22 @@
     "category": "medical",
     "recommendedCards": [
       {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      },
+      {
         "card": "SBI Cashback",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 1
+        "rank": 2
       },
       {
         "card": "Swiggy HDFC",
@@ -5037,7 +5361,7 @@
         "valuePer100": 5.0,
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "Axis Atlas",
@@ -5046,7 +5370,7 @@
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Infinia",
@@ -5055,7 +5379,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -5424,6 +5748,3331 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      }
+    ]
+  },
+  {
+    "id": "estele",
+    "name": "Estele",
+    "domains": [
+      "estele.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 12.0,
+        "rewardType": "cashback",
+        "valuePer100": 12.0,
+        "image": "icici_epm",
+        "note": "6X RP / 12% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "hidesign",
+    "name": "HiDesign",
+    "domains": [
+      "hidesign.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 12.0,
+        "rewardType": "cashback",
+        "valuePer100": 12.0,
+        "image": "icici_epm",
+        "note": "6X RP / 12% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "myglamm",
+    "name": "MyGlamm",
+    "domains": [
+      "myglamm.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "icici_epm",
+        "note": "6X RP / 10% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bathandbodyworks",
+    "name": "Bath and Body Works",
+    "domains": [
+      "bathandbodyworks.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "kamaayurveda",
+    "name": "Kama Ayurveda",
+    "domains": [
+      "kamaayurveda.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "simple",
+    "name": "Simple",
+    "domains": [
+      "simple.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "o2spa",
+    "name": "O2 Spa",
+    "domains": [
+      "o2spa.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 7.0,
+        "rewardType": "cashback",
+        "valuePer100": 7.0,
+        "image": "icici_epm",
+        "note": "6X RP / 7% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "organicindia",
+    "name": "Organic India",
+    "domains": [
+      "organicindia.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "blissclub",
+    "name": "Blissclub",
+    "domains": [
+      "blissclub.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "healthandglow",
+    "name": "Health and Glow",
+    "domains": [
+      "healthandglow.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "nykaaman",
+    "name": "Nykaa Man",
+    "domains": [
+      "nykaaman.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "himalaya",
+    "name": "Himalaya",
+    "domains": [
+      "himalaya.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "kiehls",
+    "name": "Kiehls",
+    "domains": [
+      "kiehls.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "lakmesalon",
+    "name": "Lakme Salon",
+    "domains": [
+      "lakmesalon.com"
+    ],
+    "category": "beauty",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "smilefoundation",
+    "name": "Smile Foundation",
+    "domains": [
+      "smilefoundation.com"
+    ],
+    "category": "charity",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "donatekart",
+    "name": "Donatekart",
+    "domains": [
+      "donatekart.com"
+    ],
+    "category": "charity",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "pointsforgood",
+    "name": "Points for Good",
+    "domains": [
+      "pointsforgood.com"
+    ],
+    "category": "charity",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "corseca",
+    "name": "Corseca",
+    "domains": [
+      "corseca.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 17.0,
+        "rewardType": "cashback",
+        "valuePer100": 17.0,
+        "image": "icici_epm",
+        "note": "6X RP / 17% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "hammer",
+    "name": "Hammer",
+    "domains": [
+      "hammer.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 15.0,
+        "rewardType": "cashback",
+        "valuePer100": 15.0,
+        "image": "icici_epm",
+        "note": "6X RP / 15% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "blaupunkt",
+    "name": "Blaupunkt",
+    "domains": [
+      "blaupunkt.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "icici_epm",
+        "note": "6X RP / 10% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "prestigesmartkitchen",
+    "name": "Prestige Smart Kitchen",
+    "domains": [
+      "prestigesmartkitchen.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "polaroid",
+    "name": "Polaroid",
+    "domains": [
+      "polaroid.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "leafstudios",
+    "name": "Leaf Studios",
+    "domains": [
+      "leafstudios.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "resonate",
+    "name": "Resonate",
+    "domains": [
+      "resonate.com"
+    ],
+    "category": "electronics",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "amazonprimelite",
+    "name": "Amazon Prime Lite",
+    "domains": [
+      "amazonprimelite.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 18.0,
+        "rewardType": "cashback",
+        "valuePer100": 18.0,
+        "image": "icici_epm",
+        "note": "6X RP / 18% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "amazonprimemembership",
+    "name": "Amazon Prime Membership",
+    "domains": [
+      "amazonprimemembership.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 18.0,
+        "rewardType": "cashback",
+        "valuePer100": 18.0,
+        "image": "icici_epm",
+        "note": "6X RP / 18% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "amazonprimeshopping",
+    "name": "Amazon Prime Shopping",
+    "domains": [
+      "amazonprimeshopping.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 18.0,
+        "rewardType": "cashback",
+        "valuePer100": 18.0,
+        "image": "icici_epm",
+        "note": "6X RP / 18% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "tatacliqluxury",
+    "name": "Tata CliQ Luxury",
+    "domains": [
+      "tatacliqluxury.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "amazonshopping",
+    "name": "Amazon Shopping",
+    "domains": [
+      "amazonshopping.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "freshmenu",
+    "name": "FreshMenu",
+    "domains": [
+      "freshmenu.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "ratnadeepsupermarket",
+    "name": "Ratnadeep Super Market",
+    "domains": [
+      "ratnadeepsupermarket.com"
+    ],
+    "category": "ecommerce",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "livehindustan",
+    "name": "Live Hindustan",
+    "domains": [
+      "livehindustan.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 29.0,
+        "rewardType": "cashback",
+        "valuePer100": 29.0,
+        "image": "icici_epm",
+        "note": "6X RP / 29% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "etprimesubscription",
+    "name": "ET Prime Subscription",
+    "domains": [
+      "etprimesubscription.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 29.0,
+        "rewardType": "cashback",
+        "valuePer100": 29.0,
+        "image": "icici_epm",
+        "note": "6X RP / 29% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "hindustantimespremium",
+    "name": "Hindustan Times Premium",
+    "domains": [
+      "hindustantimespremium.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 29.0,
+        "rewardType": "cashback",
+        "valuePer100": 29.0,
+        "image": "icici_epm",
+        "note": "6X RP / 29% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "livemint",
+    "name": "Live Mint",
+    "domains": [
+      "livemint.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 29.0,
+        "rewardType": "cashback",
+        "valuePer100": 29.0,
+        "image": "icici_epm",
+        "note": "6X RP / 29% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "ottplay",
+    "name": "OTTPlay",
+    "domains": [
+      "ottplay.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 24.0,
+        "rewardType": "cashback",
+        "valuePer100": 24.0,
+        "image": "icici_epm",
+        "note": "6X RP / 24% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "discoveryplus",
+    "name": "Discovery Plus",
+    "domains": [
+      "discoveryplus.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 17.0,
+        "rewardType": "cashback",
+        "valuePer100": 17.0,
+        "image": "icici_epm",
+        "note": "6X RP / 17% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "primeshoppingedition",
+    "name": "Prime Shopping Edition",
+    "domains": [
+      "primeshoppingedition.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 18.0,
+        "rewardType": "cashback",
+        "valuePer100": 18.0,
+        "image": "icici_epm",
+        "note": "6X RP / 18% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "zee5",
+    "name": "Zee5",
+    "domains": [
+      "zee5.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 13.0,
+        "rewardType": "cashback",
+        "valuePer100": 13.0,
+        "image": "icici_epm",
+        "note": "6X RP / 13% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "hoichoi",
+    "name": "Hoichoi",
+    "domains": [
+      "hoichoi.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "icici_epm",
+        "note": "6X RP / 10% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "gaana",
+    "name": "Gaana",
+    "domains": [
+      "gaana.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "timezone",
+    "name": "Timezone",
+    "domains": [
+      "timezone.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "jiohotstar",
+    "name": "JioHotstar",
+    "domains": [
+      "jiohotstar.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "pvrcinemas",
+    "name": "PVR Cinemas",
+    "domains": [
+      "pvrcinemas.com"
+    ],
+    "category": "entertainment",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "aliste",
+    "name": "Aliste",
+    "domains": [
+      "aliste.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 20.0,
+        "rewardType": "cashback",
+        "valuePer100": 20.0,
+        "image": "icici_epm",
+        "note": "6X RP / 20% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "truefitthill",
+    "name": "Truefitt & Hill",
+    "domains": [
+      "truefitthill.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 15.0,
+        "rewardType": "cashback",
+        "valuePer100": 15.0,
+        "image": "icici_epm",
+        "note": "6X RP / 15% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "foxtale",
+    "name": "Foxtale",
+    "domains": [
+      "foxtale.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 13.0,
+        "rewardType": "cashback",
+        "valuePer100": 13.0,
+        "image": "icici_epm",
+        "note": "6X RP / 13% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "freecultr",
+    "name": "Freecultr",
+    "domains": [
+      "freecultr.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "beyoung",
+    "name": "Beyoung",
+    "domains": [
+      "beyoung.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 13.0,
+        "rewardType": "cashback",
+        "valuePer100": 13.0,
+        "image": "icici_epm",
+        "note": "6X RP / 13% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "woggles",
+    "name": "Woggles",
+    "domains": [
+      "woggles.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 13.0,
+        "rewardType": "cashback",
+        "valuePer100": 13.0,
+        "image": "icici_epm",
+        "note": "6X RP / 13% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bobbibrown",
+    "name": "Bobbi Brown",
+    "domains": [
+      "bobbibrown.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "absolutebarbecues",
+    "name": "Absolute Barbecues",
+    "domains": [
+      "absolutebarbecues.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "aeropostale",
+    "name": "Aeropostale",
+    "domains": [
+      "aeropostale.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "aldo",
+    "name": "Aldo",
+    "domains": [
+      "aldo.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "allensolly",
+    "name": "Allen Solly",
+    "domains": [
+      "allensolly.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "americaneagle",
+    "name": "American Eagle",
+    "domains": [
+      "americaneagle.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "americantourister",
+    "name": "American Tourister",
+    "domains": [
+      "americantourister.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_epm",
+        "note": "6X RP / 2% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "and",
+    "name": "AND",
+    "domains": [
+      "and.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "anitadongre",
+    "name": "Anita Dongre",
+    "domains": [
+      "anitadongre.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "arrow",
+    "name": "Arrow",
+    "domains": [
+      "arrow.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "armaniexchange",
+    "name": "Armani Exchange",
+    "domains": [
+      "armaniexchange.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "asiasevenexpress",
+    "name": "Asia Seven Express",
+    "domains": [
+      "asiasevenexpress.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "aurelia",
+    "name": "Aurelia",
+    "domains": [
+      "aurelia.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bakingo",
+    "name": "Bakingo",
+    "domains": [
+      "bakingo.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "beverlyhillspoloclub",
+    "name": "Beverly Hills Polo Club",
+    "domains": [
+      "beverlyhillspoloclub.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bibaonline",
+    "name": "Biba (Online)",
+    "domains": [
+      "bibaonline.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "birkenstock",
+    "name": "Birkenstock",
+    "domains": [
+      "birkenstock.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "blackberrys",
+    "name": "Blackberrys",
+    "domains": [
+      "blackberrys.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bodycraft",
+    "name": "Body Craft",
+    "domains": [
+      "bodycraft.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "brooksbrother",
+    "name": "Brooks Brother",
+    "domains": [
+      "brooksbrother.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "cafecoffeeday",
+    "name": "Cafe Coffee Day",
+    "domains": [
+      "cafecoffeeday.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 7.0,
+        "rewardType": "cashback",
+        "valuePer100": 7.0,
+        "image": "icici_epm",
+        "note": "6X RP / 7% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "cafedelhiheights",
+    "name": "Cafe Delhi Heights",
+    "domains": [
+      "cafedelhiheights.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "callitspring",
+    "name": "Call it Spring",
+    "domains": [
+      "callitspring.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "campus",
+    "name": "Campus",
+    "domains": [
+      "campus.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "cello",
+    "name": "Cello",
+    "domains": [
+      "cello.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "charlesandkeith",
+    "name": "Charles and Keith",
+    "domains": [
+      "charlesandkeith.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "chumbak",
+    "name": "Chumbak",
+    "domains": [
+      "chumbak.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "clovia",
+    "name": "Clovia",
+    "domains": [
+      "clovia.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "coach",
+    "name": "Coach",
+    "domains": [
+      "coach.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "colorplus",
+    "name": "ColorPlus",
+    "domains": [
+      "colorplus.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "costacoffee",
+    "name": "Costa Coffee",
+    "domains": [
+      "costacoffee.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "dunelondon",
+    "name": "Dune London",
+    "domains": [
+      "dunelondon.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "firstcry",
+    "name": "First Cry",
+    "domains": [
+      "firstcry.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "flyingmachine",
+    "name": "Flying Machine",
+    "domains": [
+      "flyingmachine.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "forevernew",
+    "name": "Forever New",
+    "domains": [
+      "forevernew.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "forever21",
+    "name": "Forever21",
+    "domains": [
+      "forever21.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "globaldesiindia",
+    "name": "Global Desi India",
+    "domains": [
+      "globaldesiindia.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "helios",
+    "name": "Helios",
+    "domains": [
+      "helios.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "indianterrrain",
+    "name": "Indian Terrrain",
+    "domains": [
+      "indianterrrain.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "inglot",
+    "name": "Inglot",
+    "domains": [
+      "inglot.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "jackjones",
+    "name": "Jack&Jones",
+    "domains": [
+      "jackjones.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "lee",
+    "name": "Lee",
+    "domains": [
+      "lee.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "levis",
+    "name": "Levis",
+    "domains": [
+      "levis.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "linenclub",
+    "name": "Linen Club",
+    "domains": [
+      "linenclub.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "litebitefoods",
+    "name": "Lite Bite Foods",
+    "domains": [
+      "litebitefoods.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "louisphilippe",
+    "name": "Louis Philippe",
+    "domains": [
+      "louisphilippe.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "luxe",
+    "name": "Luxe",
+    "domains": [
+      "luxe.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "mac",
+    "name": "Mac",
+    "domains": [
+      "mac.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "mainlandchina",
+    "name": "Mainland China",
+    "domains": [
+      "mainlandchina.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "mamaearth",
+    "name": "Mamaearth",
+    "domains": [
+      "mamaearth.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "marriotthotels",
+    "name": "Marriott Hotels",
+    "domains": [
+      "marriotthotels.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "maxfashion",
+    "name": "Max Fashion",
+    "domains": [
+      "maxfashion.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "mediwheel",
+    "name": "Mediwheel",
+    "domains": [
+      "mediwheel.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 13.0,
+        "rewardType": "cashback",
+        "valuePer100": 13.0,
+        "image": "icici_epm",
+        "note": "6X RP / 13% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "miabytanishq",
+    "name": "Mia By Tanishq",
+    "domains": [
+      "miabytanishq.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "michaelkors",
+    "name": "Michael Kors",
+    "domains": [
+      "michaelkors.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "miniklub",
+    "name": "MiniKlub",
+    "domains": [
+      "miniklub.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "mothercare",
+    "name": "Mother care",
+    "domains": [
+      "mothercare.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "myjiostore",
+    "name": "My Jio Store",
+    "domains": [
+      "myjiostore.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "only",
+    "name": "ONLY",
+    "domains": [
+      "only.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "parkavenue",
+    "name": "Park Avenue",
+    "domains": [
+      "parkavenue.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "parx",
+    "name": "Parx",
+    "domains": [
+      "parx.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "pepperfry",
+    "name": "Pepperfry",
+    "domains": [
+      "pepperfry.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "peterengland",
+    "name": "Peter England",
+    "domains": [
+      "peterengland.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "rb",
+    "name": "R&B",
+    "domains": [
+      "rb.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "rangolisarees",
+    "name": "Rangoli Sarees",
+    "domains": [
+      "rangolisarees.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "rangriti",
+    "name": "Rangriti",
+    "domains": [
+      "rangriti.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "reliancefootwear",
+    "name": "Reliance Footwear",
+    "domains": [
+      "reliancefootwear.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_epm",
+        "note": "6X RP / 2% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "selectedhomme",
+    "name": "Selected Homme",
+    "domains": [
+      "selectedhomme.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "skechers",
+    "name": "Skechers",
+    "domains": [
+      "skechers.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "skullcandy",
+    "name": "Skullcandy",
+    "domains": [
+      "skullcandy.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "speedo",
+    "name": "Speedo",
+    "domains": [
+      "speedo.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "stevemadden",
+    "name": "Steve Madden",
+    "domains": [
+      "stevemadden.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "superbottoms",
+    "name": "SuperBottoms",
+    "domains": [
+      "superbottoms.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "superdry",
+    "name": "Superdry",
+    "domains": [
+      "superdry.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "supa",
+    "name": "SUPA",
+    "domains": [
+      "supa.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "trendsfootwear",
+    "name": "Trends Footwear",
+    "domains": [
+      "trendsfootwear.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "trendsjunior",
+    "name": "Trends Junior",
+    "domains": [
+      "trendsjunior.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "trendsman",
+    "name": "Trends Man",
+    "domains": [
+      "trendsman.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "trendswomen",
+    "name": "Trends Women",
+    "domains": [
+      "trendswomen.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "uspa",
+    "name": "USPA",
+    "domains": [
+      "uspa.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "unlimited",
+    "name": "Unlimited",
+    "domains": [
+      "unlimited.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "vanheusen",
+    "name": "Van Heusen",
+    "domains": [
+      "vanheusen.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "veromoda",
+    "name": "Vero Moda",
+    "domains": [
+      "veromoda.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "vmart",
+    "name": "V-Mart",
+    "domains": [
+      "vmart.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "victoriassecret",
+    "name": "Victoria's Secret",
+    "domains": [
+      "victoriassecret.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 9.0,
+        "rewardType": "cashback",
+        "valuePer100": 9.0,
+        "image": "icici_epm",
+        "note": "6X RP / 9% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wforwomen",
+    "name": "W For Women",
+    "domains": [
+      "wforwomen.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wakefit",
+    "name": "Wakefit",
+    "domains": [
+      "wakefit.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wendys",
+    "name": "Wendy's",
+    "domains": [
+      "wendys.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wildcraft",
+    "name": "Wildcraft",
+    "domains": [
+      "wildcraft.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "williampenn",
+    "name": "William Penn",
+    "domains": [
+      "williampenn.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wonderchef",
+    "name": "Wonderchef",
+    "domains": [
+      "wonderchef.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "woodland",
+    "name": "Woodland",
+    "domains": [
+      "woodland.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wrangler",
+    "name": "Wrangler",
+    "domains": [
+      "wrangler.com"
+    ],
+    "category": "fashion",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bikanervala",
+    "name": "Bikanervala",
+    "domains": [
+      "bikanervala.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "faasos",
+    "name": "Faasos",
+    "domains": [
+      "faasos.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "behrouzbiryani",
+    "name": "Behrouz Biryani",
+    "domains": [
+      "behrouzbiryani.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "domains": [
+      "subway.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "tgif",
+    "name": "TGIF",
+    "domains": [
+      "tgif.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wowmomo",
+    "name": "Wow!Momo",
+    "domains": [
+      "wowmomo.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wowchicken",
+    "name": "Wow!Chicken",
+    "domains": [
+      "wowchicken.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "wowchina",
+    "name": "Wow!China",
+    "domains": [
+      "wowchina.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "thegoodbowl",
+    "name": "The Good Bowl",
+    "domains": [
+      "thegoodbowl.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "amazonfresh",
+    "name": "Amazon Fresh",
+    "domains": [
+      "amazonfresh.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "polarbear",
+    "name": "Polar Bear",
+    "domains": [
+      "polarbear.com"
+    ],
+    "category": "grocery",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "urbanladder",
+    "name": "Urban Ladder",
+    "domains": [
+      "urbanladder.com"
+    ],
+    "category": "home",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "kalyandiamondjewellery",
+    "name": "Kalyan Diamond Jewellery",
+    "domains": [
+      "kalyandiamondjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "euphoriajewellery",
+    "name": "Euphoria Jewellery",
+    "domains": [
+      "euphoriajewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 3.0,
+        "rewardType": "cashback",
+        "valuePer100": 3.0,
+        "image": "icici_epm",
+        "note": "6X RP / 3% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bhimajewellersgold",
+    "name": "Bhima Jewellers - Gold",
+    "domains": [
+      "bhimajewellersgold.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "josalukkas",
+    "name": "Jos Alukkas",
+    "domains": [
+      "josalukkas.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "josalukkasgoldjewellery",
+    "name": "Jos Alukkas Gold Jewellery",
+    "domains": [
+      "josalukkasgoldjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "giva",
+    "name": "Giva",
+    "domains": [
+      "giva.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "tanishqgoldjewellery",
+    "name": "Tanishq Gold Jewellery",
+    "domains": [
+      "tanishqgoldjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.5,
+        "rewardType": "points",
+        "valuePer100": 1.5,
+        "image": "icici_epm",
+        "note": "6X RP",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "givasilverjewellery",
+    "name": "Giva Silver Jewellery",
+    "domains": [
+      "givasilverjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 8.0,
+        "rewardType": "cashback",
+        "valuePer100": 8.0,
+        "image": "icici_epm",
+        "note": "6X RP / 8% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "joyalukkasdiamondplatinum",
+    "name": "Joyalukkas Diamond & Platinum",
+    "domains": [
+      "joyalukkasdiamondplatinum.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "joyalukkasgold",
+    "name": "Joyalukkas Gold",
+    "domains": [
+      "joyalukkasgold.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "kalyangoldjewellery",
+    "name": "Kalyan Gold Jewellery",
+    "domains": [
+      "kalyangoldjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "kalyanjewellery",
+    "name": "Kalyan jewellery",
+    "domains": [
+      "kalyanjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "tanishqstudded",
+    "name": "Tanishq Studded",
+    "domains": [
+      "tanishqstudded.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "givagoldjewellery",
+    "name": "Giva Gold Jewellery",
+    "domains": [
+      "givagoldjewellery.com"
+    ],
+    "category": "jewelry",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "icici_epm",
+        "note": "6X RP / 1% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "fastrack",
+    "name": "Fastrack",
+    "domains": [
+      "fastrack.com"
+    ],
+    "category": "sports",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 5.0,
+        "rewardType": "cashback",
+        "valuePer100": 5.0,
+        "image": "icici_epm",
+        "note": "6X RP / 5% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "decathlonsportsindia",
+    "name": "Decathlon Sports India",
+    "domains": [
+      "decathlonsportsindia.com"
+    ],
+    "category": "sports",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_epm",
+        "note": "6X RP / 2% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "decathlonomni",
+    "name": "Decathlon Omni",
+    "domains": [
+      "decathlonomni.com"
+    ],
+    "category": "sports",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 2.0,
+        "rewardType": "cashback",
+        "valuePer100": 2.0,
+        "image": "icici_epm",
+        "note": "6X RP / 2% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "makemytriphotels",
+    "name": "MakeMyTrip Hotels",
+    "domains": [
+      "makemytriphotels.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "cleartriphotels",
+    "name": "Cleartrip Hotels",
+    "domains": [
+      "cleartriphotels.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 6.0,
+        "rewardType": "cashback",
+        "valuePer100": 6.0,
+        "image": "icici_epm",
+        "note": "6X RP / 6% iCash",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "makemytripholiday",
+    "name": "MakeMyTrip Holiday",
+    "domains": [
+      "makemytripholiday.com"
+    ],
+    "category": "travel",
+    "recommendedCards": [
+      {
+        "card": "ICICI EPM",
+        "rewardRate": 4.0,
+        "rewardType": "cashback",
+        "valuePer100": 4.0,
+        "image": "icici_epm",
+        "note": "6X RP / 4% iCash",
+        "rank": 1
       }
     ]
   }
