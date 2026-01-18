@@ -51,6 +51,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -106,6 +115,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -170,6 +188,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 6
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 7
       }
     ]
   },
@@ -216,6 +243,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -262,6 +298,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -326,6 +371,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 6
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 7
       }
     ]
   },
@@ -372,6 +426,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -427,6 +490,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -482,6 +554,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -528,6 +609,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -574,6 +664,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -620,6 +719,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -675,6 +783,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -721,6 +838,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -767,6 +893,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -813,6 +948,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -868,6 +1012,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -923,6 +1076,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -969,6 +1131,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1015,6 +1186,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1061,6 +1241,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1116,6 +1305,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1171,6 +1369,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1217,6 +1424,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1263,6 +1479,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1318,6 +1543,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1364,6 +1598,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1410,6 +1653,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1465,6 +1717,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1511,6 +1772,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1566,6 +1836,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1583,7 +1862,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Food Delivery",
+        "note": "Partner Offer: Food/Grocery",
         "rank": 1
       },
       {
@@ -1638,7 +1917,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Food Delivery",
+        "note": "Partner Offer: Food/Grocery",
         "rank": 1
       },
       {
@@ -1697,22 +1976,13 @@
         "rank": 1
       },
       {
-        "card": "Airtel Axis",
-        "rewardRate": 10.0,
-        "rewardType": "cashback",
-        "valuePer100": 10.0,
-        "image": "airtel_axis",
-        "note": "Partner Offer: Food Delivery",
-        "rank": 2
-      },
-      {
         "card": "HSBC Cashback",
         "rewardRate": 10.0,
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "hsbc_cashback",
         "note": "Partner Offer: Food Delivery",
-        "rank": 3
+        "rank": 2
       },
       {
         "card": "HDFC Diners Black",
@@ -1721,7 +1991,7 @@
         "valuePer100": 9.9,
         "image": "dcb",
         "note": "Partner Offer: Smartbuy Vouchers",
-        "rank": 4
+        "rank": 3
       },
       {
         "card": "ICICI EPM",
@@ -1730,6 +2000,15 @@
         "valuePer100": 4.0,
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
+        "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
         "rank": 5
       }
     ]
@@ -1786,6 +2065,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1832,6 +2120,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1887,6 +2184,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -1933,6 +2239,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -1979,6 +2294,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2034,6 +2358,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2055,22 +2388,13 @@
         "rank": 1
       },
       {
-        "card": "Airtel Axis",
-        "rewardRate": 10.0,
-        "rewardType": "cashback",
-        "valuePer100": 10.0,
-        "image": "airtel_axis",
-        "note": "Partner Offer: Food Delivery",
-        "rank": 2
-      },
-      {
         "card": "HSBC Cashback",
         "rewardRate": 10.0,
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "hsbc_cashback",
         "note": "Partner Offer: Food Delivery",
-        "rank": 3
+        "rank": 2
       },
       {
         "card": "SBI Cashback",
@@ -2079,7 +2403,7 @@
         "valuePer100": 5.0,
         "image": "sbi_cashback",
         "note": "Online Cashback",
-        "rank": 4
+        "rank": 3
       },
       {
         "card": "ICICI EPM",
@@ -2088,7 +2412,7 @@
         "valuePer100": 5.0,
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
-        "rank": 5
+        "rank": 4
       },
       {
         "card": "Axis Atlas",
@@ -2096,6 +2420,15 @@
         "rewardType": "miles",
         "valuePer100": 4.0,
         "image": "axis_atlas",
+        "note": "Base Reward Rate",
+        "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
         "note": "Base Reward Rate",
         "rank": 6
       }
@@ -2124,7 +2457,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Grocery Bigbasket",
+        "note": "Partner Offer: Food/Grocery",
         "rank": 2
       },
       {
@@ -2208,6 +2541,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2272,6 +2614,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 6
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 7
       }
     ]
   },
@@ -2289,7 +2640,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Food Delivery",
+        "note": "Partner Offer: Food/Grocery",
         "rank": 1
       },
       {
@@ -2382,6 +2733,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2428,6 +2788,15 @@
         "image": "sbi_cashback",
         "note": "Online Cashback",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2483,6 +2852,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2538,6 +2916,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2584,6 +2971,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2639,6 +3035,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2694,6 +3099,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -2740,6 +3154,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2786,6 +3209,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2832,6 +3264,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2878,6 +3319,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2924,6 +3374,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -2970,6 +3429,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3016,6 +3484,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3062,6 +3539,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3108,6 +3594,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3154,6 +3649,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3209,6 +3713,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3255,6 +3768,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3310,6 +3832,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3356,6 +3887,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3411,6 +3951,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3466,6 +4015,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3512,6 +4070,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3558,6 +4125,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3604,6 +4180,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3659,6 +4244,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3705,6 +4299,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3751,6 +4354,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3806,6 +4418,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -3852,6 +4473,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3898,6 +4528,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3944,6 +4583,15 @@
         "image": "axis_ace",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -3990,6 +4638,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -4036,6 +4693,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -4091,6 +4757,15 @@
         "image": "icici_epm",
         "note": "6X RP / 2% iCash",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -4146,6 +4821,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -4192,6 +4876,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -4238,6 +4931,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -4284,6 +4986,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -4339,6 +5050,15 @@
         "image": "dcb",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -4356,7 +5076,7 @@
         "rewardType": "cashback",
         "valuePer100": 25.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Airtel",
+        "note": "Partner Offer: Airtel App",
         "rank": 1
       },
       {
@@ -4402,7 +5122,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4448,7 +5168,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4494,7 +5214,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4540,7 +5260,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4586,7 +5306,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4632,7 +5352,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4678,7 +5398,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4724,7 +5444,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4770,7 +5490,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4816,7 +5536,7 @@
         "rewardType": "cashback",
         "valuePer100": 10.0,
         "image": "airtel_axis",
-        "note": "Partner Offer: Utilities",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       },
       {
@@ -4857,13 +5577,22 @@
     "category": "utilities",
     "recommendedCards": [
       {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utility via Airtel App",
+        "rank": 1
+      },
+      {
         "card": "Axis Ace",
         "rewardRate": 5.0,
         "rewardType": "cashback",
         "valuePer100": 5.0,
         "image": "axis_ace",
         "note": "Partner Offer: Utilities Gpay",
-        "rank": 1
+        "rank": 2
       },
       {
         "card": "Axis Atlas",
@@ -4872,7 +5601,7 @@
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "HDFC Infinia",
@@ -4881,7 +5610,7 @@
         "valuePer100": 3.3,
         "image": "infinia",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "HDFC Diners Black",
@@ -4890,7 +5619,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -4912,13 +5641,22 @@
         "rank": 1
       },
       {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utility via Airtel App",
+        "rank": 2
+      },
+      {
         "card": "Axis Atlas",
         "rewardRate": 4.0,
         "rewardType": "miles",
         "valuePer100": 4.0,
         "image": "axis_atlas",
         "note": "Base Reward Rate",
-        "rank": 2
+        "rank": 3
       },
       {
         "card": "HDFC Diners Black",
@@ -4927,7 +5665,7 @@
         "valuePer100": 3.3,
         "image": "dcb",
         "note": "Base Reward Rate",
-        "rank": 3
+        "rank": 4
       },
       {
         "card": "Amazon Pay ICICI",
@@ -4936,7 +5674,7 @@
         "valuePer100": 2.0,
         "image": "icici_apay",
         "note": "Partner Offer: Amazon Recharge",
-        "rank": 4
+        "rank": 5
       }
     ]
   },
@@ -4983,6 +5721,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5029,6 +5776,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5084,6 +5840,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5130,6 +5895,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5176,6 +5950,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5231,6 +6014,15 @@
         "image": "millennia",
         "note": "Partner Offer: Amazon",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5277,6 +6069,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5323,6 +6124,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5378,6 +6188,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5433,6 +6252,15 @@
         "image": "swiggy_hdfc",
         "note": "Partner Offer: Online Shopping",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5488,6 +6316,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5543,6 +6380,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 5
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 6
       }
     ]
   },
@@ -5589,6 +6435,15 @@
         "image": "axis_atlas",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5635,6 +6490,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5681,6 +6545,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5727,6 +6600,15 @@
         "image": "axis_ace",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5773,6 +6655,15 @@
         "image": "axis_ace",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5819,6 +6710,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5865,6 +6765,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 4
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 5
       }
     ]
   },
@@ -5893,6 +6802,15 @@
         "image": "icici_epm",
         "note": "6X RP / 12% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -5921,6 +6839,15 @@
         "image": "icici_epm",
         "note": "6X RP / 12% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -5949,6 +6876,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -5977,6 +6913,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6005,6 +6950,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6033,6 +6987,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6061,6 +7024,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6089,6 +7061,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6117,6 +7098,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6145,6 +7135,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6173,6 +7172,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6201,6 +7209,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6229,6 +7246,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6257,6 +7283,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6285,6 +7320,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6313,6 +7357,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6341,6 +7394,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6369,6 +7431,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6397,6 +7468,15 @@
         "image": "icici_epm",
         "note": "6X RP / 15% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6425,6 +7505,15 @@
         "image": "icici_epm",
         "note": "6X RP / 10% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6453,6 +7542,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6481,6 +7579,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6509,6 +7616,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6537,6 +7653,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6565,6 +7690,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6593,6 +7727,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6621,6 +7764,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6649,6 +7801,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6677,6 +7838,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6705,6 +7875,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6733,6 +7912,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6761,6 +7949,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6789,6 +7986,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6817,6 +8023,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6845,6 +8060,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6873,6 +8097,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6901,6 +8134,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6929,6 +8171,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6957,6 +8208,15 @@
         "image": "icici_epm",
         "note": "6X RP / 13% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -6985,6 +8245,15 @@
         "image": "icici_epm",
         "note": "6X RP / 10% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7013,6 +8282,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7041,6 +8319,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7069,6 +8356,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7097,6 +8393,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7125,6 +8430,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7153,6 +8467,15 @@
         "image": "icici_epm",
         "note": "6X RP / 15% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7181,6 +8504,15 @@
         "image": "icici_epm",
         "note": "6X RP / 13% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7209,6 +8541,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7237,6 +8578,15 @@
         "image": "icici_epm",
         "note": "6X RP / 13% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7265,6 +8615,15 @@
         "image": "icici_epm",
         "note": "6X RP / 13% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7293,6 +8652,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7321,6 +8689,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7349,6 +8726,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7377,6 +8763,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7405,6 +8800,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7433,6 +8837,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7461,6 +8874,15 @@
         "image": "icici_epm",
         "note": "6X RP / 2% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7489,6 +8911,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7517,6 +8948,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7545,6 +8985,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7573,6 +9022,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7601,6 +9059,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7629,6 +9096,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7657,6 +9133,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7685,6 +9170,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7713,6 +9207,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7741,6 +9244,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7769,6 +9281,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7797,6 +9318,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7825,6 +9355,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7853,6 +9392,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7881,6 +9429,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7909,6 +9466,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7937,6 +9503,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7965,6 +9540,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -7993,6 +9577,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8021,6 +9614,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8049,6 +9651,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8077,6 +9688,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8105,6 +9725,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8133,6 +9762,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8161,6 +9799,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8189,6 +9836,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8217,6 +9873,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8245,6 +9910,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8273,6 +9947,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8301,6 +9984,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8329,6 +10021,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8357,6 +10058,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8385,6 +10095,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8413,6 +10132,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8441,6 +10169,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8469,6 +10206,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8497,6 +10243,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8525,6 +10280,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8553,6 +10317,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8581,6 +10354,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8609,6 +10391,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8637,6 +10428,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8665,6 +10465,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8693,6 +10502,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8721,6 +10539,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8749,6 +10576,15 @@
         "image": "icici_epm",
         "note": "6X RP / 13% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8777,6 +10613,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8805,6 +10650,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8833,6 +10687,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8861,6 +10724,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8889,6 +10761,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8917,6 +10798,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8945,6 +10835,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -8973,6 +10872,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9001,6 +10909,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9029,6 +10946,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9057,6 +10983,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9085,6 +11020,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9113,6 +11057,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9141,6 +11094,15 @@
         "image": "icici_epm",
         "note": "6X RP / 2% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9169,6 +11131,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9197,6 +11168,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9225,6 +11205,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9253,6 +11242,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9281,6 +11279,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9309,6 +11316,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9337,6 +11353,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9365,6 +11390,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9393,6 +11427,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9421,6 +11464,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9449,6 +11501,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9477,6 +11538,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9505,6 +11575,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9533,6 +11612,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9561,6 +11649,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9589,6 +11686,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9617,6 +11723,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9645,6 +11760,15 @@
         "image": "icici_epm",
         "note": "6X RP / 9% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9673,6 +11797,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9701,6 +11834,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9729,6 +11871,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9757,6 +11908,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9785,6 +11945,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9813,6 +11982,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9841,6 +12019,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9869,6 +12056,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9897,6 +12093,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9925,6 +12130,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9953,6 +12167,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -9981,6 +12204,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10009,6 +12241,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10037,6 +12278,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10065,6 +12315,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10093,6 +12352,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10121,6 +12389,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10149,6 +12426,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10177,6 +12463,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10205,6 +12500,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10233,6 +12537,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10261,6 +12574,15 @@
         "image": "icici_epm",
         "note": "6X RP / 3% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10289,6 +12611,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10317,6 +12648,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10345,6 +12685,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10373,6 +12722,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10401,6 +12759,15 @@
         "image": "icici_epm",
         "note": "6X RP",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10429,6 +12796,15 @@
         "image": "icici_epm",
         "note": "6X RP / 8% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10457,6 +12833,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10485,6 +12870,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10513,6 +12907,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10541,6 +12944,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10569,6 +12981,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10597,6 +13018,15 @@
         "image": "icici_epm",
         "note": "6X RP / 1% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10625,6 +13055,15 @@
         "image": "icici_epm",
         "note": "6X RP / 5% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10653,6 +13092,15 @@
         "image": "icici_epm",
         "note": "6X RP / 2% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10681,6 +13129,15 @@
         "image": "icici_epm",
         "note": "6X RP / 2% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10709,6 +13166,15 @@
         "image": "infinia",
         "note": "Base Reward Rate",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10737,6 +13203,15 @@
         "image": "icici_epm",
         "note": "6X RP / 6% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10765,6 +13240,15 @@
         "image": "icici_epm",
         "note": "6X RP / 4% iCash",
         "rank": 2
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 3
       }
     ]
   },
@@ -10784,6 +13268,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (10X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10803,6 +13296,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10822,6 +13324,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10841,6 +13352,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10860,6 +13380,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10879,6 +13408,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10898,6 +13436,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10917,6 +13464,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10936,6 +13492,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10955,6 +13520,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10974,6 +13548,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -10993,6 +13576,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11012,6 +13604,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11031,6 +13632,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11050,6 +13660,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11069,6 +13688,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11088,6 +13716,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11107,6 +13744,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11126,6 +13772,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11145,6 +13800,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11164,6 +13828,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11183,6 +13856,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11202,6 +13884,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11221,6 +13912,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11240,6 +13940,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11259,6 +13968,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11278,6 +13996,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11297,6 +14024,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11316,6 +14052,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11335,6 +14080,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11354,6 +14108,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11373,6 +14136,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11392,6 +14164,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11411,6 +14192,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11430,6 +14220,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11449,6 +14248,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11468,6 +14276,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11487,6 +14304,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11506,6 +14332,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11525,6 +14360,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11544,6 +14388,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11563,6 +14416,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11582,6 +14444,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11601,6 +14472,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11620,6 +14500,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11639,6 +14528,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11658,6 +14556,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11677,6 +14584,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11696,6 +14612,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11715,6 +14640,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11734,6 +14668,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11753,6 +14696,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11772,6 +14724,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11791,6 +14752,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11810,6 +14780,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11829,6 +14808,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11848,6 +14836,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11867,6 +14864,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11886,6 +14892,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11905,6 +14920,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11924,6 +14948,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11943,6 +14976,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11962,6 +15004,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -11981,6 +15032,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12000,6 +15060,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12019,6 +15088,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12038,6 +15116,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12057,6 +15144,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12076,6 +15172,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12095,6 +15200,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12114,6 +15228,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12133,6 +15256,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12152,6 +15284,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12171,6 +15312,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12190,6 +15340,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12209,6 +15368,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12228,6 +15396,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12247,6 +15424,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12266,6 +15452,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12285,6 +15480,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12304,6 +15508,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12323,6 +15536,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12342,6 +15564,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12361,6 +15592,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12380,6 +15620,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12399,6 +15648,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12418,6 +15676,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12437,6 +15704,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12456,6 +15732,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12475,6 +15760,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12494,6 +15788,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12513,6 +15816,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12532,6 +15844,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12551,6 +15872,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12570,6 +15900,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12589,6 +15928,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12608,6 +15956,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12627,6 +15984,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12646,6 +16012,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12665,6 +16040,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12684,6 +16068,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12703,6 +16096,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12722,6 +16124,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12741,6 +16152,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12760,6 +16180,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12779,6 +16208,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12798,6 +16236,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12817,6 +16264,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12836,6 +16292,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12855,6 +16320,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12874,6 +16348,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12893,6 +16376,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12912,6 +16404,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12931,6 +16432,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12950,6 +16460,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12969,6 +16488,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -12988,6 +16516,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13007,6 +16544,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13026,6 +16572,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13045,6 +16600,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13064,6 +16628,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13083,6 +16656,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13102,6 +16684,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13121,6 +16712,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13140,6 +16740,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13159,6 +16768,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13178,6 +16796,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13197,6 +16824,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13216,6 +16852,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13235,6 +16880,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13254,6 +16908,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13273,6 +16936,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13292,6 +16964,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13311,6 +16992,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13330,6 +17020,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13349,6 +17048,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13368,6 +17076,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13387,6 +17104,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13406,6 +17132,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13425,6 +17160,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13444,6 +17188,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13463,6 +17216,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13482,6 +17244,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13501,6 +17272,15 @@
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (5X)",
         "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
       }
     ]
   },
@@ -13519,6 +17299,148 @@
         "valuePer100": 9.9,
         "image": "infinia",
         "note": "Partner Offer: Smartbuy (3X)",
+        "rank": 1
+      },
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 1.0,
+        "rewardType": "cashback",
+        "valuePer100": 1.0,
+        "image": "airtel_axis",
+        "note": "Base Reward Rate",
+        "rank": 2
+      }
+    ]
+  },
+  {
+    "id": "airtelbroadband",
+    "name": "Airtel Broadband",
+    "domains": [
+      "airtelbroadband.com"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 25.0,
+        "rewardType": "cashback",
+        "valuePer100": 25.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "airtelpostpaid",
+    "name": "Airtel Postpaid",
+    "domains": [
+      "airtelpostpaid.com"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 25.0,
+        "rewardType": "cashback",
+        "valuePer100": 25.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "airtelprepaid",
+    "name": "Airtel Prepaid",
+    "domains": [
+      "airtelprepaid.com"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 25.0,
+        "rewardType": "cashback",
+        "valuePer100": 25.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "airtelblack",
+    "name": "Airtel Black",
+    "domains": [
+      "airtelblack.com"
+    ],
+    "category": "telecom",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 25.0,
+        "rewardType": "cashback",
+        "valuePer100": 25.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "bsesyamuna",
+    "name": "BSES Yamuna",
+    "domains": [
+      "bsesyamuna.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utility via Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "sundirect",
+    "name": "Sun Direct",
+    "domains": [
+      "sundirect.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utility via Airtel App",
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "id": "videocond2h",
+    "name": "Videocon D2H",
+    "domains": [
+      "videocond2h.com"
+    ],
+    "category": "utilities",
+    "recommendedCards": [
+      {
+        "card": "Airtel Axis",
+        "rewardRate": 10.0,
+        "rewardType": "cashback",
+        "valuePer100": 10.0,
+        "image": "airtel_axis",
+        "note": "Partner Offer: Utility via Airtel App",
         "rank": 1
       }
     ]
