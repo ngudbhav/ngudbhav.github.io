@@ -1,9 +1,8 @@
 import React from "react";
-import TransitionLink from 'gatsby-plugin-transition-link';
+import { Link } from "gatsby";
 import { HouseLine, ArticleMedium } from 'phosphor-react';
 
 import FixedBar from "components/FixedBar";
-import { TIMING } from 'utils/constants/anim';
 
 import "./index.scss";
 
@@ -20,15 +19,13 @@ const NavBar = () => (
     >
       <ArticleMedium size={40} weight="fill"/>
     </a>
-    <TransitionLink
+    <Link
       className={`${CLASSNAME}__home`}
       to="/"
       title="Home"
-      exit={{length: TIMING}}
-      entry={{length: TIMING, delay: TIMING}}
     >
       <HouseLine size={40} weight="fill"/>
-    </TransitionLink>
+    </Link>
   </FixedBar>
 );
 

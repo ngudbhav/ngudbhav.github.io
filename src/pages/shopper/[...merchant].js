@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { graphql, navigate } from "gatsby";
+import {graphql, Link, navigate} from "gatsby";
 
 import Meta from 'components/OpenGraph';
 import Layout from 'components/Layout';
@@ -7,7 +7,6 @@ import Box from 'components/Box';
 import { shopper, shopperMerchants } from "utils/handlers/form";
 
 import 'styles/pages/shopper.scss';
-import TransitionLink from "gatsby-plugin-transition-link";
 
 const CLASSNAME = 'shop';
 
@@ -120,9 +119,9 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
         <input type="text" placeholder="Enter a website or merchant name" autoComplete="search" className={`${CLASSNAME}__form-input full-width`} name="search" onChange={suggestMerchants} value={query} onKeyDown={selectMerchant} />
         <Suggestions suggestions={suggestions} clickHandler={setMerchant}/>
         <div className={`${CLASSNAME}__merchants-link flex-row`}>
-          <TransitionLink to={`/shopper/merchants`} className={`${CLASSNAME}__merchants-link-text h3`}>
+          <Link to={`/shopper/merchants`} className={`${CLASSNAME}__merchants-link-text h3`}>
             Browse all merchants
-          </TransitionLink>
+          </Link>
         </div>
       </Box>
       <Results results={results} />

@@ -17,7 +17,6 @@ module.exports = {
       },
     },
     "gatsby-transformer-json",
-    "gatsby-plugin-transition-link",
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
     "gatsby-plugin-sitemap",
