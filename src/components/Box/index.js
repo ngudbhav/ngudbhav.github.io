@@ -1,5 +1,5 @@
 import React from 'react';
-import TransitionLink from 'gatsby-plugin-transition-link';
+import { Link } from "gatsby";
 
 import './index.scss';
 
@@ -10,7 +10,7 @@ const BoxContent = ({children}) => (
 );
 
 const Box = ({
-  className, link, children, externalLink = false, component = TransitionLink, ...remainingProps
+  className, link, children, externalLink = false, component = Link, ...remainingProps
 }) => {
   const [isActive, setIsActive] = React.useState(false);
 
