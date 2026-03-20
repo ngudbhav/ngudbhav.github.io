@@ -3,7 +3,6 @@
 @use '../utils';
 @use '../anim';
 
-$border-radius: 3rem;
 $input-padding: 1.5rem;
 $border-width: 0.1rem;
 
@@ -18,7 +17,6 @@ $border-width: 0.1rem;
 
   &__main {
     cursor: unset;
-    margin-top: 0 !important;
 
     @media screen and (max-width: 480px) {
       padding: 2rem;
@@ -26,39 +24,59 @@ $border-width: 0.1rem;
   }
 
   &__search {
-    margin-bottom: 0 !important;
     cursor: unset;
   }
 
+  &__suggestions {
+    margin-top: 0.5rem;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+  }
+
   &__suggestion-item {
-    padding: 1.5rem;
-    margin: 1.5rem 1.5rem 1.5rem 0 !important;
-    transition: border-color var(--animation-duration), width var(--animation-duration);
-    animation: slide-in var(--animation-duration) ease-out forwards;
+    padding: 1.2rem 1.5rem;
+    font-size: var(--base-font-size);
+    color: var(--body-color);
+    background-color: #1e1e1e;
+    border-left: 0.3rem solid transparent;
+    cursor: pointer;
+    opacity: 0;
+    animation: fade-down var(--animation-duration) ease-out forwards;
+    animation-delay: calc(var(--i) * 40ms);
+    transition: border-color var(--animation-duration), color var(--animation-duration), background-color var(--animation-duration);
+
+    & + & {
+      border-top: 0.1rem solid #2a2a2a;
+    }
 
     &:hover {
-      border: 0.1rem solid var(--primary-color);
+      border-left-color: var(--primary-color);
+      color: var(--primary-color);
+      background-color: #242424;
     }
   }
 
   &__results {
-    border: none;
-    text-align: justify;
-    font-size: var(--base-font-size);
-    font-weight: var(--base-font-weight);
     cursor: unset;
+    text-align: justify;
 
     &:first-of-type {
-      border-top: 1rem solid var(--primary-color);
-      border-top-left-radius: 0;
-      border-top-right-radius: 0;
+      border-color: var(--primary-color);
     }
   }
 
-  &__results-name, &__results-comment, &__results-rewards-rate, &__results-rewards-type, &__results-value {
+  &__results-name,
+  &__results-comment,
+  &__results-rewards-rate,
+  &__results-rewards-type,
+  &__results-value {
     padding: 1rem;
     padding-inline: 0;
     color: #a0a0a0;
+  }
+
+  &__results-comment {
+    color: var(--primary-color);
   }
 
   &__results-name {
@@ -70,16 +88,9 @@ $border-width: 0.1rem;
     flex-wrap: wrap;
   }
 
-  &__results-owned-badge {
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: var(--primary-color);
-    border: 0.1rem solid var(--primary-color);
-    border-radius: 0.4rem;
-    padding: 0.2rem 0.6rem;
-  }
-
-  &__results-rewards-rate, &__results-rewards-type, &__results-value {
+  &__results-rewards-rate,
+  &__results-rewards-type,
+  &__results-value {
     border-bottom: 0.2rem solid #2a2a2a;
   }
 
@@ -87,84 +98,177 @@ $border-width: 0.1rem;
     border-bottom: 0;
   }
 
-  &__results-value-value, &__results-rewards-type-value, &__results-rewards-rate-value {
+  &__results-value-value,
+  &__results-rewards-type-value,
+  &__results-rewards-rate-value {
     color: var(--body-color);
   }
 
-  &__form-input, &__form-textarea {
+  &__results-owned-badge {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    border: $border-width solid var(--primary-color);
+    border-radius: var(--border-radius);
+    padding: 0.2rem 0.8rem;
+  }
+
+  &__form-input,
+  &__form-textarea {
     background-color: var(--primary-background-color);
     outline: 0;
     padding: $input-padding;
-    border-radius: $border-radius;
+    border-radius: var(--border-radius);
     border: $border-width solid var(--primary-background-color);
     font-size: var(--base-font-size);
     color: var(--body-color);
     resize: none;
-    transition: border-color 0.2s;
-
-    &:focus {
-      border: 0.1rem solid var(--primary-color);
-    }
-  }
-
-  &__my-cards-intro {
-    padding: 1rem 0 2rem;
-    color: #a0a0a0;
-  }
-
-  &__my-cards-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    padding: 1rem 0 3rem;
-  }
-
-  &__my-card-item {
-    background-color: #222222;
-    border: 0.1rem solid #393939;
-    border-radius: var(--border-radius);
-    padding: 1.5rem 2rem;
-    cursor: pointer;
-    color: var(--body-color);
-    font-size: var(--base-font-size);
-    font-family: inherit;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
     transition: border-color var(--animation-duration);
 
-    &:hover {
+    &:focus {
       border-color: var(--primary-color);
     }
-
-    &--owned {
-      border-color: var(--primary-color);
-    }
-  }
-
-  &__my-card-badge {
-    font-size: 1.2rem;
-    color: var(--primary-color);
-    font-weight: 700;
   }
 
   &__merchants-link {
-    justify-content: right;
-    padding: 1rem;
+    justify-content: space-between;
+    padding: 1rem 0;
   }
 
   &__merchants-link-text {
     margin: unset;
     color: var(--primary-color);
   }
+
+  &__disclaimer {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 0.1rem solid #2a2a2a;
+  }
+
+  &__disclaimer-list {
+    margin: 0;
+    padding-left: 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+
+    li {
+      font-size: 1.3rem;
+      color: #606060;
+      line-height: 1.6;
+    }
+  }
+
+  &__disclaimer-link {
+    color: var(--primary-color);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__my-cards-intro {
+    padding: 1rem 0 2rem;
+    color: #a0a0a0;
+    margin: 0;
+  }
+
+  &__my-cards-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding-bottom: 3rem;
+  }
+
+  &__my-card-item {
+    padding: 1.5rem 2rem !important;
+    margin: 0 !important;
+    font-size: var(--base-font-size) !important;
+    font-weight: var(--base-font-weight) !important;
+    text-align: left !important;
+    transition: border-color var(--animation-duration);
+
+    &--owned {
+      border-color: var(--primary-color) !important;
+    }
+  }
+
+  &__my-card-badge {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-left: 0.8rem;
+  }
 }
 
 .merchants {
+  &__filters {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 0.1rem solid #2a2a2a;
+  }
+
+  &__filter-btn {
+    padding: 0.6rem 1.4rem;
+    background-color: transparent;
+    border: 0.1rem solid #393939;
+    border-radius: 10rem;
+    font-size: 1.4rem;
+    font-weight: var(--base-font-weight);
+    font-family: inherit;
+    color: #a0a0a0;
+    cursor: pointer;
+    transition: border-color var(--animation-duration), color var(--animation-duration);
+
+    &:hover {
+      border-color: var(--primary-color);
+      color: var(--primary-color);
+    }
+
+    &--active {
+      border-color: var(--primary-color);
+      color: var(--primary-color);
+    }
+  }
+
+  &__section-header {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 2rem 0 1.5rem;
+  }
+
+  &__section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--body-color);
+  }
+
+  &__section-count {
+    font-size: var(--base-font-size);
+    color: #a0a0a0;
+  }
+
   &__container {
-    align-items: anchor-center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-content: flex-start;
+    padding-top: 0.5rem;
   }
 
   &__item {
-    width: 15%;
+    padding: 1rem 1.5rem !important;
+    margin: 0 !important;
+    font-size: var(--base-font-size) !important;
+    font-weight: var(--base-font-weight) !important;
+    text-align: left !important;
+    width: fit-content;
   }
 }

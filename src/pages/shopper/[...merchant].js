@@ -11,6 +11,29 @@ import 'styles/pages/shopper.scss';
 const CLASSNAME = 'shop';
 const LS_KEY = 'shopper_my_cards';
 
+const ISSUES_URL = 'https://github.com/ngudbhav/ngudbhav.github.io/issues/new';
+
+const Disclaimer = () => (
+  <div className={`${CLASSNAME}__disclaimer`}>
+    <ul className={`${CLASSNAME}__disclaimer-list`}>
+      <li>This tool is for informational purposes only and does not constitute financial advice.</li>
+      <li>Reward rates and cashback offers change frequently. Always verify current rates with your card issuer before making a purchase decision.</li>
+      <li>This is a community-maintained list. Data may be incomplete, outdated, or inaccurate.</li>
+      <li>We are not affiliated with any bank, card issuer, or merchant listed on this portal.</li>
+      <li>Actual rewards may vary based on your card variant, membership tier, offer period, and applicable terms and conditions.</li>
+      <li>Some offers may require minimum transaction amounts, specific payment modes, or prior activation.</li>
+      <li>We are not responsible for any financial loss arising from reliance on this data.</li>
+      <li>
+        Found incorrect or outdated data?{' '}
+        <a href={ISSUES_URL} target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__disclaimer-link`}>
+          Report an issue
+        </a>
+        .
+      </li>
+    </ul>
+  </div>
+);
+
 const NoResults = () => (
   <Box className={`${CLASSNAME}__no-results--empty`} component="div" externalLink={false}>
     No results found.
@@ -86,11 +109,17 @@ const Results = ({ results, myCards }) => (
 );
 
 const Suggestions = ({ suggestions, clickHandler }) => (
-  <div className={`${CLASSNAME}__suggestions flex-row space-between overflow-x-scroll`}>
+  <div className={`${CLASSNAME}__suggestions`}>
     {suggestions.map((suggestion, index) => (
-      <Box className={`${CLASSNAME}__suggestion-item full-width`} component="div" externalLink={false} onClick={clickHandler} key={`suggestion-${index}`} data-name={suggestion.name}>
+      <div
+        className={`${CLASSNAME}__suggestion-item`}
+        onClick={clickHandler}
+        key={`suggestion-${index}`}
+        data-name={suggestion.name}
+        style={{ '--i': index }}
+      >
         {suggestion.name}
-      </Box>
+      </div>
     ))}
   </div>
 );
@@ -154,6 +183,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
         </div>
       </Box>
       <Results results={results} myCards={myCards} />
+      <Disclaimer />
     </>
   );
 });

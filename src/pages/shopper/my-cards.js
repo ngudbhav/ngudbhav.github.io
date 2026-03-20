@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby';
 
 import Meta from 'components/OpenGraph';
 import Layout from 'components/Layout';
+import Box from 'components/Box';
 
 import 'styles/pages/shopper.scss';
 
@@ -22,14 +23,16 @@ const saveMyCards = (cards) => {
 };
 
 const CardItem = ({ card, owned, onToggle }) => (
-  <button
+  <Box
     className={`${CLASSNAME}__my-card-item ${owned ? `${CLASSNAME}__my-card-item--owned` : ''}`}
+    component="div"
+    externalLink={false}
     onClick={() => onToggle(card)}
     aria-pressed={owned}
   >
-    <span className={`${CLASSNAME}__my-card-name`}>{card}</span>
+    {card}
     {owned && <span className={`${CLASSNAME}__my-card-badge`}>Owned</span>}
-  </button>
+  </Box>
 );
 
 const Body = React.memo(({ data }) => {

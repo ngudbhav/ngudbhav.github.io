@@ -33,3 +33,15 @@
     opacity: 1;
   }
 }
+
+@keyframes fade-down {
+  from {
+    transform: translateY(-0.6rem);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

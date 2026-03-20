@@ -1,4 +1,5 @@
 const SUCCESS_CODE = 200;
+const MAX_RESULTS = 6;
 
 export const contactSubmit = async (formData) => {
   const object = {};
@@ -21,7 +22,7 @@ export const contactSubmit = async (formData) => {
 export const shopperMerchants = (event, data) => {
   const query = event.target.value;
   const input = normalize(query);
-  return data.allMerchantsJson.nodes.filter(m => m.name.toLowerCase().includes(input));
+  return data.allMerchantsJson.nodes.filter(m => m.name.toLowerCase().includes(input)).slice(0, MAX_RESULTS);
 }
 
 export const shopper = (inputQuery, data) => {
