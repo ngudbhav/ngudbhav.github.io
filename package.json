@@ -15,7 +15,8 @@
     "start": "gatsby develop",
     "build": "cp -R ./src/api ./api && gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "validate": "node scripts/validate-merchants.js"
   },
   "dependencies": {
     "gatsby": "^5.14.0",

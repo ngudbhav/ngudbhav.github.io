@@ -12,21 +12,38 @@ const CLASSNAME = 'shop';
 const LS_KEY = 'shopper_my_cards';
 
 const ISSUES_URL = 'https://github.com/ngudbhav/ngudbhav.github.io/issues/new';
+const DATA_URL = 'https://github.com/ngudbhav/ngudbhav.github.io/blob/master/src/data/merchants.json';
+const CONTRIBUTE_URL = 'https://github.com/ngudbhav/ngudbhav.github.io/blob/master/src/data/merchants.json';
+const SUBREDDIT_URL = 'https://www.reddit.com/r/CreditCardsIndia/';
 
 const Disclaimer = () => (
   <div className={`${CLASSNAME}__disclaimer`}>
+    <div className={`${CLASSNAME}__disclaimer-community`}>
+      This data is maintained by the{' '}
+      <a href={SUBREDDIT_URL} target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__disclaimer-link`}>
+        r/CreditCardsIndia
+      </a>
+      {' '}community. The underlying dataset is{' '}
+      <a href={DATA_URL} target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__disclaimer-link`}>
+        publicly available on GitHub
+      </a>
+      {' '}— anyone can contribute by opening a pull request.
+    </div>
     <ul className={`${CLASSNAME}__disclaimer-list`}>
       <li>This tool is for informational purposes only and does not constitute financial advice.</li>
       <li>Reward rates and cashback offers change frequently. Always verify current rates with your card issuer before making a purchase decision.</li>
-      <li>This is a community-maintained list. Data may be incomplete, outdated, or inaccurate.</li>
+      <li>Data may be incomplete, outdated, or inaccurate. We are not responsible for any financial loss arising from reliance on this data.</li>
       <li>We are not affiliated with any bank, card issuer, or merchant listed on this portal.</li>
       <li>Actual rewards may vary based on your card variant, membership tier, offer period, and applicable terms and conditions.</li>
       <li>Some offers may require minimum transaction amounts, specific payment modes, or prior activation.</li>
-      <li>We are not responsible for any financial loss arising from reliance on this data.</li>
       <li>
         Found incorrect or outdated data?{' '}
         <a href={ISSUES_URL} target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__disclaimer-link`}>
           Report an issue
+        </a>
+        {' '}or{' '}
+        <a href={CONTRIBUTE_URL} target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__disclaimer-link`}>
+          submit a fix directly
         </a>
         .
       </li>
