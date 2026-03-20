@@ -144,6 +144,15 @@ $border-width: 0.1rem;
     margin-top: 4rem;
     padding-top: 2rem;
     border-top: 0.1rem solid #2a2a2a;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+  }
+
+  &__disclaimer-community {
+    font-size: 1.4rem;
+    color: #a0a0a0;
+    line-height: 1.6;
   }
 
   &__disclaimer-list {
