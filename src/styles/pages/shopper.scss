@@ -64,6 +64,19 @@ $border-width: 0.1rem;
   &__results-name {
     padding-top: 0;
     color: var(--body-color);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  &__results-owned-badge {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    border: 0.1rem solid var(--primary-color);
+    border-radius: 0.4rem;
+    padding: 0.2rem 0.6rem;
   }
 
   &__results-rewards-rate, &__results-rewards-type, &__results-value {
@@ -92,6 +105,47 @@ $border-width: 0.1rem;
     &:focus {
       border: 0.1rem solid var(--primary-color);
     }
+  }
+
+  &__my-cards-intro {
+    padding: 1rem 0 2rem;
+    color: #a0a0a0;
+  }
+
+  &__my-cards-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 1rem 0 3rem;
+  }
+
+  &__my-card-item {
+    background-color: #222222;
+    border: 0.1rem solid #393939;
+    border-radius: var(--border-radius);
+    padding: 1.5rem 2rem;
+    cursor: pointer;
+    color: var(--body-color);
+    font-size: var(--base-font-size);
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: border-color var(--animation-duration);
+
+    &:hover {
+      border-color: var(--primary-color);
+    }
+
+    &--owned {
+      border-color: var(--primary-color);
+    }
+  }
+
+  &__my-card-badge {
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    font-weight: 700;
   }
 
   &__merchants-link {

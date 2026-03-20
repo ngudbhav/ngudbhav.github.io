@@ -9,6 +9,7 @@ import { shopper, shopperMerchants } from "utils/handlers/form";
 import 'styles/pages/shopper.scss';
 
 const CLASSNAME = 'shop';
+const LS_KEY = 'shopper_my_cards';
 
 const NoResults = () => (
   <Box className={`${CLASSNAME}__no-results--empty`} component="div" externalLink={false}>
@@ -16,52 +17,71 @@ const NoResults = () => (
   </Box>
 );
 
-const ResultsUi = ({ results }) => (
-  <div className={`${CLASSNAME}__results-container`}>
-    {results.recommendedCards.sort((a, b) => a.rank - b.rank).map((result, index) => (
-      <Box className={`${CLASSNAME}__results`} component="div" key={result.id} externalLink={false}>
-        {index === 0 && (
-          <div className={`${CLASSNAME}__results-comment`}>
-            Best Card
-          </div>
-        )}
-        <div className={`${CLASSNAME}__results-name h2`}>
-          {result.card}
-        </div>
-        <div className={`${CLASSNAME}__results-rewards-rate flex-row space-between`}>
-          <div className={`${CLASSNAME}__results-rewards-rate-title`}>
-            Reward Rate
-          </div>
-          <div className={`${CLASSNAME}__results-rewards-rate-value`}>
-            {result.rewardRate}X
-          </div>
-        </div>
-        <div className={`${CLASSNAME}__results-rewards-type flex-row space-between`}>
-          <div className={`${CLASSNAME}__results-rewards-type-title`}>
-            Rewards Type:
-          </div>
-          <div className={`${CLASSNAME}__results-rewards-type-value`}>
-            {result.rewardType}
-          </div>
-        </div>
-        <div className={`${CLASSNAME}__results-value flex-row space-between`}>
-          <div className={`${CLASSNAME}__results-value-title`}>
-            Value per ₹100 spent:
-          </div>
-          <div className={`${CLASSNAME}__results-value-value`}>
-            ₹{result.valuePer100}
-          </div>
-        </div>
-      </Box>
-    ))}
-  </div>
-)
+const ResultsUi = ({ results, myCards }) => {
+  const hasMyCards = myCards.length > 0;
+  const sorted = [...results.recommendedCards].sort((a, b) => {
+    if (hasMyCards) {
+      const aOwned = myCards.includes(a.card);
+      const bOwned = myCards.includes(b.card);
+      if (aOwned !== bOwned) return aOwned ? -1 : 1;
+    }
+    return a.rank - b.rank;
+  });
+  const topIsOwned = hasMyCards && myCards.includes(sorted[0]?.card);
 
-const Results = ({ results }) => (
+  return (
+    <div className={`${CLASSNAME}__results-container`}>
+      {sorted.map((result, index) => {
+        const owned = myCards.includes(result.card);
+        return (
+          <Box className={`${CLASSNAME}__results`} component="div" key={result.card} externalLink={false}>
+            {index === 0 && (
+              <div className={`${CLASSNAME}__results-comment`}>
+                {topIsOwned ? 'Best for You' : 'Best Card'}
+              </div>
+            )}
+            <div className={`${CLASSNAME}__results-name h2`}>
+              {result.card}
+              {owned && (
+                <span className={`${CLASSNAME}__results-owned-badge`}>You own this</span>
+              )}
+            </div>
+            <div className={`${CLASSNAME}__results-rewards-rate flex-row space-between`}>
+              <div className={`${CLASSNAME}__results-rewards-rate-title`}>
+                Reward Rate
+              </div>
+              <div className={`${CLASSNAME}__results-rewards-rate-value`}>
+                {result.rewardRate}X
+              </div>
+            </div>
+            <div className={`${CLASSNAME}__results-rewards-type flex-row space-between`}>
+              <div className={`${CLASSNAME}__results-rewards-type-title`}>
+                Rewards Type:
+              </div>
+              <div className={`${CLASSNAME}__results-rewards-type-value`}>
+                {result.rewardType}
+              </div>
+            </div>
+            <div className={`${CLASSNAME}__results-value flex-row space-between`}>
+              <div className={`${CLASSNAME}__results-value-title`}>
+                Value per ₹100 spent:
+              </div>
+              <div className={`${CLASSNAME}__results-value-value`}>
+                ₹{result.valuePer100}
+              </div>
+            </div>
+          </Box>
+        );
+      })}
+    </div>
+  );
+};
+
+const Results = ({ results, myCards }) => (
   !results || Object.keys(results).length === 0 ? (
     <NoResults />
   ) : (
-    <ResultsUi results={results} />
+    <ResultsUi results={results} myCards={myCards} />
   )
 );
 
@@ -79,6 +99,7 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
   const [results, setResults] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
   const [query, setQuery] = useState(initialQuery.toLowerCase());
+  const [myCards, setMyCards] = useState([]);
   const suggestMerchants = useCallback((event) => {
     setQuery(event.target.value);
     if (event.target.value.length === 0) {
@@ -105,6 +126,11 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
     }
   }, [suggestions]);
   useEffect(() => {
+    try {
+      setMyCards(JSON.parse(localStorage.getItem(LS_KEY)) || []);
+    } catch {
+      // localStorage unavailable
+    }
     if (query && query.length > 0) {
       const result = shopper(query, data);
       setResults(result);
@@ -122,9 +148,12 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
           <Link to={`/shopper/merchants`} className={`${CLASSNAME}__merchants-link-text h3`}>
             Browse all merchants
           </Link>
+          <Link to={`/shopper/my-cards`} className={`${CLASSNAME}__merchants-link-text h3`}>
+            My Cards
+          </Link>
         </div>
       </Box>
-      <Results results={results} />
+      <Results results={results} myCards={myCards} />
     </>
   );
 });
