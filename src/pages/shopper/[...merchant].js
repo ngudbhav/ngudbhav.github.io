@@ -152,9 +152,11 @@ const Body = React.memo(({ data, query: initialQuery = '' }) => {
       setSuggestions([]);
       return;
     }
-    const result = shopperMerchants(event, data);
+    const result = shopperMerchants(event, data).filter(
+      m => m.name.toLowerCase() !== initialQuery.toLowerCase()
+    );
     setSuggestions(result);
-  }, []);
+  }, [initialQuery]);
   const setMerchant = useCallback((event) => {
     const inputQuery = event.currentTarget.dataset.name;
     if (inputQuery) {
