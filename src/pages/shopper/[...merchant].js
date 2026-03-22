@@ -121,7 +121,12 @@ const Results = ({ results, myCards }) => (
   !results || Object.keys(results).length === 0 ? (
     <NoResults />
   ) : (
-    <ResultsUi results={results} myCards={myCards} />
+    <>
+      <div className={`${CLASSNAME}__results-heading`}>
+        Results for <span className={`${CLASSNAME}__results-heading-merchant`}>{results.name}</span>
+      </div>
+      <ResultsUi results={results} myCards={myCards} />
+    </>
   )
 );
 
