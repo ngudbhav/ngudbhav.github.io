@@ -63,9 +63,7 @@ const Body = React.memo(({ transitionStatus }) => {
       <CanvasBackground className="canvas" />
       <Container>
         <Links />
-        <center>
-          <a href="https://indielaunch.dev/?ref=badge" target="_blank" rel="noopener"><img src="https://indielaunch.dev/badges/indielaunch-dark.svg" alt="Featured on IndieLaunch" width="200" height="54" /></a>
-        </center>
+        <a href="https://indielaunch.dev/?ref=badge" target="_blank" rel="noopener"><img src="https://indielaunch.dev/badges/indielaunch-dark.svg" alt="Featured on IndieLaunch" width="200" height="54" /></a>
       </Container>
     </Layout>
   );
